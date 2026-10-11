@@ -193,3 +193,29 @@ El desarrollo permitió aplicar preparación, control y análisis de datos combi
 ---
 
 **Alcance:** proyecto académico y de portfolio desarrollado con datos sintéticos. Los resultados y recomendaciones corresponden exclusivamente al escenario simulado.
+
+## Evidencias del proyecto
+
+### 1. Dashboard ejecutivo en Excel
+
+Panel comercial desarrollado en Excel, con indicadores de facturación efectiva, margen bruto, rentabilidad y ventas confirmadas, acompañado de comparativos regionales.
+
+![Dashboard ejecutivo](images/01_dashboard_ejecutivo.png)
+
+### 2. Control operativo y conciliación financiera
+
+Hoja de control destinada al seguimiento de devoluciones, verificación de integridad referencial y conciliación entre facturación efectiva e importes reintegrados.
+
+![Control de operaciones](images/02_control_operaciones.png)
+
+### 3. Análisis SQL: productos con stock crítico
+
+Consulta que identifica productos con existencias iguales o inferiores al mínimo establecido y contrasta su situación con la demanda registrada durante el período reciente.
+
+![Consulta SQL de stock crítico](images/03_sql_stock_critico.png)
+
+### 4. Validación SQL: consistencia cronológica de clientes
+
+Control de calidad que identifica registros con fechas de alta anteriores al nacimiento. Las inconsistencias se documentan sin modificar los datos originales cuando no existe una fuente válida de referencia.
+
+![Validación cronológica de clientes](images/04_sql_validacion_clientes.png)
