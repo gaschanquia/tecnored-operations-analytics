@@ -1,0 +1,321 @@
+devolucion_id,fecha_devolucion,venta_id,cliente_id,producto_id,sucursal_id,cantidad_devuelta,motivo,estado,importe_reintegrado
+1,2025-03-25,3749,4996,7064,8,1,Producto defectuoso,reintegrada,207853.67
+2,2024-02-08,1715,2396,7413,7,1,Producto defectuoso,reintegrada,29953.29
+3,2026-05-13,1177,1963,7356,3,1,Cambio de opinión,reintegrada,41631.34
+4,2025-04-04,2453,747,7258,3,1,Cambio de opinión,rechazada,0
+5,2025-08-07,4806,651,7409,4,1,Daño en embalaje,en_revision,94598.05
+6,2025-01-01,2418,4963,7216,7,1,Producto incorrecto,reintegrada,92172.62
+7,2024-12-03,2255,3479,7293,1,2,Producto defectuoso,reintegrada,62656.12
+8,2025-02-02,2780,2654,7057,4,1,Producto defectuoso,reintegrada,198948.36
+9,2024-04-29,1720,534,7237,6,3,Producto defectuoso,reintegrada,618385.8
+10,2026-06-04,3727,2314,7466,6,1,Daño en embalaje,reintegrada,545921.47
+11,2026-07-03,5124,3270,7293,3,1,Producto incorrecto,en_revision,28195.25
+12,2024-12-05,1108,2329,7218,3,3,Producto defectuoso,rechazada,0
+13,2024-11-13,3629,1676,7191,7,2,Producto defectuoso,reintegrada,1094676.28
+14,2025-03-03,4378,4259,7013,2,2,Producto incorrecto,reintegrada,148130.2
+15,2026-03-19,3232,2277,7202,8,1,Cambio de opinión,reintegrada,44563.97
+16,2025-07-23,5270,502,7303,5,1,Cambio de opinión,rechazada,0
+17,2026-06-17,85,2981,7303,1,1,Producto defectuoso,reintegrada,350194.27
+18,2024-07-07,5820,799,7405,2,1,Producto defectuoso,en_revision,135595.12
+19,2024-08-29,3021,3426,7041,4,1,Producto defectuoso,reintegrada,504673.88
+20,2025-10-21,5575,2414,7103,8,1,Cambio de opinión,reintegrada,70370.59
+21,2025-06-18,5659,4997,7331,1,1,Daño en embalaje,reintegrada,331068.51
+22,2025-04-12,1886,3351,4005,4,3,Producto defectuoso,reintegrada,719970
+23,2024-11-28,5806,2624,7061,1,1,Cambio de opinión,en_revision,325933.28
+24,2024-10-23,86,2132,7125,5,2,Producto defectuoso,reintegrada,331492.08
+25,2024-12-12,5849,2373,7189,6,1,Producto defectuoso,en_revision,783130.32
+26,2024-11-15,946,3568,7219,8,1,Producto defectuoso,reintegrada,760994.89
+27,2025-07-09,3078,4827,7044,6,2,Producto defectuoso,reintegrada,96198.92
+28,2026-08-12,2075,4484,7174,7,1,Producto incorrecto,reintegrada,4250.29
+29,2026-05-25,4482,1979,7153,1,1,Producto defectuoso,reintegrada,440000.32
+30,2026-02-19,5006,1742,7102,6,1,Producto defectuoso,reintegrada,112863.7
+31,2024-09-17,4881,622,7449,7,2,Daño en embalaje,en_revision,88046.4
+32,2026-07-04,3316,3440,7064,7,1,Producto defectuoso,reintegrada,218793.34
+33,2025-03-14,1116,4396,7124,1,1,Producto defectuoso,reintegrada,205229.46
+34,2024-08-13,5657,765,7097,2,1,Producto defectuoso,reintegrada,658436.44
+35,2026-05-16,2584,2965,7248,4,1,Producto defectuoso,reintegrada,377319.85
+36,2024-03-23,5941,2830,7236,7,1,Producto defectuoso,rechazada,0
+37,2025-05-03,3922,1865,7273,3,1,Daño en embalaje,reintegrada,336690.61
+38,2026-01-12,5621,3215,7043,8,2,Cambio de opinión,reintegrada,109129.16
+39,2024-05-02,368,1633,1003,7,1,Producto defectuoso,reintegrada,349990
+40,2024-12-09,2215,4095,1001,3,1,Daño en embalaje,en_revision,299990
+41,2026-08-09,140,3018,7378,1,2,Producto defectuoso,en_revision,436171.02
+42,2025-10-27,981,1341,7396,3,1,Cambio de opinión,reintegrada,87667.16
+43,2024-05-30,2855,626,7303,4,1,Producto defectuoso,reintegrada,369649.5
+44,2025-10-11,3794,4254,7377,8,1,Producto defectuoso,rechazada,0
+45,2025-04-28,2171,4535,7237,2,1,Cambio de opinión,reintegrada,229031.78
+46,2024-09-30,345,158,7010,3,3,Producto defectuoso,reintegrada,900409.44
+47,2026-01-15,1722,3131,7453,7,2,Producto defectuoso,reintegrada,627893.06
+48,2026-09-02,3711,4576,7293,3,1,Cambio de opinión,reintegrada,28195.25
+49,2025-09-05,2653,3041,7347,5,1,Daño en embalaje,reintegrada,404608.07
+50,2025-12-28,4073,2298,7153,6,1,Cambio de opinión,reintegrada,440000.32
+51,2025-08-12,3683,472,7102,5,1,Producto defectuoso,reintegrada,125404.11
+52,2024-12-17,3386,2285,7401,8,3,Producto defectuoso,reintegrada,1046346.66
+53,2026-02-10,4665,62,7061,5,1,Cambio de opinión,reintegrada,293339.95
+54,2025-08-21,5179,1551,7044,5,1,Producto defectuoso,reintegrada,48099.46
+55,2024-04-11,4469,1613,7039,1,1,Producto defectuoso,reintegrada,755751.94
+56,2024-12-30,2695,1663,7389,3,1,Cambio de opinión,reintegrada,37737.39
+57,2025-07-05,4462,3486,7151,6,2,Producto incorrecto,reintegrada,659799.28
+58,2026-08-22,729,4526,7004,7,2,Daño en embalaje,en_revision,352538.56
+59,2025-11-11,1628,3958,7341,2,3,Producto defectuoso,reintegrada,1358256.57
+60,2026-03-25,1506,3592,7462,8,2,Daño en embalaje,reintegrada,253082.6
+61,2024-10-17,466,2527,7048,3,1,Cambio de opinión,reintegrada,230412.18
+62,2025-03-14,621,2923,7331,8,1,Daño en embalaje,reintegrada,331068.51
+63,2024-08-05,475,2484,7108,4,1,Cambio de opinión,reintegrada,238940.33
+64,2025-04-01,3036,3922,7322,5,2,Cambio de opinión,reintegrada,88359.86
+65,2025-09-02,426,2634,7126,7,1,Producto defectuoso,reintegrada,83402.41
+66,2025-09-05,177,1414,7401,2,1,Daño en embalaje,reintegrada,410332.02
+67,2025-11-16,3138,2111,7466,2,2,Cambio de opinión,reintegrada,1152500.88
+68,2026-09-04,373,1898,7410,5,1,Cambio de opinión,reintegrada,182380.56
+69,2026-04-12,25,2168,7047,4,2,Cambio de opinión,reintegrada,1046654.78
+70,2025-06-27,2050,1966,7166,7,1,Producto defectuoso,reintegrada,513487.77
+71,2025-11-10,107,3551,7202,4,2,Cambio de opinión,reintegrada,93818.88
+72,2025-07-18,3543,1989,7464,8,1,Producto defectuoso,reintegrada,54524.3
+73,2026-04-28,1795,1955,7393,5,1,Producto defectuoso,reintegrada,399875.84
+74,2024-11-12,5658,1484,7302,1,1,Cambio de opinión,reintegrada,230099.45
+75,2026-07-18,2627,1426,7200,3,1,Cambio de opinión,reintegrada,279226.64
+76,2024-07-03,3600,4210,7358,7,2,Producto defectuoso,en_revision,124974.36
+77,2026-03-10,4324,3873,7464,7,1,Producto defectuoso,reintegrada,51798.08
+78,2025-03-25,4111,1413,7409,5,3,Cambio de opinión,reintegrada,298730.67
+79,2025-05-21,5125,3144,7322,7,1,Producto incorrecto,rechazada,0
+80,2025-06-08,2881,1184,7457,7,1,Cambio de opinión,reintegrada,616074.63
+81,2026-01-19,4568,3631,7453,2,1,Daño en embalaje,reintegrada,331388.01
+82,2026-06-30,5445,234,7055,4,1,Cambio de opinión,reintegrada,36370.91
+83,2024-09-19,3502,4204,7464,5,1,Producto defectuoso,reintegrada,54524.3
+84,2026-07-09,314,3269,7049,1,2,Producto defectuoso,reintegrada,204069.44
+85,2025-11-17,1635,766,7232,8,2,Producto defectuoso,reintegrada,82711.76
+86,2024-10-03,2265,3693,7347,3,4,Producto incorrecto,reintegrada,1703612.92
+87,2026-07-13,315,1393,7283,3,1,Producto defectuoso,reintegrada,64669.95
+88,2025-04-06,2286,2499,7287,6,1,Producto defectuoso,reintegrada,601974.61
+89,2026-05-09,3311,567,7379,7,2,Daño en embalaje,reintegrada,225735.92
+90,2025-04-06,3913,469,7200,4,3,Daño en embalaje,reintegrada,753911.94
+91,2025-08-03,5295,1452,7237,3,1,Cambio de opinión,reintegrada,206128.6
+92,2025-09-19,3852,692,7347,2,1,Producto defectuoso,reintegrada,383312.91
+93,2024-08-28,3416,3007,7057,6,1,Producto incorrecto,reintegrada,234056.9
+94,2024-08-28,3414,2733,7053,6,1,Producto defectuoso,reintegrada,26235.9
+95,2026-02-25,334,4260,7378,1,1,Producto defectuoso,reintegrada,218085.51
+96,2025-08-16,1690,3255,2004,6,1,Daño en embalaje,reintegrada,299990
+97,2025-03-02,3479,4067,2004,5,1,Producto incorrecto,reintegrada,299990
+98,2024-03-08,3849,1744,7004,3,1,Producto incorrecto,en_revision,186062.01
+99,2025-06-04,825,1624,2004,4,1,Cambio de opinión,reintegrada,299990
+100,2024-09-09,4276,1245,7292,6,1,Producto incorrecto,reintegrada,54860.18
+101,2026-06-03,3406,2537,7322,6,1,Producto defectuoso,reintegrada,44179.93
+102,2024-10-17,5574,192,7331,6,1,Producto incorrecto,reintegrada,331068.51
+103,2024-02-29,4708,2012,7048,6,1,Daño en embalaje,reintegrada,230412.18
+104,2025-11-29,4451,3636,7237,2,2,Cambio de opinión,reintegrada,458063.56
+105,2026-02-25,4157,2516,7377,6,1,Producto defectuoso,rechazada,0
+106,2026-01-12,5650,1127,7248,1,1,Daño en embalaje,reintegrada,337601.97
+107,2024-02-23,2454,1745,7462,1,1,Cambio de opinión,rechazada,0
+108,2026-09-01,2194,3269,7356,1,1,Producto incorrecto,reintegrada,41631.34
+109,2026-07-26,1986,1770,7303,7,2,Daño en embalaje,reintegrada,739299
+110,2025-06-30,2283,181,7039,8,1,Daño en embalaje,reintegrada,680176.75
+111,2026-07-21,4575,4702,7396,2,1,Producto defectuoso,reintegrada,78900.44
+112,2025-05-22,1699,2298,7425,3,1,Daño en embalaje,reintegrada,143512.91
+113,2024-02-02,2721,433,4004,1,2,Daño en embalaje,reintegrada,199980
+114,2024-07-11,4614,3018,7125,5,1,Cambio de opinión,reintegrada,149171.44
+115,2026-05-06,4771,2457,4004,6,1,Producto defectuoso,en_revision,94990.5
+116,2024-03-02,595,1392,7216,4,1,Daño en embalaje,en_revision,92172.62
+117,2026-07-22,572,4300,7108,1,1,Producto defectuoso,reintegrada,251516.14
+118,2025-11-09,4788,554,7408,1,2,Producto defectuoso,reintegrada,447372.24
+119,2024-05-22,3097,4786,7460,3,2,Producto defectuoso,rechazada,0
+120,2025-02-27,4809,4582,4004,4,2,Producto defectuoso,reintegrada,199980
+121,2024-07-13,5837,479,7232,8,1,Cambio de opinión,reintegrada,43532.51
+122,2026-04-19,767,4441,5006,7,1,Producto defectuoso,reintegrada,39990
+123,2025-11-12,354,3956,7144,7,1,Cambio de opinión,reintegrada,6141
+124,2024-04-18,308,777,7420,7,1,Producto incorrecto,reintegrada,79584.88
+125,2026-03-04,5590,2195,7239,5,1,Cambio de opinión,rechazada,0
+126,2024-12-08,9,3575,7103,6,1,Cambio de opinión,reintegrada,66852.06
+127,2026-05-25,3092,1339,7004,1,2,Producto defectuoso,reintegrada,332953.08
+128,2026-08-24,4919,1109,7410,2,3,Cambio de opinión,rechazada,0
+129,2025-01-13,4333,2883,7469,1,1,Cambio de opinión,reintegrada,111642.28
+130,2025-11-20,4386,71,7040,4,1,Producto incorrecto,rechazada,0
+131,2026-03-22,1775,545,7420,4,1,Producto incorrecto,reintegrada,79584.88
+132,2026-03-15,4908,4060,7041,3,1,Cambio de opinión,en_revision,504673.88
+133,2026-07-30,5031,2147,7040,2,1,Producto defectuoso,reintegrada,376633.96
+134,2025-05-14,872,997,7464,2,2,Daño en embalaje,reintegrada,98143.74
+135,2024-09-04,1874,241,7461,3,1,Producto incorrecto,reintegrada,372472.48
+136,2024-06-03,5834,3801,7126,8,1,Producto incorrecto,en_revision,83402.41
+137,2026-07-31,4400,916,7174,6,2,Producto incorrecto,reintegrada,8947.98
+138,2026-05-21,3094,1789,7322,7,1,Producto defectuoso,reintegrada,41970.93
+139,2026-03-06,38,379,7302,5,3,Daño en embalaje,en_revision,726629.85
+140,2025-01-30,2274,4963,7462,7,1,Producto defectuoso,reintegrada,120214.24
+141,2024-01-29,1554,3625,7251,6,1,Producto defectuoso,rechazada,0
+142,2025-06-15,580,1747,7401,1,3,Cambio de opinión,reintegrada,1230996.06
+143,2024-12-15,4282,1053,7046,3,1,Producto defectuoso,reintegrada,465070.26
+144,2024-04-03,5497,3457,7047,7,2,Cambio de opinión,reintegrada,1104802.28
+145,2025-02-17,2630,3079,7237,8,1,Producto defectuoso,en_revision,206128.6
+146,2025-10-28,187,654,7072,6,2,Producto defectuoso,reintegrada,206289.82
+147,2025-12-11,973,4881,7239,5,3,Producto defectuoso,reintegrada,98194.8
+148,2024-06-14,2823,916,7448,3,1,Cambio de opinión,reintegrada,48006.31
+149,2025-10-07,1529,2375,7302,1,1,Producto defectuoso,reintegrada,242209.95
+150,2026-04-03,4628,4479,7374,4,1,Cambio de opinión,reintegrada,55868.72
+151,2025-09-24,3478,3040,1001,8,1,Cambio de opinión,reintegrada,299990
+152,2026-09-15,1135,4811,7075,5,1,Producto defectuoso,rechazada,0
+153,2024-07-23,2832,241,2004,3,1,Daño en embalaje,rechazada,0
+154,2025-12-02,4097,3465,7196,5,1,Producto defectuoso,reintegrada,555665.37
+155,2026-09-19,2549,3019,7379,8,1,Producto incorrecto,reintegrada,118808.38
+156,2025-02-18,3192,2276,7075,1,1,Producto incorrecto,rechazada,0
+157,2024-06-22,1528,200,7389,6,2,Producto incorrecto,reintegrada,75474.78
+158,2026-07-17,5708,4078,7043,6,1,Cambio de opinión,reintegrada,54564.58
+159,2024-04-09,5126,894,7449,1,1,Daño en embalaje,reintegrada,48914.67
+160,2026-04-02,4940,4511,7292,5,1,Producto defectuoso,reintegrada,54860.18
+161,2025-04-06,5959,970,7046,1,2,Producto incorrecto,reintegrada,930140.52
+162,2025-02-05,4731,2019,7013,4,1,Producto defectuoso,reintegrada,70361.84
+163,2026-07-30,1175,3895,7064,2,1,Cambio de opinión,reintegrada,218793.34
+164,2024-12-15,4106,44,7393,4,1,Cambio de opinión,reintegrada,444306.49
+165,2024-08-05,2705,3040,7232,1,2,Daño en embalaje,reintegrada,82711.76
+166,2025-05-31,1311,3750,7144,2,1,Daño en embalaje,reintegrada,6141
+167,2025-12-16,3000,4616,7216,8,1,Producto defectuoso,reintegrada,82955.36
+168,2025-10-19,2004,3524,7166,7,1,Producto defectuoso,reintegrada,540513.44
+169,2024-08-24,2231,2255,7004,6,1,Daño en embalaje,reintegrada,186062.01
+170,2024-07-03,5406,3750,7287,1,2,Producto incorrecto,reintegrada,1083554.3
+171,2026-08-06,2474,1435,7469,8,1,Producto defectuoso,reintegrada,117518.19
+172,2025-09-15,533,2687,7040,4,2,Daño en embalaje,reintegrada,715604.52
+173,2026-01-01,5099,2196,7461,1,2,Cambio de opinión,reintegrada,827716.62
+174,2025-02-20,5654,1102,7283,8,1,Producto defectuoso,reintegrada,64669.95
+175,2026-05-26,1810,3820,7219,6,1,Producto defectuoso,reintegrada,760994.89
+176,2024-04-29,823,4093,7041,8,1,Daño en embalaje,reintegrada,560748.75
+177,2026-09-04,1552,1413,7396,2,1,Producto defectuoso,reintegrada,87667.16
+178,2026-08-15,435,4382,7236,7,2,Daño en embalaje,reintegrada,80138.6
+179,2025-01-09,4182,3227,7248,3,2,Producto defectuoso,rechazada,0
+180,2025-03-21,3712,680,7469,7,1,Cambio de opinión,reintegrada,111642.28
+181,2024-12-12,1426,4258,7072,5,1,Producto defectuoso,en_revision,97987.66
+182,2025-10-09,3482,4415,1001,4,1,Daño en embalaje,reintegrada,269991
+183,2025-01-30,2478,4511,7401,1,1,Producto defectuoso,reintegrada,410332.02
+184,2024-05-22,4217,4763,7249,1,2,Producto defectuoso,reintegrada,1554884.66
+185,2026-01-16,5951,1589,7013,5,2,Cambio de opinión,rechazada,0
+186,2026-06-30,2826,4772,7153,4,1,Cambio de opinión,reintegrada,440000.32
+187,2025-04-18,1721,894,7410,2,1,Cambio de opinión,reintegrada,214565.36
+188,2024-12-11,5949,3246,7153,3,1,Producto defectuoso,reintegrada,440000.32
+189,2026-03-07,5521,2241,7440,7,2,Producto defectuoso,reintegrada,542408.72
+190,2024-02-23,4052,472,4005,4,1,Producto defectuoso,reintegrada,215991
+191,2025-11-27,1115,4583,5006,6,1,Producto defectuoso,reintegrada,37990.5
+192,2024-01-10,1739,2844,7061,1,1,Producto defectuoso,reintegrada,325933.28
+193,2026-08-02,3772,4801,7174,1,1,Producto defectuoso,reintegrada,4026.59
+194,2024-04-14,3619,9,7325,4,1,Cambio de opinión,reintegrada,33025
+195,2025-10-15,1330,3858,2004,5,1,Producto defectuoso,reintegrada,269991
+196,2025-03-14,3936,3594,7304,2,1,Cambio de opinión,reintegrada,173053.42
+197,2025-04-13,451,3479,7049,7,1,Daño en embalaje,reintegrada,91294.22
+198,2024-09-15,2141,651,7108,4,1,Daño en embalaje,reintegrada,251516.14
+199,2025-09-07,3808,1567,7355,5,3,Cambio de opinión,reintegrada,113625.48
+200,2024-05-09,245,1420,4004,1,1,Producto defectuoso,reintegrada,94990.5
+201,2025-09-18,4790,1958,7455,5,3,Cambio de opinión,reintegrada,435343.83
+202,2024-04-24,2238,1947,7196,4,2,Producto defectuoso,reintegrada,1234811.94
+203,2026-03-27,1535,795,7088,6,4,Cambio de opinión,reintegrada,231152.52
+204,2026-04-05,5665,2891,7151,6,1,Producto incorrecto,en_revision,329899.64
+205,2024-11-01,4678,4682,3001,6,2,Cambio de opinión,reintegrada,219980
+206,2024-07-03,4215,114,4001,8,3,Producto incorrecto,reintegrada,1649970
+207,2024-06-06,346,2032,1001,6,3,Producto defectuoso,reintegrada,899970
+208,2024-03-25,450,1492,7249,2,2,Producto defectuoso,reintegrada,1554884.66
+209,2025-09-24,17,2777,7313,1,2,Producto defectuoso,reintegrada,112269.94
+210,2024-05-13,2843,4060,7061,7,3,Producto defectuoso,reintegrada,880019.85
+211,2026-02-21,5325,1116,7047,1,1,Producto defectuoso,reintegrada,581474.88
+212,2024-04-09,3571,48,7448,4,1,Producto incorrecto,en_revision,53340.34
+213,2025-05-24,1097,415,7292,4,1,Cambio de opinión,reintegrada,54860.18
+214,2025-10-10,1370,1955,7457,4,1,Producto incorrecto,reintegrada,616074.63
+215,2025-11-12,745,2703,7180,5,1,Producto incorrecto,reintegrada,100577.94
+216,2025-09-14,4995,1273,7216,1,1,Daño en embalaje,reintegrada,92172.62
+217,2026-04-03,1901,4982,1003,6,1,Producto incorrecto,reintegrada,332490.5
+218,2024-12-01,2366,4723,7322,6,1,Producto defectuoso,rechazada,0
+219,2025-11-13,759,4723,7242,3,1,Daño en embalaje,reintegrada,225543.68
+220,2026-05-09,2688,3730,7049,3,1,Cambio de opinión,reintegrada,107404.97
+221,2024-04-20,1382,423,7408,8,2,Cambio de opinión,reintegrada,402635.02
+222,2026-05-17,1256,1558,7449,5,1,Cambio de opinión,reintegrada,48914.67
+223,2025-02-14,1427,4916,7420,1,1,Producto incorrecto,reintegrada,88427.65
+224,2025-09-28,5606,2975,7421,1,2,Producto incorrecto,reintegrada,651648.54
+225,2025-07-20,90,562,7287,6,1,Producto defectuoso,reintegrada,601974.61
+226,2025-05-22,1943,4201,7251,8,2,Producto defectuoso,en_revision,862093.92
+227,2025-02-05,5064,2660,7064,3,1,Producto defectuoso,reintegrada,207853.67
+228,2024-11-23,1323,284,7466,5,1,Daño en embalaje,reintegrada,576250.44
+229,2024-11-26,2569,2124,2004,1,1,Producto defectuoso,reintegrada,299990
+230,2025-08-16,3007,291,7189,6,1,Cambio de opinión,reintegrada,824347.7
+231,2025-09-06,3276,4682,7103,8,1,Cambio de opinión,reintegrada,66852.06
+232,2025-08-15,1723,4276,7460,2,1,Producto incorrecto,reintegrada,337952.78
+233,2024-08-06,3769,2764,7260,5,1,Daño en embalaje,reintegrada,288760.03
+234,2026-05-30,4122,136,7469,7,1,Cambio de opinión,reintegrada,117518.19
+235,2026-03-06,1393,1535,7246,3,1,Cambio de opinión,reintegrada,88324.52
+236,2024-04-22,178,897,7124,2,1,Daño en embalaje,reintegrada,205229.46
+237,2024-10-10,2233,764,7466,6,1,Producto defectuoso,rechazada,0
+238,2024-11-18,2239,1062,7208,5,1,Cambio de opinión,en_revision,57202.85
+239,2024-10-16,5608,1570,7236,4,4,Producto incorrecto,reintegrada,188561.4
+240,2025-06-01,4924,3227,7072,3,1,Cambio de opinión,reintegrada,97987.66
+241,2025-06-09,1854,658,7108,7,1,Producto incorrecto,reintegrada,251516.14
+242,2024-02-25,5672,1425,7049,7,1,Cambio de opinión,reintegrada,107404.97
+243,2026-03-10,1897,1205,4005,2,3,Cambio de opinión,reintegrada,719970
+244,2026-07-07,1611,1095,7196,1,1,Producto incorrecto,reintegrada,586535.67
+245,2025-05-28,1127,4282,7374,6,1,Daño en embalaje,reintegrada,55868.72
+246,2024-09-06,418,2571,7453,1,3,Producto incorrecto,reintegrada,1046488.44
+247,2025-11-29,3083,4382,7413,4,1,Daño en embalaje,en_revision,29953.29
+248,2026-01-24,4738,4535,7163,4,1,Producto defectuoso,reintegrada,70561.54
+249,2026-08-01,2760,1293,7043,8,1,Producto defectuoso,reintegrada,51836.35
+250,2024-12-29,2628,3908,7425,7,1,Daño en embalaje,reintegrada,143512.91
+251,2024-08-30,2032,292,7355,7,2,Producto incorrecto,reintegrada,75750.32
+252,2024-12-15,2582,3289,7050,2,1,Daño en embalaje,reintegrada,225554.32
+253,2024-03-24,4712,212,7455,8,1,Producto defectuoso,reintegrada,145114.61
+254,2024-04-29,750,3251,7232,3,1,Cambio de opinión,reintegrada,43532.51
+255,2025-07-21,4689,606,7044,6,1,Cambio de opinión,reintegrada,48099.46
+256,2026-03-22,4306,1567,2004,3,1,Cambio de opinión,rechazada,0
+257,2024-09-25,5020,4441,7273,3,2,Cambio de opinión,reintegrada,673381.22
+258,2024-06-21,1036,1832,7248,4,1,Producto incorrecto,en_revision,377319.85
+259,2024-02-29,4877,2587,7283,2,1,Cambio de opinión,reintegrada,61436.45
+260,2024-02-22,5554,4685,7236,7,1,Producto defectuoso,en_revision,47140.35
+261,2025-08-24,620,4441,7026,2,1,Cambio de opinión,reintegrada,37729.84
+262,2024-03-09,958,1205,7466,8,1,Producto defectuoso,reintegrada,606579.41
+263,2024-06-17,5910,2348,7461,6,1,Daño en embalaje,en_revision,413858.31
+264,2024-08-26,4896,3380,1001,1,1,Producto incorrecto,reintegrada,299990
+265,2024-11-30,4357,4926,7040,5,1,Cambio de opinión,rechazada,0
+266,2024-12-07,2672,3185,7191,3,1,Producto incorrecto,reintegrada,547338.14
+267,2025-02-19,1100,3774,7355,1,1,Daño en embalaje,reintegrada,37875.16
+268,2025-07-23,1190,1345,7302,6,2,Cambio de opinión,reintegrada,484419.9
+269,2026-03-11,3937,1490,7075,2,1,Cambio de opinión,reintegrada,139799.76
+270,2024-09-04,628,684,7260,4,1,Cambio de opinión,reintegrada,273562.14
+271,2024-05-09,433,2649,7034,2,1,Cambio de opinión,reintegrada,181854.35
+272,2026-07-03,3371,627,7126,2,1,Producto defectuoso,reintegrada,83402.41
+273,2026-04-04,3162,4396,7111,3,1,Daño en embalaje,reintegrada,32853.81
+274,2024-04-04,2748,3041,7153,4,2,Producto defectuoso,reintegrada,880000.64
+275,2025-06-07,2743,189,7448,1,1,Producto defectuoso,reintegrada,53340.34
+276,2025-03-13,339,2457,7358,6,3,Cambio de opinión,reintegrada,159342.3
+277,2025-01-31,1704,4255,4001,5,4,Producto incorrecto,reintegrada,2199960
+278,2025-06-08,2196,3969,7292,7,1,Producto defectuoso,reintegrada,52117.17
+279,2025-02-22,4956,4863,7242,2,1,Daño en embalaje,en_revision,213672.96
+280,2025-08-25,3757,766,4001,4,1,Cambio de opinión,reintegrada,549990
+281,2024-11-23,2279,626,7072,3,1,Producto defectuoso,reintegrada,103144.91
+282,2026-08-12,4068,3794,7144,3,1,Producto defectuoso,en_revision,5833.95
+283,2024-04-08,2272,1056,7202,8,2,Producto defectuoso,en_revision,93818.88
+284,2025-12-02,807,3946,7198,1,2,Cambio de opinión,reintegrada,387194.84
+285,2025-04-01,1350,1651,7196,3,2,Cambio de opinión,reintegrada,1234811.94
+286,2024-07-03,1488,74,7004,8,3,Cambio de opinión,reintegrada,587564.25
+287,2025-02-05,5246,4969,7449,5,1,Producto defectuoso,reintegrada,48914.67
+288,2025-03-02,4810,1789,7460,2,1,Producto defectuoso,reintegrada,304157.5
+289,2025-05-25,495,4311,7208,7,1,Producto defectuoso,reintegrada,67297.47
+290,2025-06-14,2949,2118,7163,7,2,Producto incorrecto,reintegrada,134066.92
+291,2026-07-12,5089,3151,7057,4,1,Cambio de opinión,reintegrada,222354.06
+292,2026-08-05,447,4255,7405,2,2,Cambio de opinión,reintegrada,286256.38
+293,2025-11-12,3200,439,7088,2,1,Daño en embalaje,reintegrada,57788.13
+294,2026-07-04,2425,722,7200,4,1,Producto defectuoso,en_revision,265265.31
+295,2026-02-11,3476,1942,7166,8,3,Producto defectuoso,reintegrada,1621540.32
+296,2025-06-17,5947,1322,7465,2,1,Cambio de opinión,reintegrada,149028.25
+297,2025-06-13,5513,181,7378,7,1,Producto incorrecto,reintegrada,207181.23
+298,2025-12-30,3320,1026,7419,2,2,Producto incorrecto,en_revision,88694.94
+299,2026-02-23,2168,4770,7420,8,1,Producto defectuoso,reintegrada,75163.5
+300,2026-09-14,4971,1570,7291,7,1,Producto defectuoso,reintegrada,32820.54
+301,2025-12-14,5799,2112,7273,1,1,Producto defectuoso,reintegrada,319856.08
+302,2025-06-02,2450,197,7461,7,1,Producto defectuoso,reintegrada,393165.39
+303,2026-03-08,4457,2496,7174,3,2,Producto incorrecto,reintegrada,8947.98
+304,2025-01-13,2373,3271,7208,7,1,Producto defectuoso,reintegrada,67297.47
+305,2024-05-09,4343,880,7293,6,1,Producto defectuoso,reintegrada,29761.66
+306,2025-11-20,3952,3182,7174,3,1,Producto defectuoso,reintegrada,3802.89
+307,2026-08-31,1502,3009,7237,4,2,Daño en embalaje,reintegrada,389354.02
+308,2026-04-14,1095,1136,7292,2,1,Cambio de opinión,reintegrada,49374.16
+309,2025-12-30,659,3937,7420,1,1,Producto defectuoso,reintegrada,79584.88
+310,2026-08-21,3771,13,7026,3,1,Cambio de opinión,reintegrada,37729.84
+311,2024-11-18,1181,1437,7174,3,1,Producto defectuoso,reintegrada,4026.59
+312,2026-05-01,5929,4687,5006,3,1,Producto defectuoso,reintegrada,37990.5
+313,2026-06-17,296,4025,7072,7,1,Producto incorrecto,reintegrada,103144.91
+314,2024-09-28,143,4917,5006,1,1,Daño en embalaje,reintegrada,37990.5
+315,2025-09-07,5274,2285,7287,5,2,Cambio de opinión,en_revision,1083554.3
+316,2024-10-25,4942,3114,7421,3,1,Cambio de opinión,reintegrada,383322.67
+317,2026-01-16,3115,2965,7421,6,2,Cambio de opinión,reintegrada,766645.34
+318,2024-06-23,3950,4828,7341,6,2,Daño en embalaje,reintegrada,1012034.3
+319,2026-05-18,1684,1946,7180,6,2,Producto defectuoso,reintegrada,181040.3
+320,2024-07-20,2876,3669,7095,7,1,Cambio de opinión,reintegrada,176087.76

@@ -1,0 +1,9 @@
+sucursal_id,sucursal,ciudad,provincia,region,direccion,fecha_alta,estado
+1,Palermo,Buenos Aires,CABA,AMBA,Av. Santa Fe 3253,2021-03-15,activa
+2,Caballito,Buenos Aires,CABA,AMBA,Av. Rivadavia 5120,2021-08-02,activa
+3,Rosario Centro,Rosario,Santa Fe,Litoral,Córdoba 1450,2022-02-10,activa
+4,Córdoba Shopping,Córdoba,Córdoba,Centro,José A. de Goyechea 2851,2022-05-18,activa
+5,Mendoza Plaza,Mendoza,Mendoza,Cuyo,Acceso Este 3280,2022-09-05,activa
+6,Tucumán Norte,Tucumán,Tucumán,NOA,25 de Mayo 680,2023-01-23,activa
+7,Mar del Plata,Mar del Plata,Buenos Aires,Buenos Aires Interior,Av. Colón 2236,2023-06-12,activa
+8,Salta Centro,Salta,Salta,NOA,Caseros 720,2023-10-09,activa

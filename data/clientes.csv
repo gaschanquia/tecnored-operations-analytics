@@ -1,0 +1,1201 @@
+cliente_id,nombre,apellido,dni,fecha_nacimiento,email,telefono,direccion,ciudad,provincia,region,fecha_alta,estado
+9,Mateo,Silva,78189487,1969-12-25,mateo.silva.9@hotmail.com,+5492539722623,Independencia 4566,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-05-09,activo
+13,Gastón,González,44979542,2002-02-16,gaston.gonzalez.13@outlook.com,+5492007035766,Belgrano 701,Mendoza,Mendoza,Cuyo,2022-11-05,activo
+18,Diego,Ortiz,73424850,2050-05-04,diego.ortiz.18@yahoo.com.ar,123,9 de Julio 2758,Buenos Aires,CABA,AMBA,2023-07-18,activo
+20,Laura,Acosta,79622335,1996-10-10,laura.acosta.20@yahoo.com.ar,(231) 822.4132,Mitre 4196,Buenos Aires,CABA,AMBA,2024-09-22,activo
+24,Nicolás,Domínguez,96708925,1970-06-25,,+5493939372354,Independencia 7016,Salta,Salta,NOA,2025-05-25,activo
+27,Santiago,Medina,20573683,1972-07-18,santiago.medina.27@outlook.com,+5493009980726,Belgrano 9652,Mendoza,Mendoza,Cuyo,2025-05-14,activo
+30,Emilia,Fernández,70113403,2051-10-27,emilia.fernandez.30@gmail.com,+5493771877200,Mitre 4614,Mendoza,Mendoza,Cuyo,2025-09-13,activo
+32,Agustín,Molina,12597936,2002-03-09,agustin.molina.32@hotmail.com,+5492788375640,Sarmiento 9533,Buenos Aires,CABA,AMBA,2026-02-22,activo
+34,Alejandro,Ruiz,46424832,2053-08-23,alejandro.ruiz.34@outlook.com,+5492405369252,Rivadavia 2840,Tucumán,Tucumán,NOA,2022-04-09,activo
+44,Laura,Ortiz,41726916,2052-07-06,laura.ortiz.44@gmail.com,+5492265835458,Independencia 6920,Salta,Salta,NOA,2025-05-05,activo
+46,Joaquín,Ruiz,47531235,2049-12-29,joaquin.ruiz.46@yahoo.com.ar,+5492721990214,Rivadavia 5569,Mendoza,Mendoza,Cuyo,2025-10-07,activo
+48,Federico,Pérez,33210988,1999-01-16,federico.perez.48@hotmail.com,+5492836451815,San Martín 4729,Tucumán,Tucumán,NOA,2025-12-10,activo
+52,Laura,Acosta,86484405,1998-12-12,laura.acosta.52@outlook.com,+5493481739335,Sarmiento 5286,Mendoza,Mendoza,Cuyo,2022-09-13,activo
+62,Mateo,Pérez,70357875,2064-09-17,mateo.perez.62@outlook.com,+5493672004467,25 de Mayo 2076,Tucumán,Tucumán,NOA,2023-06-08,activo
+66,Nicolás,Medina,59603628,2061-05-17,nicolas.medina.66@yahoo.com.ar,+5493543048732,San Martín 7480,Tucumán,Tucumán,NOA,2022-11-12,activo
+69,Paula,Pereyra,56072102,1997-12-05,paula.pereyra.69@outlook.com,+5493424315199,Independencia 7376,Buenos Aires,CABA,AMBA,2022-07-21,inactivo
+70,Camila,Alvarez,29152070,2065-11-13,camila.alvarez.70@gmail.com,+5492181465318,9 de Julio 1307,Buenos Aires,CABA,AMBA,2025-03-08,activo
+71,Diego,Molina,63562212,1984-06-06,diego.molina.71@outlook.com,+5493019816666,25 de Mayo 1765,Mendoza,Mendoza,Cuyo,2022-03-12,activo
+74,Ana,Ramírez,55999462,2068-04-22,ana.ramirez.74@hotmail.com,+5492908236837,San Martín 2031,Mendoza,Mendoza,Cuyo,2022-05-10,activo
+80,Agustín,Ortiz,79577655,1977-08-19,agustin.ortiz.80@yahoo.com.ar,+5492329291457,Mitre 9743,Rosario,Santa Fe,Litoral,2025-07-04,activo
+81,Carolina,Suárez,19591543,2065-04-29,carolina.suarez.81@gmail.com,+5493371111667,Rivadavia 9239,Salta,Salta,NOA,2025-11-28,activo
+85,Gastón,Cabrera,71039670,2047-05-15,gaston.cabrera.85@hotmail.com,+5492593313515,Las Heras 7532,Buenos Aires,CABA,AMBA,2023-11-10,activo
+89,Agustín,Ramírez,95768802,2001-03-04,agustin.ramirez.89@outlook.com,+5493327246176,Av. Colón 6443,Tucumán,Tucumán,NOA,2025-02-06,activo
+91,Emilia,Gutiérrez,54646871,2004-01-31,emilia.gutierrez.91@gmail.com,+5492153888419,Independencia 7597,Tucumán,Tucumán,NOA,2023-10-18,activo
+94,Julieta,Molina,27826478,2066-12-09,julieta.molina.94@yahoo.com.ar,+5493781856000,Rivadavia 3740,Buenos Aires,CABA,AMBA,2024-08-31,activo
+96,Daniel,Martínez,23987012,1997-07-25,daniel.martinez.96@yahoo.com.ar,+5493548785754,Independencia 4721,Córdoba,Córdoba,Centro,2023-09-22,activo
+97,Joaquín,López,98168506,2044-11-23,joaquin.lopez.97@outlook.com,+5492515042527,Av. Colón 8746,Tucumán,Tucumán,NOA,2023-12-18,activo
+100,Joaquín,Martínez,26212377,1971-01-03,joaquin.martinez.100@outlook.com,+5492912825361,25 de Mayo 202,Buenos Aires,CABA,AMBA,2023-10-25,activo
+101,Sofía,Martínez,63649223,2003-03-14,sofia.martinez.101@yahoo.com.ar,+5493144767742,25 de Mayo 3907,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-10-29,inactivo
+107,Sofía,Alvarez,64483778,2064-07-24,sofia.alvarez.107@gmail.com,+5493408110076,Independencia 368,Córdoba,Córdoba,Centro,2024-09-11,activo
+110,Mateo,Ruiz,95071639,1980-04-20,mateo.ruiz.110@hotmail.com,+5493381946489,Independencia 4351,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-09-02,activo
+112,Paula,Ortiz,64035170,2065-04-23,paula.ortiz.112@gmail.com,+5492702844238,Belgrano 3328,Salta,Salta,NOA,2025-09-06,activo
+114,María José,Molina,41462441,2006-02-14,maria.jose.molina.114@yahoo.com.ar,+5493173990704,Mitre 2060,Salta,Salta,NOA,2025-07-23,activo
+121,Joaquín,Acosta,64119946,1981-12-26,joaquin.acosta.121@outlook.com,+5492673330838,25 de Mayo 198,Mendoza,Mendoza,Cuyo,2024-10-19,activo
+123,Joaquín,Gutiérrez,64815982,2052-12-16,joaquin.gutierrez.123@yahoo.com.ar,+5492519179430,25 de Mayo 5114,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-09-09,activo
+133,Joaquín,Castro,90816016,2062-12-10,joaquin.castro.133@outlook.com,+5493788377707,Las Heras 625,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-06-11,activo
+135,Martín,Martínez,51466772,1978-03-11,martin.martinez.135@outlook.com,+5493446972414,Av. Colón 1297,Buenos Aires,CABA,AMBA,2024-12-17,activo
+136,Alejandro,Fernández,14938331,1969-08-08,alejandro.fernandez.136@outlook.com,+5492724336998,Las Heras 5501,Buenos Aires,CABA,AMBA,2022-06-10,activo
+140,Diego,Pereyra,23442811,1989-05-10,diego.pereyra.140@hotmail.com,+5493529150381,Mitre 9675,Buenos Aires,CABA,AMBA,2025-06-16,activo
+145,Joaquín,Herrera,63699316,1999-02-27,joaquin.herrera.145@outlook.com,+5493072606012,Independencia 7110,Tucumán,Tucumán,NOA,2022-08-11,activo
+150,Emilia,Herrera,32016875,2061-11-04,emilia.herrera.150@outlook.com,+5493986432813,9 de Julio 8901,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-02-25,inactivo
+151,Gabriel,Aguirre,79984552,2006-09-04,gabriel.aguirre.151@outlook.com,+5493411773572,San Martín 6645,Mendoza,Mendoza,Cuyo,2025-07-11,activo
+152,Emilia,López,67551775,2057-02-18,emilia.lopez.152@hotmail.com,+5493089474861,25 de Mayo 2731,Buenos Aires,CABA,AMBA,2023-08-02,activo
+153,Paula,Fernández,81257748,2050-09-12,paula.fernandez.153@hotmail.com,+5492077087459,9 de Julio 3102,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-03-25,activo
+158,Alejandro,Ramírez,65563702,1999-04-20,alejandro.ramirez.158@outlook.com,+5493817723380,9 de Julio 3692,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-08,activo
+167,Carolina,Gutiérrez,66814863,2002-09-27,carolina.gutierrez.167@hotmail.com,+5492457623817,Mitre 3308,Buenos Aires,CABA,AMBA,2024-03-01,activo
+169,Camila,Medina,93556540,2002-09-07,camila.medina.169@yahoo.com.ar,+5492433199981,Belgrano 7050,Salta,Salta,NOA,2024-11-10,activo
+176,Diego,Martínez,68522118,2057-01-22,diego.martinez.176@gmail.com,+5492582343636,Belgrano 5799,Córdoba,Córdoba,Centro,2023-03-06,activo
+178,Laura,Herrera,81297990,1985-03-26,laura.herrera.178@gmail.com,+5492795815853,Rivadavia 2151,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-02-02,activo
+180,Juan,Herrera,52224544,2004-12-02,juan.herrera.180@outlook.com,(331) 300.5279,25 de Mayo 8922,Córdoba,Córdoba,Centro,2023-05-23,activo
+181,Diego,López,90030798,1992-05-11,diego.lopez.181@hotmail.com,+5493543814879,Las Heras 120,Salta,Salta,NOA,2023-04-10,activo
+185,Ana,Alvarez,40985527,2003-12-12,ana.alvarez.185@gmail.com,+5492827915906,Av. Colón 9680,Rosario,Santa Fe,Litoral,2023-12-16,activo
+189,Ana,Pereyra,32717916,1977-06-11,ana.pereyra.189@gmail.com,+5492984640966,9 de Julio 1275,Córdoba,Córdoba,Centro,2022-09-28,activo
+192,Martín,Giménez,12251975,2051-04-05,martin.gimenez.192@yahoo.com.ar,+5493287748462,Las Heras 3551,Mendoza,Mendoza,Cuyo,2022-05-07,activo
+193,Juan,Giménez,66797987,2003-02-13,,+5493367172963,25 de Mayo 3992,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-17,activo
+196,Carolina,Castro,96733221,2068-05-30,carolina.castro.196@outlook.com,+5493532968411,Belgrano 3247,Salta,Salta,NOA,2023-03-04,activo
+197,Lucía,Herrera,37122887,2052-12-24,lucia.herrera.197@hotmail.com,+5493695276047,,Mendoza,Mendoza,Cuyo,2024-01-03,activo
+199,Santiago,Fernández,62137893,2051-08-13,santiago.fernandez.199@yahoo.com.ar,+5492694130268,Las Heras 5320,Rosario,Santa Fe,Litoral,2025-08-03,activo
+200,Alejandro,Benítez,52731629,1975-06-02,alejandro.benitez.200@gmail.com,+5493752129728,Las Heras 8373,Mendoza,Mendoza,Cuyo,2023-02-11,activo
+204,Juan,Rodríguez,53987488,2046-07-18,juan.rodriguez.204@outlook.com,+5493637218272,San Martín 3899,Córdoba,Córdoba,Centro,2022-11-06,activo
+206,Sofía,Aguirre,28358370,2050-08-17,sofia.aguirre.206@yahoo.com.ar,+5492391627016,Independencia 6961,Rosario,Santa Fe,Litoral,2026-02-08,activo
+211,Agustín,Sánchez,86594521,2043-10-30,agustin.sanchez.211@gmail.com,+5493678975501,Av. Colón 6177,Tucumán,Tucumán,NOA,2024-05-30,activo
+212,María José,Pérez,32481936,2063-02-08,maria.jose.perez.212@gmail.com,+5492186391737,Belgrano 4825,Salta,Salta,NOA,2023-11-12,activo
+215,Emilia,Cabrera,31090643,1991-01-12,emilia.cabrera.215@hotmail.com,+5492398853947,Las Heras 5597,Mendoza,Mendoza,Cuyo,2025-05-23,activo
+219,Gabriel,Giménez,83266078,2068-04-12,gabriel.gimenez.219@gmail.com,+5493395621968,Rivadavia 7857,Córdoba,Córdoba,Centro,2024-04-16,activo
+220,Paula,López,86409669,1973-08-03,paula.lopez.220@gmail.com,+5493335955848,Av. Colón 9449,Salta,Salta,NOA,2024-06-12,activo
+221,Florencia,Domínguez,69371798,2059-01-03,florencia.dominguez.221@outlook.com,+5492079039689,San Martín 2410,Buenos Aires,CABA,AMBA,2022-11-25,activo
+222,Daniel,González,60622298,2050-05-29,daniel.gonzalez.222@hotmail.com,+5492943567283,### 123,Córdoba,Córdoba,Centro,2025-03-14,activo
+228,Alejandro,Molina,86344920,1997-04-28,alejandro.molina.228@gmail.com,+5492747042302,San Martín 9830,Rosario,Santa Fe,Litoral,2022-11-05,inactivo
+229,Sofía,Giménez,51327613,2053-02-03,sofia.gimenez.229@hotmail.com,+5493042932446,Rivadavia 6896,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-03-15,activo
+231,Juan,Pérez,72844444,1982-11-13,juan.perez.231@hotmail.com,+5492726564455,Av. Colón 6358,Mendoza,Mendoza,Cuyo,2022-10-05,activo
+234,Martín,Ramírez,25688246,2051-10-05,martin.ramirez.234@yahoo.com.ar,+5493002047439,Rivadavia 9219,Tucumán,Tucumán,NOA,2024-08-08,activo
+239,Agustín,Romero,82575797,1985-06-04,agustin.romero.239@yahoo.com.ar,+5492055217519,San Martín 9717,Tucumán,Tucumán,NOA,2022-02-22,activo
+240,Nicolás,Giménez,92386964,1981-04-17,nicolas.gimenez.240@yahoo.com.ar,+5492921501892,25 de Mayo 1917,Salta,Salta,NOA,2023-11-17,activo
+241,Federico,Sánchez,77200371,1982-08-26,federico.sanchez.241@outlook.com,+5492202220249,Rivadavia 8606,Tucumán,Tucumán,NOA,2023-10-08,activo
+249,Laura,González,10585975,1982-05-23,laura.gonzalez.249@outlook.com,+5493818409678,Sarmiento 2666,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-10-22,activo
+252,Gastón,Suárez,56698904,2005-03-25,gaston.suarez.252@yahoo.com.ar,+5492697103640,Independencia 8322,Salta,Salta,NOA,2025-10-31,activo
+253,María José,Ramírez,88588605,2054-04-28,maria.jose.ramirez.253@gmail.com,+5493715770962,Las Heras 4581,Buenos Aires,CABA,AMBA,2024-10-06,activo
+255,Emilia,Castro,33540232,1982-08-21,emilia.castro.255@yahoo.com.ar,+5492375152742,Av. Colón 3819,Córdoba,Córdoba,Centro,2024-02-05,activo
+271,Federico,Rodríguez,39202527,2066-08-19,federico.rodriguez.271@hotmail.com,+5492262270400,Av. Colón 5993,Tucumán,Tucumán,NOA,2025-04-25,activo
+275,Julieta,Benítez,79007296,2048-11-08,julieta.benitez.275@hotmail.com,+5493791148101,9 de Julio 7292,Córdoba,Córdoba,Centro,2023-09-28,activo
+279,Juan,Alvarez,94149811,1987-05-21,juan.alvarez.279@gmail.com,+5493266427110,Sarmiento 9733,Mendoza,Mendoza,Cuyo,2024-10-02,activo
+280,Agustín,Ramírez,76896250,2001-04-19,agustin.ramirez.280@outlook.com,+5493297785398,Las Heras 6202,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-08-29,activo
+284,Carolina,López,49714434,2068-04-29,carolina.lopez.284@outlook.com,+5493465253898,9 de Julio 2006,Mendoza,Mendoza,Cuyo,2024-06-16,activo
+288,Laura,Sánchez,29463435,1999-08-15,laura.sanchez.288@yahoo.com.ar,+5492765892585,Sarmiento 8088,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-06-15,activo
+290,Emilia,Castro,87125054,2044-03-26,emilia.castro.290@outlook.com,+5493639452350,Av. Colón 435,Córdoba,Córdoba,Centro,2025-01-12,activo
+291,Carolina,Cabrera,38866189,1981-02-28,carolina.cabrera.291@outlook.com,+5492894022205,Rivadavia 347,Salta,Salta,NOA,2024-03-25,activo
+292,Joaquín,Ruiz,84026574,2025-12-01,joaquin.ruiz.292@yahoo.com.ar,+5492727036869,Mitre 2709,Buenos Aires,CABA,AMBA,2025-11-01,activo
+297,Nicolás,Gutiérrez,91122906,1998-08-30,nicolas.gutierrez.297@gmail.com,+5492314213950,9 de Julio 2058,Córdoba,Córdoba,Centro,2022-11-19,activo
+298,Alejandro,Pereyra,54288734,2003-07-06,alejandro.pereyra.298@gmail.com,+5493062105619,Independencia 2821,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-02,activo
+299,Daniel,Rodríguez,93182926,2050-07-26,daniel.rodriguez.299@yahoo.com.ar,+5492481632264,Las Heras 6246,Buenos Aires,CABA,AMBA,2025-05-20,activo
+306,Diego,Gutiérrez,37013583,2005-08-16,diego.gutierrez.306@gmail.com,+5493721744498,San Martín 3340,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-09-02,activo
+309,Carolina,Domínguez,76057098,2067-09-16,carolina.dominguez.309@yahoo.com.ar,+5493343904961,Sarmiento 3871,Córdoba,Córdoba,Centro,2022-04-26,activo
+310,Joaquín,Castro,41809211,2047-09-29,joaquin.castro.310@gmail.com,+5493247791191,25 de Mayo 6271,Buenos Aires,CABA,AMBA,2024-11-12,activo
+315,Sofía,Pereyra,18223859,2043-05-05,sofia.pereyra.315@gmail.com,+5492143885352,San Martín 1093,Mendoza,Mendoza,Cuyo,2022-02-15,bloqueado
+316,María José,Pereyra,63614060,1976-02-11,maria.jose.pereyra.316@gmail.com,+5492442478643,Sarmiento 8074,Rosario,Santa Fe,Litoral,2025-12-30,activo
+319,Mateo,Suárez,48986760,1972-11-18,mateo.suarez.319@gmail.com,+5493115150959,Rivadavia 1992,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-03-28,activo
+323,Paula,Ramírez,79416829,1995-08-28,paula.ramirez.323@gmail.com,+5493874556168,Rivadavia 755,Rosario,Santa Fe,Litoral,2022-01-16,activo
+334,Federico,Silva,38458436,2061-04-20,federico.silva.334@yahoo.com.ar,+5493057103091,9 de Julio 377,Buenos Aires,CABA,AMBA,2022-11-11,activo
+351,Emilia,López,63243388,1998-01-19,emilia.lopez.351@hotmail.com,+5493105772139,Las Heras 8384,Buenos Aires,CABA,AMBA,2023-09-30,activo
+352,María José,Fernández,21721501,1995-11-17,maria.jose.fernandez.352@hotmail.com,+5492775858573,25 de Mayo 2154,Tucumán,Tucumán,NOA,2022-01-20,activo
+355,Federico,Pereyra,56408531,1969-03-23,federico.pereyra.355@gmail.com,+5492489194780,Sarmiento 7790,Rosario,Santa Fe,Litoral,2022-08-30,activo
+367,María José,Ortiz,89277546,1982-12-29,maria.jose.ortiz.367@gmail.com,+5492044993771,Independencia 4822,Córdoba,Córdoba,Centro,2022-03-25,activo
+368,Nicolás,Pérez,78478992,1997-01-03,nicolas.perez.368@gmail.com,+5492192344038,Las Heras 8962,Buenos Aires,CABA,AMBA,2025-09-27,activo
+372,Alejandro,Alvarez,97499934,1973-08-11,alejandro.alvarez.372@yahoo.com.ar,+5493129258218,Av. Colón 7026,Rosario,Santa Fe,Litoral,2026-03-18,activo
+374,Florencia,López,57231394,1996-10-11,florencia.lopez.374@hotmail.com,+5492992098105,Rivadavia 6840,Córdoba,Córdoba,Centro,2024-08-15,activo
+377,Sofía,Navarro,26298954,1997-10-03,sofia.navarro.377@yahoo.com.ar,+5492115991312,Mitre 4257,Buenos Aires,CABA,AMBA,2025-08-01,activo
+379,Agustín,Acosta,11285662,2064-10-12,agustin.acosta.379@outlook.com,+5492705353855,Belgrano 6496,Rosario,Santa Fe,Litoral,2025-01-01,activo
+388,Florencia,Silva,84158727,2001-08-29,florencia.silva.388@outlook.com,+5492577351841,9 de Julio 9108,Salta,Salta,NOA,2025-08-21,activo
+394,Santiago,Navarro,15655829,1989-07-15,santiago.navarro.394@gmail.com,+5492789155910,Independencia 7354,Tucumán,Tucumán,NOA,2022-08-21,activo
+403,Diego,Ramírez,22099347,2001-05-21,diego.ramirez.403@gmail.com,+5492313142164,Rivadavia 8498,Córdoba,Córdoba,Centro,2022-12-29,activo
+411,Julieta,Alvarez,25932772,1984-04-08,julieta.alvarez.411@gmail.com,+5492418748656,Mitre 4435,Córdoba,Córdoba,Centro,2025-07-26,activo
+415,Mateo,Suárez,18550109,2001-05-30,mateo.suarez.415@outlook.com,+5492934454240,25 de Mayo 3915,Córdoba,Córdoba,Centro,2022-02-03,activo
+416,Gabriel,Pérez,69833658,1994-01-08,gabriel.perez.416@outlook.com,+5493822087882,9 de Julio 5210,Mendoza,Mendoza,Cuyo,2024-06-25,activo
+417,Sofía,Aguirre,19450805,1981-02-27,sofia.aguirre.417@hotmail.com,+5492148693881,9 de Julio 3302,Mendoza,Mendoza,Cuyo,2024-03-03,inactivo
+423,Sofía,Domínguez,76932961,1970-05-03,sofia.dominguez.423@yahoo.com.ar,+5492616837823,Las Heras 2453,Buenos Aires,CABA,AMBA,2022-05-07,activo
+427,Federico,Herrera,20000000,2058-04-17,federico.herrera.427@yahoo.com.ar,+5493512867988,San Martín 1153,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-05-13,activo
+430,Julieta,Herrera,67712115,1983-08-22,julieta.herrera.430@gmail.com,+5493606777837,9 de Julio 3687,Tucumán,Tucumán,NOA,2024-09-11,activo
+433,Florencia,Silva,81793323,2063-07-25,florencia.silva.433@gmail.com,+5492906471999,Av. Colón 4149,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-19,activo
+439,Martín,Benítez,89912223,2048-04-28,martin.benitez.439@outlook.com,+5493505304342,25 de Mayo 470,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-04-03,activo
+444,Lucía,Ramírez,82789485,1997-11-08,lucia.ramirez.444@outlook.com,+5493364115184,Av. Colón 1500,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-13,activo
+451,Daniel,Suárez,31925978,2063-05-15,daniel.suarez.451@yahoo.com.ar,+5493789268369,Las Heras 655,Mendoza,Mendoza,Cuyo,2025-04-28,activo
+458,Lucía,Alvarez,18504293,2049-03-30,lucia.alvarez.458@outlook.com,+5493752946309,Mitre 3195,Mendoza,Mendoza,Cuyo,2024-05-22,activo
+462,Santiago,Alvarez,42977774,1991-12-05,santiago.alvarez.462@gmail.com,+5492914533807,San Martín 1731,Buenos Aires,CABA,AMBA,2024-04-07,activo
+464,Mateo,Fernández,19372206,2055-02-24,mateo.fernandez.464@outlook.com,+5493752368396,Av. Colón 3354,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-11-19,activo
+466,Sofía,González,28522410,2000-07-16,sofia.gonzalez.466@outlook.com,(201) 929.6439,25 de Mayo 1388,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-02-09,activo
+469,Gastón,Rodríguez,24049692,1998-09-22,gaston.rodriguez.469@hotmail.com,+5492381024990,Av. Colón 2353,Rosario,Santa Fe,Litoral,2022-10-04,activo
+472,Laura,Pereyra,30243541,2051-09-03,laura.pereyra.472@yahoo.com.ar,+5493838889059,25 de Mayo 6321,Salta,Salta,NOA,2023-01-11,activo
+473,Mateo,Alvarez,84125608,2059-12-08,mateo.alvarez.473@gmail.com,+5493596597692,Rivadavia 2998,Tucumán,Tucumán,NOA,2022-08-11,activo
+479,Santiago,Sánchez,45090700,1993-02-24,santiago.sanchez.479@yahoo.com.ar,+5493636293741,Las Heras 4676,Salta,Salta,NOA,2025-11-09,activo
+486,Florencia,Fernández,30554958,2046-09-28,florencia.fernandez.486@gmail.com,+5492083949042,Las Heras 8883,Buenos Aires,CABA,AMBA,2022-05-31,activo
+487,Gabriel,Martínez,54723364,2056-08-21,gabriel.martinez.487@yahoo.com.ar,+5493906331121,Rivadavia 3916,Buenos Aires,CABA,AMBA,2025-11-16,activo
+492,Diego,Molina,84453691,2005-01-30,diego.molina.492@gmail.com,+5492293422905,Las Heras 5908,Rosario,Santa Fe,Litoral,2025-06-21,activo
+495,Carolina,Fernández,18711801,1977-10-01,carolina.fernandez.495@hotmail.com,+5492695191793,RIVADAVIA 4895,Salta,Salta,NOA,2023-04-07,activo
+496,Federico,Pereyra,16841976,1996-03-15,federico.pereyra.496@yahoo.com.ar,+5493842138070,Independencia 5189,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-26,activo
+498,Alejandro,Molina,43704815,1992-01-09,alejandro.molina.498@gmail.com,+5493153395898,Independencia 5198,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-09-19,activo
+502,Florencia,Ramírez,60773830,1975-02-28,florencia.ramirez.502@yahoo.com.ar,+5492626316120,Independencia 9883,Córdoba,Córdoba,Centro,2022-05-13,activo
+506,Federico,Alvarez,19782937,1974-02-28,federico.alvarez.506@yahoo.com.ar,+5493905346598,Independencia 2061,Tucumán,Tucumán,NOA,2025-08-02,activo
+512,Martín,Acosta,11073007,2061-02-24,martin.acosta.512@hotmail.com,+5493721794935,25 de Mayo 1594,Mendoza,Mendoza,Cuyo,2022-05-30,activo
+518,Paula,Aguirre,47392279,1999-04-23,paula.aguirre.518@outlook.com,SIN TELEFONO,Las Heras 8014,Tucumán,Tucumán,NOA,2024-07-04,activo
+528,Sofía,Acosta,71936537,2047-08-30,sofia.acosta.528@gmail.com,+5493144153651,Las Heras 9623,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-22,activo
+531,Mateo,Aguirre,48032891,2046-09-16,mateo.aguirre.531@outlook.com,+5493003680107,San Martín 7696,Tucumán,Tucumán,NOA,2024-10-08,activo
+534,Nicolás,Romero,10964804,1977-01-05,nicolas.romero.534@outlook.com,+5493196875437,Independencia 629,Salta,Salta,NOA,2024-07-16,activo
+535,Emilia,Castro,91037113,1991-03-06,emilia.castro.535@yahoo.com.ar,(224) 683.8318,Independencia 9844,Córdoba,Córdoba,Centro,2023-03-25,activo
+536,Daniel,Suárez,93188427,1980-08-24,daniel.suarez.536@hotmail.com,(276) 193.2337,Av. Colón 6074,Salta,Salta,NOA,2023-06-18,bloqueado
+539,Ana,Ruiz,77876380,1999-07-20,ana.ruiz.539@yahoo.com.ar,+5493596844406,Sarmiento 7656,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-01-31,activo
+545,Camila,Giménez,70101255,1972-05-12,camila.gimenez.545@gmail.com,+5492362987918,25 de Mayo 8288,Rosario,Santa Fe,Litoral,2022-02-17,activo
+550,Federico,Rodríguez,80213407,2064-01-06,federico.rodriguez.550@hotmail.com,+5493124836847,25 de Mayo 7217,Tucumán,Tucumán,NOA,2022-04-05,activo
+552,Carolina,Cabrera,51198047,2060-04-04,carolina.cabrera.552@yahoo.com.ar,+5493711686858,Sarmiento 8077,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-06-06,activo
+554,Diego,Castro,70191771,2002-12-15,diego.castro.554@outlook.com,+5492037699933,Av. Colón 6213,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-06-04,activo
+556,Nicolás,Ramírez,39056852,2001-10-15,nicolas.ramirez.556@gmail.com,+5493093484019,Rivadavia 364,Córdoba,Córdoba,Centro,2023-08-22,activo
+562,Juan,Flores,41743079,2059-03-17,juan.flores.562@gmail.com,+5492775384313,Independencia 386,Tucumán,Tucumán,NOA,2022-09-02,activo
+566,Emilia,Giménez,37420720,2005-05-29,emilia.gimenez.566@gmail.com,+5493102769560,Sarmiento 8266,Salta,Salta,NOA,2024-10-22,activo
+567,Agustín,Rodríguez,25502774,1971-04-08,agustin.rodriguez.567@yahoo.com.ar,+5493637380110,Belgrano 8612,Salta,Salta,NOA,2022-12-07,activo
+568,Carolina,Molina,44699442,1971-11-09,carolina.molina.568@yahoo.com.ar,+5492878651282,Independencia 5064,Córdoba,Córdoba,Centro,2022-11-11,activo
+569,Julieta,Castro,52116227,2053-08-24,julieta.castro.569@hotmail.com,+5493518031219,9 de Julio 5385,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-23,activo
+578,Juan,Ruiz,48417689,2004-03-05,juan.ruiz.578@hotmail.com,+5493616003988,Rivadavia 8503,Tucumán,Tucumán,NOA,2024-02-08,activo
+583,Julieta,Sánchez,34152328,2057-06-23,julieta.sanchez.583@hotmail.com,+5492472878494,25 de Mayo 3709,Córdoba,Córdoba,Centro,2024-04-08,bloqueado
+585,María José,Acosta,33557778,2003-04-03,maria.jose.acosta.585@hotmail.com,+5493833144810,25 de Mayo 8844,Buenos Aires,CABA,AMBA,2023-09-11,activo
+587,Agustín,Ramírez,19660411,1987-02-01,agustin.ramirez.587@outlook.com,+5492058142393,9 de Julio 8075,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-03-31,activo
+590,Carolina,Castro,19867410,2003-03-18,carolina.castro.590@yahoo.com.ar,+5493346722548,Independencia 4955,Salta,Salta,NOA,2025-09-24,activo
+595,Camila,Silva,77140328,2059-05-12,cliente@@mail.com,+5493344324998,Las Heras 1932,Salta,Salta,NOA,2024-09-27,activo
+597,Agustín,Romero,69761531,2055-10-30,agustin.romero.597@outlook.com,+5493438017087,Independencia 8373,Mendoza,Mendoza,Cuyo,2023-11-13,activo
+599,Daniel,Sánchez,79363364,2050-05-20,daniel.sanchez.599@gmail.com,+5492788873989,Av. Colón 4072,Tucumán,Tucumán,NOA,2025-03-04,activo
+600,Emilia,Pereyra,43875966,1980-07-15,emilia.pereyra.600@yahoo.com.ar,+5493121491211,San Martín 8046,Rosario,Santa Fe,Litoral,2025-11-06,activo
+603,Agustín,Pereyra,99477868,2047-02-17,agustin.pereyra.603@gmail.com,+5493438204186,9 de Julio 3935,Rosario,Santa Fe,Litoral,2024-01-26,activo
+606,Alejandro,Rodríguez,32334414,1990-05-18,alejandro.rodriguez.606@gmail.com,+5492017301988,Rivadavia 9301,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-07-29,activo
+619,Daniel,Pérez,53420030,1985-12-30,daniel.perez.619@hotmail.com,+5492723404441,Sarmiento 4282,Buenos Aires,CABA,AMBA,2024-05-11,activo
+622,Gabriel,Pereyra,86483668,1998-12-30,gabriel.pereyra.622@gmail.com,+5493873039121,Mitre 5608,Salta,Salta,NOA,2023-05-23,activo
+625,Sofía,Flores,55748160,2051-04-29,sofia.flores.625@hotmail.com,+5492889318843,Rivadavia 7717,Salta,Salta,NOA,2022-09-17,activo
+626,Sofía,Giménez,18039890,1988-11-26,sofia.gimenez.626@yahoo.com.ar,+5492241147438,Rivadavia 8279,Rosario,Santa Fe,Litoral,2023-09-20,activo
+627,Joaquín,Suárez,74017280,1974-11-30,joaquin.suarez.627@hotmail.com,+5492365246639,Independencia 9607,Tucumán,Tucumán,NOA,2025-09-28,activo
+628,Santiago,Fernández,82953815,1976-03-06,santiago.fernandez.628@hotmail.com,+5492876107932,Sarmiento 9387,Córdoba,Córdoba,Centro,2022-12-04,activo
+634,Agustín,Aguirre,64416381,1975-06-14,agustin.aguirre.634@gmail.com,+5493555987776,Av. Colón 4882,Buenos Aires,CABA,AMBA,2025-10-23,activo
+643,Camila,Gutiérrez,64932221,2001-08-28,camila.gutierrez.643@hotmail.com,+5492331919208,Las Heras 7119,Tucumán,Tucumán,NOA,2023-06-08,activo
+645,Julieta,Aguirre,95080337,1984-06-23,julieta.aguirre.645@outlook.com,+5493024930480,Sarmiento 4582,Salta,Salta,NOA,2025-08-06,activo
+651,Carolina,Martínez,90211288,2049-09-26,carolina.martinez.651@gmail.com,+5492402232983,Las Heras 6033,Buenos Aires,CABA,AMBA,2024-10-15,activo
+654,Camila,Pérez,38665418,1981-06-15,camila.perez.654@hotmail.com,+5493653312597,Sarmiento 6304,Buenos Aires,CABA,AMBA,2024-10-21,activo
+656,Alejandro,Flores,79026847,1973-09-08,alejandro.flores.656@outlook.com,(306) 265.7662,Sarmiento 7547,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-11-16,activo
+658,Nicolás,Cabrera,43262876,2067-10-27,nicolas.cabrera.658@gmail.com,+5493832099475,Av. Colón 7880,Rosario,Santa Fe,Litoral,2024-06-19,activo
+669,Florencia,Suárez,19392929,2065-06-29,florencia.suarez.669@yahoo.com.ar,+5493942079983,Mitre 5182,Buenos Aires,CABA,AMBA,2025-05-10,activo
+671,Nicolás,Giménez,41615720,1998-06-01,nicolas.gimenez.671@outlook.com,+5493861998156,Sarmiento 6944,Rosario,Santa Fe,Litoral,2022-09-29,activo
+677,Mateo,Silva,87382012,1998-09-09,mateo.silva.677@gmail.com,+5492733089556,San Martín 1361,Mendoza,Mendoza,Cuyo,2023-11-02,activo
+678,Gastón,Aguirre,12657249,1982-08-22,gaston.aguirre.678@outlook.com,+5492343883848,25 de Mayo 9642,Mendoza,Mendoza,Cuyo,2023-10-16,activo
+680,Agustín,Benítez,12311687,1997-10-28,agustin.benitez.680@outlook.com,SIN TELEFONO,Rivadavia 9073,Córdoba,Córdoba,Centro,2024-03-25,activo
+681,Nicolás,Castro,10474634,2053-03-11,nicolas.castro.681@outlook.com,+5493106428677,Av. Colón 294,Rosario,Santa Fe,Litoral,2024-05-25,activo
+682,Laura,Ruiz,55506347,2003-12-11,laura.ruiz.682@yahoo.com.ar,+5493996128606,Rivadavia 4281,Mendoza,Mendoza,Cuyo,2023-07-02,activo
+684,María José,Molina,33990851,2004-08-05,maria.jose.molina.684@outlook.com,+5493976859107,San Martín 510,Salta,Salta,NOA,2024-07-23,activo
+692,Gastón,González,79869114,2055-07-25,gaston.gonzalez.692@outlook.com,+5493822998419,Independencia 4435,Mendoza,Mendoza,Cuyo,2024-12-22,activo
+694,Santiago,López,65518243,2060-06-30,santiago.lopez.694@outlook.com,+5492711519014,Las Heras 7607,Buenos Aires,CABA,AMBA,2025-05-25,activo
+706,María José,Navarro,28458257,2066-04-02,maria.jose.navarro.706@outlook.com,+5492564296558,9 de Julio 1702,Córdoba,Córdoba,Centro,2022-04-22,activo
+709,Camila,Flores,78433560,1995-12-28,camila.flores.709@hotmail.com,+5493438179381,San Martín 2982,Mendoza,Mendoza,Cuyo,2023-06-15,activo
+712,Gabriel,González,21739426,2042-05-25,gabriel.gonzalez.712@outlook.com,+5492018077505,9 de Julio 9057,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-02-15,activo
+719,Alejandro,Ruiz,28580515,1986-10-27,alejandro.ruiz.719@gmail.com,+5493621131427,Sarmiento 1613,Córdoba,Córdoba,Centro,2024-09-16,activo
+721,Santiago,Pérez,48199648,1996-11-14,santiago.perez.721@outlook.com,+5493563998215,San Martín 9170,Rosario,Santa Fe,Litoral,2023-09-03,activo
+722,Mateo,Gutiérrez,20000001,2026-02-08,mateo.gutierrez.722@gmail.com,+5492696229591,Independencia 8860,Rosario,Santa Fe,Litoral,2026-01-09,activo
+725,Diego,Romero,84021551,1981-02-23,diego.romero.725@hotmail.com,+5492458918383,Belgrano 5050,Salta,Salta,NOA,2022-01-10,activo
+732,Daniel,Pereyra,94003208,1996-06-09,daniel.pereyra.732@yahoo.com.ar,+5493768440933,Av. Colón 6079,Buenos Aires,CABA,AMBA,2022-09-01,activo
+734,Paula,López,99309232,1983-11-30,paula.lopez.734@yahoo.com.ar,+5493667164298,Las Heras 5518,Salta,Salta,NOA,2025-09-08,activo
+735,Joaquín,Ruiz,54717652,1976-01-30,joaquin.ruiz.735@gmail.com,+5492769379670,Independencia 1736,Tucumán,Tucumán,NOA,2022-11-20,activo
+743,Joaquín,Ruiz,54614589,1989-04-26,joaquin.ruiz.743@yahoo.com.ar,+5492198486957,Av. Colón 3751,Córdoba,Córdoba,Centro,2025-09-07,activo
+747,Gastón,Sánchez,22935236,2060-09-21,gaston.sanchez.747@outlook.com,+5493586479089,25 de Mayo 5315,Rosario,Santa Fe,Litoral,2022-05-18,activo
+752,Camila,Suárez,58545757,2058-06-22,camila.suarez.752@gmail.com,+5492164013062,Belgrano 6343,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-08-17,activo
+757,Julieta,Suárez,40903384,1994-03-12,julieta.suarez.757@gmail.com,+5493575166824,9 de Julio 8689,Buenos Aires,CABA,AMBA,2025-10-20,activo
+760,Santiago,Acosta,37310896,1977-06-02,santiago.acosta.760@yahoo.com.ar,+5492102568208,Av. Colón 6526,Buenos Aires,CABA,AMBA,2025-05-07,inactivo
+764,Carolina,Aguirre,72280898,1972-04-22,carolina.aguirre.764@gmail.com,+5493243537898,San Martín 1387,Córdoba,Córdoba,Centro,2025-11-16,activo
+765,María José,Benítez,40933915,2062-06-13,maria.jose.benitez.765@hotmail.com,+5493829890767,Av. Colón 7745,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-06,activo
+766,Joaquín,Benítez,91258305,1975-05-17,joaquin.benitez.766@outlook.com,+5492258801194,Mitre 1076,Córdoba,Córdoba,Centro,2023-10-01,activo
+777,Florencia,Herrera,70617178,2063-09-14,florencia.herrera.777@outlook.com,+5492411939021,Belgrano 4228,Córdoba,Córdoba,Centro,2024-08-06,activo
+788,Gastón,Alvarez,89217006,2046-10-17,gaston.alvarez.788@outlook.com,351ABC1234,Belgrano 6340,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-02,activo
+790,Emilia,Castro,17971883,2063-01-23,emilia.castro.790@outlook.com,+5492454301868,Av. Colón 2546,Mendoza,Mendoza,Cuyo,2025-04-21,activo
+791,María José,Ramírez,95776168,1973-05-14,maria.jose.ramirez.791@outlook.com,+5493059189782,Mitre 7424,Tucumán,Tucumán,NOA,2024-03-05,activo
+795,Santiago,Castro,97824338,2048-08-16,santiago.castro.795@gmail.com,+5493728952763,Rivadavia 2604,Rosario,Santa Fe,Litoral,2022-10-30,activo
+799,Diego,Gutiérrez,14526172,1991-07-15,diego.gutierrez.799@yahoo.com.ar,SIN TELEFONO,Av. Colón 6242,Rosario,Santa Fe,Litoral,2023-05-05,activo
+801,Ana,Fernández,86352083,2051-12-30,ana.fernandez.801@outlook.com,+5493401961868,Sarmiento 5170,Tucumán,Tucumán,NOA,2024-06-26,activo
+803,Daniel,Aguirre,75171242,2066-10-22,daniel.aguirre.803@yahoo.com.ar,+5492601905823,Rivadavia 4077,Tucumán,Tucumán,NOA,2022-12-06,bloqueado
+804,Juan,Castro,34691787,1972-12-25,juan.castro.804@yahoo.com.ar,+5493849351578,Belgrano 5731,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-07-25,inactivo
+806,Gabriel,Navarro,79066678,1992-09-30,gabriel.navarro.806@hotmail.com,+5492933636602,Independencia 136,Rosario,Santa Fe,Litoral,2022-05-01,activo
+808,Agustín,Cabrera,20000002,1974-07-19,agustin.cabrera.808@gmail.com,+5493606381232,Av. Colón 8233,Salta,Salta,NOA,2024-04-04,activo
+811,Lucía,Suárez,77938079,2066-07-16,lucia.suarez.811@yahoo.com.ar,+5492386116001,9 de Julio 775,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-08-19,activo
+812,María José,Alvarez,66297388,1997-01-08,maria.jose.alvarez.812@yahoo.com.ar,+5493595044922,25 de Mayo 4708,Buenos Aires,CABA,AMBA,2025-08-17,activo
+813,Sofía,Pérez,86766917,2044-01-19,sofia.perez.813@gmail.com,+5493695809874,9 de Julio 2784,Buenos Aires,CABA,AMBA,2023-02-03,activo
+829,Mateo,Martínez,20465279,1998-03-10,mateo.martinez.829@hotmail.com,+5492466965674,Belgrano 332,Mendoza,Santa Fe,Litoral,2022-04-18,activo
+830,Ana,Flores,94500914,2045-11-11,ana.flores.830@yahoo.com.ar,+5493746054157,Independencia 4787,Córdoba,Córdoba,Centro,2024-10-06,activo
+832,Carolina,Medina,77292489,1990-11-24,carolina.medina.832@gmail.com,+5493587936590,Sarmiento 4025,Rosario,Santa Fe,Litoral,2022-06-01,activo
+834,Juan,Rodríguez,13633249,2049-10-20,juan.rodriguez.834@yahoo.com.ar,+5492335480795,Mitre 1652,Mendoza,Mendoza,Cuyo,2022-06-16,activo
+839,Florencia,Ramírez,51220223,1989-12-09,florencia.ramirez.839@gmail.com,+5492558949109,Mitre 9358,Buenos Aires,CABA,AMBA,2025-04-09,activo
+842,Nicolás,Herrera,88494723,2066-11-19,nicolas.herrera.842@yahoo.com.ar,+5493679306726,Independencia 7197,Córdoba,Córdoba,Centro,2025-05-24,activo
+843,Joaquín,Castro,88589974,1978-11-04,joaquin.castro.843@outlook.com,+5493033434079,Independencia 1189,Rosario,Santa Fe,Litoral,2025-08-06,activo
+844,Federico,Ortiz,99692595,2051-03-14,federico.ortiz.844@yahoo.com.ar,+5492279079442,Mitre 9929,Buenos Aires,CABA,AMBA,2025-10-07,activo
+857,Lucía,Ramírez,75682245,1970-10-09,lucia.ramirez.857@yahoo.com.ar,+5493555266326,Las Heras 127,Salta,Salta,NOA,2024-01-04,activo
+860,Daniel,Pérez,47350501,1969-05-22,daniel.perez.860@gmail.com,+5492971447482,Sarmiento 7250,Tucumán,Tucumán,NOA,2024-09-23,activo
+872,Lucía,Giménez,47294871,1984-04-22,lucia.gimenez.872@yahoo.com.ar,+5492438177414,Av. Colón 8435,Buenos Aires,CABA,AMBA,2023-04-05,activo
+878,Gastón,González,71682447,2045-11-29,gaston.gonzalez.878@outlook.com,(357) 383.5888,San Martín 4310,Tucumán,Tucumán,NOA,2023-07-12,activo
+880,Joaquín,Domínguez,48775759,2064-02-21,joaquin.dominguez.880@hotmail.com,+5492422889125,Mitre 709,Rosario,Santa Fe,Litoral,2024-09-01,activo
+882,Mateo,Flores,36157863,1969-10-28,mateo.flores.882@outlook.com,+5492249548089,Rivadavia 9608,Salta,Salta,NOA,2025-09-01,activo
+888,Agustín,Alvarez,53105716,2000-11-29,agustin.alvarez.888@yahoo.com.ar,+5492372869252,Sarmiento 2773,Buenos Aires,CABA,AMBA,2023-01-20,activo
+890,Santiago,Martínez,19400996,2056-05-23,santiago.martinez.890@outlook.com,+5492302383828,9 de Julio 7454,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-20,activo
+894,Nicolás,Fernández,77754273,2067-12-15,nicolas.fernandez.894@yahoo.com.ar,+5493626645500,Av. Colón 6033,Mendoza,Mendoza,Cuyo,2023-09-14,activo
+897,Martín,Alvarez,46133999,1993-04-02,martin.alvarez.897@yahoo.com.ar,+5492877607352,San Martín 203,Tucumán,Tucumán,NOA,2026-02-09,activo
+908,Alejandro,Molina,53535390,2056-06-04,alejandro.molina.908@outlook.com,+5492208371544,Mitre 6017,Mendoza,Mendoza,Cuyo,2025-08-15,activo
+912,Julieta,Acosta,20000003,1979-08-01,julieta.acosta.912@hotmail.com,+5493491686290,Av. Colón 4056,Córdoba,Córdoba,Centro,2024-07-05,activo
+916,Santiago,Pereyra,29943334,2004-08-21,santiago.pereyra.916@gmail.com,+5492317259554,Las Heras 358,Córdoba,Córdoba,Centro,2023-08-13,activo
+927,Joaquín,Molina,82554729,2050-04-25,joaquin.molina.927@gmail.com,+5493983145948,San Martín 6505,Córdoba,Córdoba,Centro,2023-04-24,activo
+928,Carolina,Acosta,15732504,1987-09-22,carolina.acosta.928@yahoo.com.ar,+5493558788915,Independencia 2459,Córdoba,Córdoba,Centro,2023-04-07,activo
+932,Federico,Ramírez,80950159,1981-05-22,federico.ramirez.932@outlook.com,+5493357439085,Av. Colón 4085,Salta,Salta,NOA,2022-05-22,activo
+938,Martín,Ortiz,41055526,1997-05-15,martin.ortiz.938@hotmail.com,+5492745112985,Av. Colón 6770,Salta,Salta,NOA,2022-10-24,activo
+945,Daniel,Rodríguez,11259602,2001-08-30,daniel.rodriguez.945@outlook.com,+5493483937732,9 de Julio 5598,Buenos Aires,CABA,AMBA,2026-03-05,activo
+950,Sofía,Ramírez,60030464,2058-07-18,sofia.ramirez.950@yahoo.com.ar,+5493649397684,25 de Mayo 3835,Tucumán,Tucumán,NOA,2025-07-31,activo
+953,Juan,González,93876728,2000-04-02,juan.gonzalez.953@hotmail.com,+5492814118365,Las Heras 6995,Mendoza,Mendoza,Cuyo,2026-02-20,activo
+961,Federico,Molina,93795467,1998-07-18,federico.molina.961@yahoo.com.ar,+5492992422894,Rivadavia 8742,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-15,activo
+965,Carolina,Molina,25241947,1993-04-13,carolina.molina.965@outlook.com,+5493554973758,Independencia 4210,Rosario,Santa Fe,Litoral,2024-12-31,activo
+970,Carolina,Aguirre,67938156,1983-03-18,carolina.aguirre.970@yahoo.com.ar,+5492665340682,Mitre 4781,Mendoza,Mendoza,Cuyo,2023-05-03,activo
+978,Gabriel,Fernández,44772098,2052-02-25,gabriel.fernandez.978@outlook.com,+5493671539929,Belgrano 4830,Salta,Salta,NOA,2023-02-20,activo
+995,Paula,Pérez,58742155,1987-07-12,paula.perez.995@outlook.com,+5493157059987,Las Heras 9880,Córdoba,Córdoba,Centro,2024-07-22,activo
+997,Ana,Alvarez,63160000,1976-05-22,ana.alvarez.997@hotmail.com,+5493917671068,Rivadavia 8783,Salta,Salta,NOA,2023-03-19,activo
+1000,María José,Rodríguez,53904915,2004-02-13,maria.jose.rodriguez.1000@outlook.com,+5492475178587,Independencia 9778,Rosario,Santa Fe,Litoral,2023-07-19,activo
+1002,Joaquín,Cabrera,30079303,1982-03-02,joaquin.cabrera.1002@yahoo.com.ar,+5493259386960,Sarmiento 1282,Rosario,Santa Fe,Litoral,2022-01-11,activo
+1011,Lucía,Sánchez,10599745,2003-09-23,lucia.sanchez.1011@gmail.com,+5493392712257,Sarmiento 1181,Buenos Aires,CABA,AMBA,2024-11-23,activo
+1019,Joaquín,Molina,44149515,2048-12-20,joaquin.molina.1019@hotmail.com,+5493876254791,San Martín 6809,Mendoza,Mendoza,Cuyo,2022-02-21,bloqueado
+1021,Diego,Flores,36407788,2049-01-03,diego.flores.1021@outlook.com,+5492739469751,25 de Mayo 3476,Mendoza,Mendoza,Cuyo,2024-03-04,activo
+1025,Mateo,Pérez,49943545,2054-09-18,mateo.perez.1025@hotmail.com,+5492709325313,25 de Mayo 5051,Córdoba,Córdoba,Centro,2024-12-29,activo
+1026,Laura,Pérez,42021771,2051-01-29,laura.perez.1026@hotmail.com,+5493988390641,9 de Julio 7521,Tucumán,Tucumán,NOA,2025-09-24,bloqueado
+1028,Martín,Martínez,35348732,2061-08-09,martin.martinez.1028@gmail.com,+5493913537761,Independencia 6422,Córdoba,Córdoba,Centro,2024-04-26,activo
+1030,Diego,Cabrera,31800703,1992-01-11,diego.cabrera.1030@yahoo.com.ar,+5493971719248,Belgrano 9135,Córdoba,Córdoba,Centro,2023-06-30,inactivo
+1033,Gastón,Martínez,27235585,1996-05-20,gaston.martinez.1033@hotmail.com,+5492505612943,9 de Julio 228,Tucumán,Tucumán,NOA,2023-01-01,activo
+1035,Mateo,López,20292900,1977-09-12,mateo.lopez.1035@hotmail.com,+5492608965054,Sarmiento 934,Mendoza,Mendoza,Cuyo,2022-06-28,activo
+1039,Federico,Domínguez,35196763,1971-02-09,federico.dominguez.1039@gmail.com,+5492665003250,Av. Colón 188,Buenos Aires,CABA,AMBA,2025-07-10,activo
+1042,Lucía,Giménez,95266103,1969-12-18,lucia.gimenez.1042@hotmail.com,+5492837206774,25 de Mayo 6401,Buenos Aires,CABA,AMBA,2023-10-21,activo
+1045,Florencia,Ruiz,86896062,1997-09-15,florencia.ruiz.1045@outlook.com,+5492022648906,25 de Mayo 8600,Tucumán,Tucumán,NOA,2023-01-22,activo
+1048,Federico,Cabrera,22484864,2043-11-23,federico.cabrera.1048@gmail.com,+5492218520418,9 de Julio 4260,Salta,Salta,NOA,2023-03-23,activo
+1050,Mateo,Gutiérrez,13335753,2067-09-29,mateo.gutierrez.1050@gmail.com,+5493638925871,San Martín 6610,Salta,Salta,NOA,2025-09-11,activo
+1053,Emilia,Pereyra,13497232,2004-06-05,emilia.pereyra.1053@hotmail.com,+5492123404166,San Martín 4818,Buenos Aires,CABA,AMBA,2023-09-15,activo
+1056,Lucía,Suárez,91699194,1969-11-04,lucia.suarez.1056@gmail.com,+5492602327493,San Martín 5302,Buenos Aires,CABA,AMBA,2023-06-05,activo
+1057,Gastón,González,58293001,1994-06-02,gaston.gonzalez.1057@yahoo.com.ar,+5492229576748,Av. Colón 5865,Mendoza,Mendoza,Cuyo,2023-11-08,activo
+1058,Santiago,Silva,40784881,2044-04-08,santiago.silva.1058@outlook.com,+5492475698912,Rivadavia 2899,Buenos Aires,CABA,AMBA,2024-12-29,activo
+1062,Laura,Benítez,60515275,2066-05-12,laura.benitez.1062@yahoo.com.ar,+5493445101136,9 de Julio 3764,Tucumán,Tucumán,NOA,2023-12-07,inactivo
+1074,Mateo,Cabrera,33310293,1998-09-17,mateo.cabrera.1074@yahoo.com.ar,+5493059974351,25 de Mayo 5247,Rosario,Santa Fe,Litoral,2024-06-23,activo
+1075,Agustín,Benítez,55412957,2054-10-13,agustin.benitez.1075@yahoo.com.ar,+5492897496405,Sarmiento 103,Mendoza,Mendoza,Cuyo,2022-06-27,activo
+1076,Julieta,Acosta,11324041,1973-10-02,julieta.acosta.1076@gmail.com,+5492558936922,San Martín 7193,Mendoza,Mendoza,Cuyo,2023-12-15,activo
+1085,Julieta,Benítez,39585699,1982-07-18,julieta.benitez.1085@outlook.com,+5493216592224,San Martín 1055,Tucumán,Tucumán,NOA,2023-10-24,activo
+1091,Ju@N#,Martínez,61072492,2061-02-23,paula.martinez.1091@hotmail.com,+5492361685289,9 de Julio 7737,Tucumán,Tucumán,NOA,2023-12-29,activo
+1095,María José,Navarro,68638262,2066-06-08,maria.jose.navarro.1095@outlook.com,+5493295003827,Independencia 6347,Tucumán,Tucumán,NOA,2023-01-17,activo
+1096,Juan,Giménez,89043982,1969-01-26,juan.gimenez.1096@outlook.com,+5492292303181,San Martín 9709,Mendoza,Mendoza,Cuyo,2022-08-22,activo
+1097,Laura,Silva,55003205,1991-11-30,laura.silva.1097@hotmail.com,+5492285502707,Belgrano 5865,Salta,Salta,NOA,2026-03-28,activo
+1102,Daniel,Ruiz,76089613,1973-09-30,daniel.ruiz.1102@yahoo.com.ar,(307) 872.9534,Independencia 9250,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-04-17,bloqueado
+1104,Lucía,Giménez,19804066,1981-09-09,lucia.gimenez.1104@yahoo.com.ar,+5493143866918,Las Heras 3806,Rosario,Santa Fe,Litoral,2026-03-20,activo
+1109,María José,Ramírez,61403568,1972-08-20,maria.jose.ramirez.1109@outlook.com,+5492643918090,25 de Mayo 4470,Buenos Aires,CABA,AMBA,2024-11-19,activo
+1116,Sofía,Ruiz,92150894,2057-11-14,sofia.ruiz.1116@gmail.com,+5492692908820,Independencia 6085,Rosario,Santa Fe,Litoral,2025-10-11,activo
+1118,Mateo,Domínguez,29727822,2061-09-26,mateo.dominguez.1118@yahoo.com.ar,+5493678172702,25 de Mayo 5809,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-19,activo
+1127,Lucía,Sánchez,89669862,1970-08-07,lucia.sanchez.1127@yahoo.com.ar,+5493618627759,Las Heras 3182,Tucumán,Tucumán,NOA,2025-05-17,activo
+1129,Paula,Molina,70605402,2052-07-16,paula.molina.1129@gmail.com,+5493741782156,Independencia 6582,Tucumán,Tucumán,NOA,2024-02-07,bloqueado
+1130,Santiago,Cabrera,16124907,2046-05-27,santiago.cabrera.1130@hotmail.com,+5493255915531,,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-02-20,activo
+1136,Lucía,Alvarez,98262109,2044-11-21,lucia.alvarez.1136@gmail.com,+5493191775116,25 de Mayo 5252,Salta,Salta,NOA,2023-08-12,bloqueado
+1145,Joaquín,Sánchez,97465539,2061-01-15,joaquin.sanchez.1145@hotmail.com,+5492186738621,SARMIENTO 9693,Mendoza,Mendoza,Cuyo,2024-08-06,activo
+1150,Martín,Cabrera,34738008,1999-05-08,martin.cabrera.1150@gmail.com,+5492933133000,Independencia 4636,Mendoza,Mendoza,Cuyo,2022-04-19,activo
+1159,Emilia,Navarro,96072487,1985-03-10,emilia.navarro.1159@gmail.com,(261) 712.9785,Av. Colón 5046,Mendoza,Mendoza,Cuyo,2024-03-24,activo
+1165,Daniel,Ortiz,49173113,1979-10-15,daniel.ortiz.1165@outlook.com,+5492762560213,Mitre 9610,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-01-17,activo
+1169,María José,Sánchez,73828753,1972-10-13,maria.jose.sanchez.1169@yahoo.com.ar,+5493323252239,San Martín 342,Rosario,Santa Fe,Litoral,2022-12-10,activo
+1171,Emilia,Cabrera,79267932,1983-10-22,emilia.cabrera.1171@yahoo.com.ar,+5492177904177,Mitre 2179,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-08-23,activo
+1174,Emilia,Castro,95165230,1975-10-29,emilia.castro.1174@outlook.com,+5493346620529,Belgrano 904,Tucumán,Tucumán,NOA,2023-02-12,activo
+1175,Gabriel,Ortiz,74818139,2066-08-15,gabriel.ortiz.1175@hotmail.com,+5493319034104,25 de Mayo 3630,Tucumán,Tucumán,NOA,2024-07-07,activo
+1176,Santiago,López,60222876,1997-04-02,santiago.lopez.1176@hotmail.com,+5492592796854,Av. Colón 7531,Buenos Aires,CABA,AMBA,2023-06-23,activo
+1182,Ana,Silva,16270900,2045-04-26,ana.silva.1182@outlook.com,+5493467822196,San Martín 3652,Salta,Salta,NOA,2022-07-21,activo
+1184,Agustín,Gutiérrez,93003194,1970-10-30,agustin.gutierrez.1184@hotmail.com,+5493583776778,Av. Colón 5077,Tucumán,Tucumán,NOA,2025-10-02,activo
+1188,Gastón,Fernández,81093466,2056-11-28,gaston.fernandez.1188@gmail.com,(209) 497.4624,San Martín 7673,Córdoba,Córdoba,Centro,2025-07-14,activo
+1193,Mateo,Pérez,24952036,2061-06-06,mateo.perez.1193@gmail.com,+5493736848411,Belgrano 4282,Salta,Salta,NOA,2022-06-11,activo
+1198,Sofía,Martínez,29837298,1978-03-28,sofia.martinez.1198@yahoo.com.ar,+5493877473625,Mitre 1947,Tucumán,Tucumán,NOA,2025-10-14,inactivo
+1201,Sofía,Pereyra,68805238,2002-03-18,sofia.pereyra.1201@yahoo.com.ar,+5492156137897,Independencia 5610,Córdoba,Córdoba,Centro,2025-02-28,activo
+1205,Gabriel,Suárez,55078129,1989-10-23,gabriel.suarez.1205@outlook.com,+5492301204039,Rivadavia 4871,Córdoba,Córdoba,Centro,2022-11-27,activo
+1210,Daniel,Domínguez,86143892,1969-12-06,daniel.dominguez.1210@outlook.com,+5493071160303,25 de Mayo 3071,Rosario,Santa Fe,Litoral,2024-01-13,activo
+1211,Juan,Castro,13165162,2050-04-24,cliente@@mail.com,+5493079356716,Mitre 8766,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-01-15,activo
+1213,Gabriel,Ruiz,80902606,1971-01-14,gabriel.ruiz.1213@outlook.com,+5493551941014,Mitre 8087,Mendoza,Mendoza,Cuyo,2024-03-05,activo
+1216,Mateo,López,32675147,1979-03-15,mateo.lopez.1216@gmail.com,+5492502298816,Rivadavia 6847,Mendoza,Mendoza,Cuyo,2022-01-03,activo
+1221,Carolina,Silva,87885182,2053-03-12,carolina.silva.1221@hotmail.com,+5493404473244,Las Heras 8495,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-12-09,activo
+1232,Laura,Martínez,82530344,1995-05-01,laura.martinez.1232@gmail.com,+5493235581905,9 de Julio 2798,Rosario,Santa Fe,Litoral,2025-04-08,activo
+1236,Juan,Castro,27250965,1985-09-14,juan.castro.1236@hotmail.com,+5493964593357,9 de Julio 9427,Mendoza,Mendoza,Cuyo,2023-08-30,activo
+1243,Lucía,López,97684967,2048-10-02,lucia.lopez.1243@outlook.com,+5493566007852,Belgrano 6907,Tucumán,Tucumán,NOA,2023-07-17,activo
+1245,Nicolás,Cabrera,84447335,2065-06-12,nicolas.cabrera.1245@outlook.com,+5493484436572,Belgrano 7483,Mendoza,Mendoza,Cuyo,2022-05-22,activo
+1256,Lucía,Herrera,49605344,2047-02-12,lucia.herrera.1256@yahoo.com.ar,+5492278358298,San Martín 9661,Salta,Salta,NOA,2023-03-08,activo
+1259,Laura,Ruiz,91425469,1991-09-02,laura.ruiz.1259@yahoo.com.ar,+5493397547788,Las Heras 6684,Córdoba,Córdoba,Centro,2022-10-25,activo
+1261,Diego,Sánchez,14579145,1998-10-29,diego.sanchez.1261@outlook.com,+5492834098187,25 de Mayo 4741,Córdoba,Córdoba,Centro,2023-10-12,activo
+1262,Joaquín,Acosta,50199410,2001-01-09,joaquin.acosta.1262@gmail.com,+5492855839294,Rivadavia 9842,Rosario,Santa Fe,Litoral,2023-07-04,activo
+1269,Martín,Martínez,87305502,2002-10-31,martin.martinez.1269@gmail.com,+5493795020205,Belgrano 4990,Tucumán,Tucumán,NOA,2023-12-29,activo
+1271,Martín,Acosta,55045407,1977-11-30,martin.acosta.1271@gmail.com,+5492784062965,Av. Colón 3502,Tucumán,Tucumán,NOA,2023-10-21,activo
+1273,Joaquín,Ortiz,17561080,1999-01-26,joaquin.ortiz.1273@gmail.com,+5493841642335,San Martín 3782,Rosario,Santa Fe,Litoral,2023-05-13,activo
+1282,María José,Silva,97653097,2065-02-27,maria.jose.silva.1282@yahoo.com.ar,+5492145520286,San Martín 7090,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-07-22,activo
+1293,Santiago,Ramírez,36120020,2067-10-09,santiago.ramirez.1293@gmail.com,+5493538856747,San Martín 8780,Tucumán,Tucumán,NOA,2022-06-21,activo
+1294,Diego,Ortiz,65895436,2048-11-21,diego.ortiz.1294@yahoo.com.ar,+5492477787541,9 de Julio 7843,Salta,Salta,NOA,2025-11-27,activo
+1296,Mateo,Rodríguez,64399933,2046-01-18,mateo.rodriguez.1296@gmail.com,+5492778369090,Mitre 1941,Salta,Salta,NOA,2023-12-18,activo
+1306,Gabriel,Herrera,27698266,1981-01-15,gabriel.herrera.1306@yahoo.com.ar,+5493349811866,9 de Julio 8855,Córdoba,Córdoba,Centro,2022-11-13,activo
+1322,Juan,Benítez,84607178,1975-05-03,juan.benitez.1322@outlook.com,+5493042487375,Sarmiento 8484,Córdoba,Córdoba,Centro,2023-11-05,activo
+1323,Nicolás,Benítez,23347226,2049-10-01,nicolas.benitez.1323@hotmail.com,+5493858168432,Sarmiento 2784,Buenos Aires,CABA,AMBA,2022-07-10,inactivo
+1324,Mateo,Fernández,36980038,1972-05-07,mateo.fernandez.1324@outlook.com,+5493545439706,Las Heras 1503,Rosario,Santa Fe,Litoral,2022-08-16,activo
+1331,Martín,Sánchez,45241679,1997-12-24,martin.sanchez.1331@yahoo.com.ar,+5493168904580,Independencia 2874,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-01-29,activo
+1336,Laura,Alvarez,72471876,1971-09-04,laura.alvarez.1336@hotmail.com,+5492614191366,San Martín 3470,Tucumán,Tucumán,NOA,2023-03-01,activo
+1339,Santiago,Rodríguez,12455735,1973-06-22,santiago.rodriguez.1339@hotmail.com,+5493835750462,25 de Mayo 401,Mendoza,Mendoza,Cuyo,2023-08-06,activo
+1341,Gabriel,Castro,71443614,1990-08-18,gabriel.castro.1341@hotmail.com,+5493823451925,Mitre 4459,Salta,Salta,NOA,2024-01-19,activo
+1345,Alejandro,Pérez,42876514,1994-12-27,alejandro.perez.1345@hotmail.com,+5492484423220,9 de Julio 9563,Mendoza,Mendoza,Cuyo,2026-02-25,activo
+1346,María José,Silva,13795693,2043-10-22,maria.jose.silva.1346@gmail.com,+5493136387112,Independencia 5380,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-09,activo
+1352,Laura,Alvarez,10884074,1988-05-15,laura.alvarez.1352@yahoo.com.ar,+5492683666533,Las Heras 2777,Rosario,Santa Fe,Litoral,2023-01-13,activo
+1361,María José,Alvarez,89044031,1975-01-25,maria.jose.alvarez.1361@hotmail.com,+5493415786334,Las Heras 9821,Rosario,Santa Fe,Litoral,2024-09-25,activo
+1363,Gastón,Medina,13841605,1976-06-28,gaston.medina.1363@gmail.com,+5492913537492,Las Heras 2682,Tucumán,Tucumán,NOA,2023-02-18,activo
+1371,Alejandro,Suárez,29993693,1974-10-06,alejandro.suarez.1371@gmail.com,+5492867262901,Las Heras 2976,Mendoza,Mendoza,Cuyo,2022-01-07,activo
+1372,Nicolás,Pérez,58548182,1981-11-05,nicolas.perez.1372@yahoo.com.ar,351ABC1234,Independencia 6016,Tucumán,Tucumán,NOA,2024-05-05,inactivo
+1376,Camila,Navarro,90016204,1994-04-11,camila.navarro.1376@outlook.com,+5492133427412,Belgrano 2878,Rosario,Santa Fe,Litoral,2023-07-10,activo
+1392,Gabriel,Navarro,87153008,2045-05-29,gabriel.navarro.1392@hotmail.com,+5492372762307,Belgrano 9175,Córdoba,Córdoba,Centro,2022-01-02,activo
+1393,Camila,Domínguez,22272616,2058-02-15,camila.dominguez.1393@gmail.com,+5493986972495,Av. Colón 422,Tucumán,Tucumán,NOA,2026-01-08,activo
+1398,Lucía,Rodríguez,94343894,2061-04-27,lucia.rodriguez.1398@yahoo.com.ar,+5493656780096,Las Heras 9339,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-08-04,activo
+1406,Julieta,Giménez,12516133,1980-05-25,julieta.gimenez.1406@outlook.com,+5492023110207,25 de Mayo 689,Rosario,Santa Fe,Litoral,2024-10-03,activo
+1407,Carolina,Navarro,50263581,1995-04-17,carolina.navarro.1407@gmail.com,+5492746923516,Rivadavia 3897,Tucumán,Tucumán,NOA,2025-03-20,activo
+1413,Laura,Sánchez,25558177,1969-04-13,laura.sanchez.1413@outlook.com,+5493364225169,Sarmiento 5630,Córdoba,Córdoba,Centro,2022-03-19,activo
+1414,Martín,López,96041242,1976-11-12,martin.lopez.1414@outlook.com,+5492331000799,25 de Mayo 8649,Córdoba,Córdoba,Centro,2026-03-01,activo
+1418,Alejandro,Pereyra,27419659,1993-01-16,alejandro.pereyra.1418@gmail.com,+5493163723107,9 de Julio 6829,Salta,Salta,NOA,2023-04-23,activo
+1420,Emilia,Flores,80092405,2058-06-04,emilia.flores.1420@gmail.com,(315) 174.1587,San Martín 4593,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-08-12,activo
+1421,Sofía,Benítez,95066821,1975-10-21,sofia.benitez.1421@yahoo.com.ar,+5493861610431,San Martín 2846,Mendoza,Mendoza,Cuyo,2024-02-16,inactivo
+1422,Sofía,Molina,96026096,1989-08-26,sofia.molina.1422@gmail.com,+5492214297418,25 de Mayo 9661,Tucumán,Tucumán,NOA,2025-02-04,activo
+1425,Agustín,Molina,77240286,2042-12-15,agustin.molina.1425@yahoo.com.ar,+5492178342209,Mitre 787,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-04,activo
+1426,Alejandro,Castro,14267701,1978-03-07,alejandro.castro.1426@hotmail.com,+5492038262717,Mitre 353,Rosario,Santa Fe,Litoral,2022-08-22,activo
+1433,Camila,Ramírez,25115895,2001-07-25,camila.ramirez.1433@outlook.com,+5493486084365,Independencia 8385,Salta,Salta,NOA,2025-08-21,activo
+1434,Ana,Alvarez,85640914,1973-04-22,ana.alvarez.1434@hotmail.com,+5493142809819,Sarmiento 2329,Mendoza,Mendoza,Cuyo,2024-09-25,activo
+1435,Carolina,Fernández,59300007,1986-07-14,carolina.fernandez.1435@gmail.com,+5493175387538,Rivadavia 5988,Tucumán,Tucumán,NOA,2024-12-29,activo
+1437,Daniel,Herrera,84913503,2050-07-07,daniel.herrera.1437@yahoo.com.ar,+5493208037392,San Martín 7322,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-04-02,activo
+1438,Juan,Alvarez,93409120,1983-04-09,juan.alvarez.1438@yahoo.com.ar,+5493977781792,Independencia 1907,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-09,activo
+1445,Martín,Rodríguez,16154637,2062-01-16,martin.rodriguez.1445@gmail.com,+5493209723713,Las Heras 2109,Tucumán,Tucumán,NOA,2025-05-30,bloqueado
+1452,Emilia,Fernández,10903142,2000-01-06,emilia.fernandez.1452@hotmail.com,+5492705216018,Rivadavia 119,Salta,Salta,NOA,2024-09-30,activo
+1457,Ana,Alvarez,50634007,2068-06-10,ana.alvarez.1457@hotmail.com,(335) 256.3056,25 de Mayo 1714,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-02-03,activo
+1470,Camila,Benítez,60459225,2063-11-02,camila.benitez.1470@hotmail.com,+5492449049118,9 de Julio 1807,Mendoza,Mendoza,Cuyo,2025-08-06,activo
+1480,Joaquín,Aguirre,87664001,2061-07-18,joaquin.aguirre.1480@gmail.com,+5492594041616,Independencia 1555,Rosario,Santa Fe,Litoral,2022-11-11,activo
+1481,Federico,Benítez,77750510,2054-12-19,federico.benitez.1481@hotmail.com,+5493731381102,Belgrano 2267,Tucumán,Tucumán,NOA,2022-03-13,activo
+1484,Lucía,Rodríguez,13184363,1969-04-16,lucia.rodriguez.1484@gmail.com,(214) 532.8026,25 de Mayo 3080,Tucumán,Tucumán,NOA,2022-11-18,activo
+1486,María José,Ramírez,39709375,1972-09-12,maria.jose.ramirez.1486@hotmail.com,+5493798192291,Rivadavia 3235,Salta,Salta,NOA,2023-10-04,activo
+1488,Gabriel,Benítez,20000004,2058-05-22,gabriel.benitez.1488@outlook.com,+5492929993518,Av. Colón 2321,Tucumán,Tucumán,NOA,2022-09-17,activo
+1490,Julieta,Herrera,47904429,2063-09-09,julieta.herrera.1490@outlook.com,+5493635199769,Independencia 8572,Córdoba,Córdoba,Centro,2024-12-02,activo
+1492,Joaquín,Fernández,38829919,1975-11-09,joaquin.fernandez.1492@hotmail.com,+5492754979941,Belgrano 8052,Tucumán,Tucumán,NOA,2024-06-11,activo
+1500,Ana,Navarro,53703610,2005-01-08,ana.navarro.1500@outlook.com,+5493982962814,9 de Julio 2969,Buenos Aires,CABA,AMBA,2024-07-22,activo
+1502,Lucía,Domínguez,69985630,1997-10-22,lucia.dominguez.1502@gmail.com,+5492013940480,Independencia 8784,Córdoba,Córdoba,Centro,2025-10-22,activo
+1504,Florencia,Suárez,77282238,1978-08-01,florencia.suarez.1504@outlook.com,+5493236547500,9 de Julio 4770,Mendoza,Mendoza,Cuyo,2023-10-17,activo
+1505,Emilia,Fernández,64909065,1996-04-11,emilia.fernandez.1505@gmail.com,+5492646062966,9 de Julio 1590,Salta,Salta,NOA,2022-08-01,activo
+1506,Gabriel,Ramírez,62028853,1992-09-10,gabriel.ramirez.1506@gmail.com,+5493998440445,Las Heras 145,Córdoba,Córdoba,Centro,2022-05-09,activo
+1508,María José,Ramírez,57862775,1979-08-08,maria.jose.ramirez.1508@hotmail.com,+5493165180647,San Martín 5968,Córdoba,Córdoba,Centro,2023-07-01,activo
+1514,Sofía,Martínez,16008751,2043-05-29,sofia.martinez.1514@yahoo.com.ar,+5493614671204,Las Heras 1863,Buenos Aires,CABA,AMBA,2024-02-14,activo
+1533,Gabriel,Aguirre,67649151,1983-10-07,gabriel.aguirre.1533@yahoo.com.ar,+5492597510355,Av. Colón 7479,Tucumán,Tucumán,NOA,2024-10-18,activo
+1535,María José,Pereyra,82615106,1976-07-04,maria.jose.pereyra.1535@outlook.com,+5492291091568,Independencia 6593,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-08-17,activo
+1537,Sofía,Medina,62346174,1991-11-02,sofia.medina.1537@outlook.com,+5492344017458,Rivadavia 568,Tucumán,Tucumán,NOA,2023-09-04,activo
+1540,María José,Domínguez,33747806,2006-06-30,maria.jose.dominguez.1540@hotmail.com,+5493123903032,Mitre 7188,Salta,Salta,NOA,2024-07-26,activo
+1542,Sofía,Sánchez,79529555,2066-07-15,sofia.sanchez.1542@hotmail.com,+5493818071426,Av. Colón 915,Salta,Salta,NOA,2022-12-28,activo
+1544,Agustín,López,62498493,1985-04-29,agustin.lopez.1544@yahoo.com.ar,+5492512257752,Independencia 8447,Salta,Salta,NOA,2023-11-25,activo
+1551,Daniel,Martínez,52627910,2063-11-13,daniel.martinez.1551@gmail.com,+5493889479756,Mitre 9882,Tucumán,Tucumán,NOA,2025-06-14,activo
+1554,Camila,López,43094034,2045-01-17,camila.lopez.1554@yahoo.com.ar,(388) 468.5949,Belgrano 8960,Buenos Aires,CABA,AMBA,2022-03-21,inactivo
+1558,Martín,Pérez,37710135,1979-02-28,martin.perez.1558@yahoo.com.ar,+5493738264113,Mitre 9113,Mendoza,Mendoza,Cuyo,2024-02-07,activo
+1559,Carolina,Navarro,30628897,1998-12-27,carolina.navarro.1559@yahoo.com.ar,+5492722368999,25 de Mayo 5890,Salta,Salta,NOA,2025-08-16,activo
+1567,Mateo,Giménez,41279842,2051-04-15,mateo.gimenez.1567@gmail.com,+5492127256935,25 de Mayo 4059,Mendoza,Mendoza,Cuyo,2024-07-08,activo
+1570,Juan,Acosta,68194779,1989-02-24,juan.acosta.1570@gmail.com,+5492117808815,Rivadavia 2175,Buenos Aires,CABA,AMBA,2026-02-23,activo
+1579,Diego,Romero,73247367,2046-10-03,diego.romero.1579@gmail.com,+5492981744618,Las Heras 6668,Mendoza,Mendoza,Cuyo,2023-06-20,activo
+1584,Carolina,Sánchez,85491168,1998-03-01,carolina.sanchez.1584@gmail.com,+5493321987979,Mitre 692,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-06-30,activo
+1589,Alejandro,Flores,13408506,1971-03-10,alejandro.flores.1589@yahoo.com.ar,+5493427389047,San Martín 3370,Tucumán,Tucumán,NOA,2023-06-20,activo
+1590,Carolina,Martínez,89427100,1986-03-16,carolina.martinez.1590@hotmail.com,+5492432051674,San Martín 3678,Córdoba,Córdoba,Centro,2022-07-07,activo
+1591,Lucía,Silva,42991249,2004-12-30,lucia.silva.1591@outlook.com,+5493758368952,Mitre 8320,Mendoza,Mendoza,Cuyo,2025-01-08,inactivo
+1593,Camila,Fernández,49448632,2051-03-25,camila.fernandez.1593@yahoo.com.ar,+5492515400331,25 de Mayo 6838,Salta,Salta,NOA,2024-01-14,activo
+1599,Daniel,Fernández,29840252,1976-05-12,daniel.fernandez.1599@gmail.com,+5492947234707,Mitre 2996,Tucumán,Tucumán,NOA,2024-12-15,activo
+1601,Paula,Aguirre,59071071,1979-01-30,paula.aguirre.1601@yahoo.com.ar,+5492409461831,Av. Colón 7981,Córdoba,Córdoba,Centro,2025-01-27,activo
+1607,Santiago,Romero,65572721,2002-07-29,santiago.romero.1607@gmail.com,+5493601298483,Independencia 7705,Rosario,Santa Fe,Litoral,2025-07-11,activo
+1613,Florencia,Ortiz,70391886,1974-01-09,florencia.ortiz.1613@gmail.com,+5493982097280,San Martín 7272,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-07-30,activo
+1616,Nicolás,González,86936726,2003-09-09,nicolas.gonzalez.1616@gmail.com,+5492232729783,Rivadavia 6024,Tucumán,Tucumán,NOA,2022-07-11,activo
+1618,Julieta,Sánchez,82390989,1990-11-19,julieta.sanchez.1618@outlook.com,+5492922084691,25 de Mayo 5243,Tucumán,Tucumán,NOA,2025-11-25,activo
+1619,Nicolás,Acosta,50534396,2047-02-08,nicolas.acosta.1619@hotmail.com,+5493887169111,San Martín 3224,Córdoba,Córdoba,Centro,2025-08-08,activo
+1621,Emilia,Cabrera,82852242,2048-03-26,emilia.cabrera.1621@hotmail.com,+5492152892489,Rivadavia 1039,Buenos Aires,CABA,AMBA,2022-06-06,activo
+1624,Agustín,Fernández,36549733,2061-06-05,agustin.fernandez.1624@gmail.com,+5492119388999,Independencia 7757,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-11-21,activo
+1627,Daniel,Herrera,21412382,2043-09-10,daniel.herrera.1627@hotmail.com,+5493419917412,Mitre 1849,Rosario,Santa Fe,Litoral,2022-10-21,activo
+1630,Diego,Cabrera,12512404,2052-07-15,diego.cabrera.1630@gmail.com,+5493667418701,25 de Mayo 1798,Córdoba,Córdoba,Centro,2023-05-01,activo
+1633,Julieta,Romero,88675433,1979-03-29,julieta.romero.1633@gmail.com,+5493186577632,25 de Mayo 572,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-12,activo
+1635,Gabriel,Alvarez,39301320,1988-06-13,gabriel.alvarez.1635@yahoo.com.ar,+5492816029266,Rivadavia 1969,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-12,activo
+1648,Gabriel,Molina,74497964,2042-11-26,gabriel.molina.1648@yahoo.com.ar,+5493518424535,San Martín 7936,Córdoba,Córdoba,Centro,2022-01-04,activo
+1651,María José,Giménez,10944464,1972-01-17,maria.jose.gimenez.1651@yahoo.com.ar,+5493274450944,Av. Colón 957,Mendoza,Mendoza,Cuyo,2022-08-19,inactivo
+1653,Agustín,Molina,71388484,1979-09-08,agustin.molina.1653@gmail.com,+5492528211480,San Martín 1312,Buenos Aires,CABA,AMBA,2023-09-05,activo
+1655,,Benítez,35208337,2057-09-02,martin.benitez.1655@yahoo.com.ar,+5493837407421,Rivadavia 6165,Buenos Aires,CABA,AMBA,2024-04-27,activo
+1663,Paula,Gutiérrez,33450237,2005-05-24,paula.gutierrez.1663@gmail.com,+5493478430781,Independencia 2200,Mendoza,Mendoza,Cuyo,2023-06-25,activo
+1667,Juan,Ruiz,10521326,1996-05-30,juan.ruiz.1667@yahoo.com.ar,+5492008100803,San Martín 5163,Salta,Salta,NOA,2023-01-02,activo
+1670,Santiago,Acosta,21783648,1981-01-15,santiago.acosta.1670@hotmail.com,+5493742220287,Las Heras 4433,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-05-22,activo
+1671,Daniel,Ortiz,78275008,2052-11-05,daniel.ortiz.1671@gmail.com,+5493069501722,25 de Mayo 4469,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-05-26,activo
+1676,Diego,Suárez,38114391,2067-07-09,diego.suarez.1676@hotmail.com,+5492793883894,9 de Julio 7709,Salta,Salta,NOA,2025-10-24,activo
+1695,Paula,Ortiz,99916912,2058-07-29,paula.ortiz.1695@gmail.com,+5493753799311,Rivadavia 9931,Salta,Salta,NOA,2025-12-27,activo
+1698,Emilia,Romero,78184604,2062-01-07,emilia.romero.1698@gmail.com,+5492618855783,9 de Julio 7748,Buenos Aires,CABA,AMBA,2025-08-13,activo
+1700,Agustín,Rodríguez,74759510,2060-11-25,agustin.rodriguez.1700@yahoo.com.ar,+5492546474731,Sarmiento 2229,Rosario,Santa Fe,Litoral,2023-10-20,activo
+1719,Paula,Molina,88365787,1989-01-28,paula.molina.1719@hotmail.com,+5493172121316,9 de Julio 4424,Buenos Aires,CABA,AMBA,2022-05-16,activo
+1722,Sofía,González,35574852,2068-09-09,sofia.gonzalez.1722@gmail.com,+5492243190563,Av. Colón 402,Mendoza,Mendoza,Cuyo,2022-09-06,activo
+1724,Camila,Herrera,94455838,2055-04-12,camila.herrera.1724@gmail.com,+5493921882002,San Martín 1588,Buenos Aires,CABA,AMBA,2025-12-25,activo
+1729,Julieta,Ortiz,45813719,1970-07-02,julieta.ortiz.1729@hotmail.com,+5493724145081,Belgrano 2343,Buenos Aires,CABA,AMBA,2024-03-11,activo
+1731,Agustín,Pereyra,15118751,2001-03-29,agustin.pereyra.1731@outlook.com,+5493258753986,Sarmiento 1232,Mendoza,Mendoza,Cuyo,2024-05-24,activo
+1740,Juan,Gutiérrez,44545090,2058-01-02,juan.gutierrez.1740@yahoo.com.ar,+5492657664487,San Martín 5302,Córdoba,Córdoba,Centro,2025-11-25,activo
+1742,Diego,Medina,84301983,2042-03-23,diego.medina.1742@hotmail.com,+5493705414454,San Martín 8030,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-01,activo
+1744,Federico,Suárez,89565768,2055-07-01,federico.suarez.1744@gmail.com,+5492129854727,Rivadavia 4782,Córdoba,Córdoba,Centro,2023-08-24,activo
+1745,Emilia,Cabrera,11594120,2060-03-09,emilia.cabrera.1745@gmail.com,+5493888086887,9 de Julio 6440,Salta,Salta,NOA,2024-01-18,activo
+1747,Florencia,Romero,37826809,1973-04-05,florencia.romero.1747@outlook.com,+5493225268539,25 de Mayo 3088,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-15,activo
+1748,Federico,Domínguez,64338127,1987-02-17,federico.dominguez.1748@hotmail.com,+5493845398979,Av. Colón 3858,Rosario,Santa Fe,Litoral,2023-11-06,activo
+1752,Mateo,Romero,23284380,1973-11-29,mateo.romero.1752@outlook.com,+5493607919281,Av. Colón 3721,Tucumán,Tucumán,NOA,2022-04-10,activo
+1753,María José,Aguirre,20136959,1980-07-06,maria.jose.aguirre.1753@hotmail.com,+5493347083989,San Martín 668,Buenos Aires,CABA,AMBA,2024-12-26,activo
+1756,Gastón,Pereyra,58047103,1975-04-10,gaston.pereyra.1756@gmail.com,+5492332620919,Belgrano 8572,Salta,Salta,NOA,2022-07-07,activo
+1757,Juan,Molina,17887169,2045-10-19,juan.molina.1757@gmail.com,+5493801388861,Independencia 665,Mendoza,Mendoza,Cuyo,2026-02-12,activo
+1770,Nicolás,González,45039165,1986-03-17,nicolas.gonzalez.1770@hotmail.com,+5493991781715,Mitre 5167,Rosario,Santa Fe,Litoral,2025-05-01,activo
+1780,Paula,Ruiz,11175371,2044-06-17,paula.ruiz.1780@hotmail.com,+5493346681387,Las Heras 8104,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-05-24,activo
+1783,Alejandro,Ramírez,38859303,2068-05-19,alejandro.ramirez.1783@gmail.com,+5492778285704,San Martín 5192,Salta,Salta,NOA,2022-05-30,activo
+1785,María José,Flores,85149091,1986-03-13,maria.jose.flores.1785@gmail.com,+5492452408040,Independencia 5747,Tucumán,Tucumán,NOA,2023-04-17,activo
+1787,María José,Ramírez,99166753,1997-02-08,maria.jose.ramirez.1787@outlook.com,+5492406188461,Las Heras 303,Rosario,Santa Fe,Litoral,2022-10-03,activo
+1789,Diego,Ortiz,53455130,2055-08-22,diego.ortiz.1789@yahoo.com.ar,+5492128395545,Las Heras 6042,Rosario,Santa Fe,Litoral,2022-01-22,activo
+1804,Agustín,Domínguez,43017842,2052-04-05,agustin.dominguez.1804@outlook.com,(315) 663.5389,Las Heras 5452,Salta,Salta,NOA,2024-12-28,activo
+1808,Juan,Ruiz,14063743,1998-07-14,juan.ruiz.1808@hotmail.com,+5492916573522,Sarmiento 4002,Salta,Salta,NOA,2023-12-18,activo
+1814,Gastón,Navarro,68519924,2047-03-22,gaston.navarro.1814@gmail.com,+5492366087793,Rivadavia 2722,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-08-22,activo
+1816,Florencia,Castro,61121564,2046-12-24,florencia.castro.1816@yahoo.com.ar,+5493343599477,Sarmiento 621,Mendoza,Mendoza,Cuyo,2022-09-27,activo
+1819,Daniel,Suárez,92375789,1978-12-28,daniel.suarez.1819@outlook.com,+5492251267469,Sarmiento 6955,Córdoba,Córdoba,Centro,2023-01-27,activo
+1823,María José,Fernández,96927121,2004-09-12,maria.jose.fernandez.1823@hotmail.com,+5492105458646,9 de Julio 266,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-24,activo
+1832,Santiago,Martínez,55850947,1978-10-31,santiago.martinez.1832@outlook.com,+5492085629408,Av. Colón 9275,Buenos Aires,CABA,AMBA,2026-01-26,activo
+1833,Martín,Suárez,49416266,2064-07-07,martin.suarez.1833@gmail.com,+5492614695015,Belgrano 4377,Córdoba,Córdoba,Centro,2022-10-15,activo
+1834,Sofía,Pérez,42656656,2068-01-03,sofia.perez.1834@yahoo.com.ar,+5493916732833,Mitre 2274,Salta,Salta,NOA,2022-12-05,activo
+1861,Joaquín,Martínez,60081707,1992-10-29,joaquin.martinez.1861@yahoo.com.ar,+5492106643063,San Martín 6212,Mendoza,Mendoza,Cuyo,2025-08-29,activo
+1863,Joaquín,Molina,98194884,1993-01-09,joaquin.molina.1863@yahoo.com.ar,+5493143385499,Rivadavia 4724,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-02-13,inactivo
+1865,Sofía,Domínguez,10568754,2062-10-20,sofia.dominguez.1865@outlook.com,+5493616944938,Av. Colón 2475,Rosario,Santa Fe,Litoral,2023-02-10,activo
+1868,Gastón,Romero,19950993,2054-08-06,gaston.romero.1868@outlook.com,+5493255329345,Belgrano 5565,Rosario,Santa Fe,Litoral,2023-02-07,activo
+1870,Agustín,Ortiz,83319594,1991-08-26,agustin.ortiz.1870@gmail.com,+5492108734552,Av. Colón 4388,Salta,Salta,NOA,2023-11-07,activo
+1871,Gabriel,Molina,51445885,1996-06-16,gabriel.molina.1871@gmail.com,+5492811843157,25 de Mayo 5990,Buenos Aires,CABA,AMBA,2024-12-12,activo
+1872,Federico,Acosta,48257464,1979-04-22,federico.acosta.1872@gmail.com,+5493182669004,Sarmiento 7608,Tucumán,Tucumán,NOA,2023-12-15,activo
+1873,Lucía,Pérez,76499001,1973-11-01,lucia.perez.1873@yahoo.com.ar,+5493827018901,25 de Mayo 7941,Rosario,Santa Fe,Litoral,2023-07-15,activo
+1875,María José,Romero,82248230,1995-02-25,maria.jose.romero.1875@outlook.com,+5493799945744,San Martín 7211,Rosario,Santa Fe,Litoral,2024-09-07,activo
+1877,Carolina,Benítez,93749451,1992-01-05,carolina.benitez.1877@hotmail.com,+5493446203698,Av. Colón 1313,Rosario,Santa Fe,Litoral,2025-11-05,activo
+1887,Paula,Benítez,65835255,1974-12-24,paula.benitez.1887@outlook.com,+5492223510699,Rivadavia 3390,Córdoba,Córdoba,Centro,2023-05-04,activo
+1898,Julieta,Ortiz,82140372,2056-12-15,julieta.ortiz.1898@hotmail.com,+5492076761145,Rivadavia 1589,Córdoba,Córdoba,Centro,2025-07-31,activo
+1908,Daniel,Gutiérrez,67837327,1972-02-03,daniel.gutierrez.1908@gmail.com,+5492698462293,Las Heras 9062,Rosario,Santa Fe,Litoral,2025-04-15,activo
+1910,María José,Herrera,61778650,1977-12-05,maria.jose.herrera.1910@hotmail.com,+5493758420132,Mitre 7603,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-12-22,activo
+1919,Ana,Giménez,76034882,1992-01-25,ana.gimenez.1919@hotmail.com,+5493257139386,Las Heras 7225,Rosario,Santa Fe,Litoral,2025-04-02,activo
+1922,Joaquín,Sánchez,24040196,1996-08-07,joaquin.sanchez.1922@outlook.com,+5492693002062,Sarmiento 792,Tucumán,Tucumán,NOA,2025-07-23,activo
+1927,Sofía,Martínez,43508730,2043-12-16,sofia.martinez.1927@outlook.com,+5493445500550,San Martín 7498,Salta,Salta,NOA,2023-05-01,inactivo
+1935,Florencia,Castro,91646950,2046-06-16,florencia.castro.1935@gmail.com,+5493723431077,Sarmiento 9400,Tucumán,Tucumán,NOA,2023-04-13,activo
+1938,Lucía,Ruiz,51874564,1985-11-02,lucia.ruiz.1938@gmail.com,+5493351127340,Sarmiento 1462,Córdoba,Córdoba,Centro,2025-06-20,activo
+1942,Alejandro,Romero,40846845,2057-12-16,alejandro.romero.1942@yahoo.com.ar,+5492964074727,25 de Mayo 5430,Tucumán,Tucumán,NOA,2024-10-25,activo
+1946,Federico,Aguirre,94494810,2050-03-30,federico.aguirre.1946@gmail.com,+5493951701731,Sarmiento 9498,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-11-06,inactivo
+1947,Juan,Giménez,29840597,1972-10-21,juan.gimenez.1947@hotmail.com,+5493636390860,Las Heras 4942,Salta,Salta,NOA,2026-03-14,activo
+1955,Ana,Rodríguez,79982525,2044-05-11,ana.rodriguez.1955@yahoo.com.ar,+5493595412169,Independencia 9148,Córdoba,Córdoba,Centro,2022-09-12,activo
+1958,Camila,Acosta,12195437,2065-02-05,camila.acosta.1958@gmail.com,+5492469854787,Belgrano 4044,Córdoba,Córdoba,Centro,2022-10-18,activo
+1962,Agustín,Ortiz,14139500,2066-01-17,agustin.ortiz.1962@yahoo.com.ar,+5493341391963,Las Heras 9454,Tucumán,Tucumán,NOA,2025-09-13,activo
+1963,Alejandro,Ortiz,76635889,2048-02-09,alejandro.ortiz.1963@hotmail.com,+5492073854986,Mitre 2357,Salta,Salta,NOA,2024-04-05,activo
+1966,Laura,Navarro,89574583,1993-03-01,laura.navarro.1966@outlook.com,+5492462169015,Mitre 4786,Tucumán,Tucumán,NOA,2023-08-06,activo
+1973,Martín,Benítez,48766108,2055-04-18,martin.benitez.1973@hotmail.com,+5493364914179,9 de Julio 2816,Córdoba,Córdoba,Centro,2022-07-08,activo
+1974,Florencia,Castro,90524790,1987-05-16,florencia.castro.1974@yahoo.com.ar,+5492111106835,Independencia 4338,Salta,Salta,NOA,2023-03-29,activo
+1979,María José,Rodríguez,11827620,1988-05-17,maria.jose.rodriguez.1979@outlook.com,+5493965140186,Mitre 7101,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-03-18,activo
+1984,Sofía,Molina,47869047,1978-12-11,sofia.molina.1984@hotmail.com,+5492772094492,Belgrano 9959,Córdoba,Córdoba,Centro,2025-06-09,activo
+1989,Joaquín,Molina,96258591,2043-11-23,joaquin.molina.1989@hotmail.com,+5492693064717,25 de Mayo 5361,Rosario,Santa Fe,Litoral,2022-01-29,activo
+2005,Ana,Acosta,33026545,1990-11-07,ana.acosta.2005@gmail.com,+5493726381705,San Martín 3205,Salta,Salta,NOA,2024-12-28,activo
+2012,Florencia,Flores,68036848,2003-04-21,florencia.flores.2012@hotmail.com,+5492772438039,Mitre 7279,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-12-18,activo
+2017,Lucía,Pereyra,65869563,1996-05-23,lucia.pereyra.2017@yahoo.com.ar,+5492383740286,9 de Julio 604,Córdoba,Córdoba,Centro,2023-05-27,activo
+2019,Santiago,Ortiz,27931505,2065-03-30,santiago.ortiz.2019@outlook.com,+5492417152351,Belgrano 1708,Buenos Aires,CABA,AMBA,2023-03-01,activo
+2025,María José,Pereyra,65884904,1977-04-30,maria.jose.pereyra.2025@gmail.com,+5493757945989,Mitre 9458,Salta,Salta,NOA,2023-08-28,activo
+2030,Juan,Ruiz,72928009,1971-10-17,juan.ruiz.2030@gmail.com,+5493451949070,9 de Julio 4842,Mendoza,Mendoza,Cuyo,2023-03-05,inactivo
+2032,Mateo,González,60978420,2051-02-24,mateo.gonzalez.2032@yahoo.com.ar,+5493915588203,Sarmiento 6735,Salta,Salta,NOA,2023-03-01,activo
+2053,Gastón,Cabrera,18154031,1980-10-18,gaston.cabrera.2053@yahoo.com.ar,+5492809516892,25 de Mayo 8136,Buenos Aires,CABA,AMBA,2024-04-04,activo
+2054,Emilia,Ruiz,57000920,2061-10-28,emilia.ruiz.2054@gmail.com,+5492677544308,9 de Julio 4338,Salta,Salta,NOA,2024-08-10,inactivo
+2060,Sofía,Navarro,20722840,2043-01-01,sofia.navarro.2060@yahoo.com.ar,+5493249627101,9 de Julio 5096,Salta,Salta,NOA,2023-09-04,activo
+2068,Laura,Aguirre,50174959,1987-01-10,laura.aguirre.2068@yahoo.com.ar,+5492832249209,San Martín 157,Tucumán,Tucumán,NOA,2022-06-14,activo
+2078,Laura,Flores,79072268,2068-01-03,laura.flores.2078@outlook.com,+5493889880309,Las Heras 717,Buenos Aires,CABA,AMBA,2026-02-11,activo
+2079,Camila,Gutiérrez,51335087,2041-08-28,camila.gutierrez.2079@outlook.com,+5492658114134,25 de Mayo 5279,Mendoza,Mendoza,Cuyo,2022-07-12,activo
+2094,Alejandro,Domínguez,32112201,2001-10-23,alejandro.dominguez.2094@outlook.com,+5493382277326,25 de Mayo 9277,Salta,Salta,NOA,2023-11-22,activo
+2095,Santiago,González,25053451,2062-04-28,santiago.gonzalez.2095@outlook.com,+5493641599862,San Martín 244,Mendoza,Mendoza,Cuyo,2026-01-22,activo
+2096,Nicolás,Herrera,68463296,2068-03-05,nicolas.herrera.2096@hotmail.com,+5492728169583,Av. Colón 9247,Mendoza,Mendoza,Cuyo,2024-08-22,activo
+2100,Emilia,Martínez,39461156,1976-10-26,emilia.martinez.2100@hotmail.com,+5493403100299,Las Heras 8910,Rosario,Santa Fe,Litoral,2024-02-28,activo
+2101,Mateo,Molina,99037333,1992-07-31,mateo.molina.2101@outlook.com,+5493539649514,9 de Julio 278,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-10-26,activo
+2105,Paula,Pereyra,49535635,1978-10-27,paula.pereyra.2105@hotmail.com,+5492295512806,Independencia 6389,Mendoza,Mendoza,Cuyo,2022-07-03,activo
+2108,Alejandro,Medina,33906003,1989-07-07,alejandro.medina.2108@hotmail.com,+5493223672230,Las Heras 1226,Rosario,Santa Fe,Litoral,2024-02-11,activo
+2111,Mateo,Navarro,98623674,2053-04-14,mateo.navarro.2111@yahoo.com.ar,+5492055029218,Mitre 6049,Tucumán,Tucumán,NOA,2023-05-18,activo
+2112,Federico,Flores,45099094,2000-06-05,federico.flores.2112@outlook.com,+5492169302522,9 de Julio 4138,Córdoba,Córdoba,Centro,2022-10-04,activo
+2118,Mateo,Giménez,36934863,1989-02-20,mateo.gimenez.2118@yahoo.com.ar,(303) 428.4613,Av. Colón 1351,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-01-19,activo
+2119,Federico,Acosta,40694577,2061-07-11,federico.acosta.2119@hotmail.com,+5493454415035,San Martín 6844,Rosario,Santa Fe,Litoral,2024-07-18,activo
+2120,Diego,López,38442991,1995-07-25,diego.lopez.2120@yahoo.com.ar,+5492328132542,Sarmiento 8686,Tucumán,Tucumán,NOA,2022-11-15,activo
+2122,Alejandro,Suárez,38470689,2045-06-23,alejandro.suarez.2122@yahoo.com.ar,+5493968209264,Rivadavia 6458,Buenos Aires,CABA,AMBA,2025-10-25,activo
+2124,Nicolás,Ortiz,73302922,1988-08-09,nicolas.ortiz.2124@hotmail.com,+5492982254433,San Martín 3034,Salta,Salta,NOA,2025-08-07,activo
+2125,Emilia,Castro,35839995,2062-12-31,emilia.castro.2125@yahoo.com.ar,+5493622582509,9 de Julio 5110,Tucumán,Tucumán,NOA,2022-09-17,activo
+2132,Camila,Medina,45947356,1997-11-06,camila.medina.2132@outlook.com,+5493366187331,25 de Mayo 2720,Mendoza,Mendoza,Cuyo,2023-01-06,activo
+2139,Gabriel,Rodríguez,85012808,2062-12-01,gabriel.rodriguez.2139@gmail.com,+5492273105070,Sarmiento 6767,Buenos Aires,CABA,AMBA,2023-03-22,activo
+2143,Agustín,López,36172266,2049-05-30,agustin.lopez.2143@hotmail.com,+5492757464673,Sarmiento 7688,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-10,activo
+2147,Martín,Gutiérrez,45539598,2057-07-28,martin.gutierrez.2147@hotmail.com,+5493043203414,San Martín 7745,Tucumán,Tucumán,NOA,2024-06-30,activo
+2158,Alejandro,Castro,72451274,1986-07-27,alejandro.castro.2158@gmail.com,+5492692541573,Rivadavia 1397,Salta,Salta,NOA,2023-10-09,activo
+2165,Lucía,Herrera,28590864,1997-03-24,lucia.herrera.2165@hotmail.com,+5493778347213,Sarmiento 6174,Mendoza,Mendoza,Cuyo,2022-12-30,inactivo
+2168,Lucía,Gutiérrez,43327889,2061-08-09,lucia.gutierrez.2168@gmail.com,(329) 703.2424,Belgrano 1852,Mendoza,Mendoza,Cuyo,2024-07-08,activo
+2169,Martín,Gutiérrez,38160717,1978-01-14,martin.gutierrez.2169@yahoo.com.ar,+5492075222032,San Martín 5798,Tucumán,Tucumán,NOA,2023-02-04,activo
+2171,Gabriel,Ruiz,45772177,1970-11-13,gabriel.ruiz.2171@gmail.com,+5492359044487,Av. Colón 8254,Rosario,Santa Fe,Litoral,2025-07-03,bloqueado
+2174,Gabriel,Aguirre,47061661,2063-02-14,gabriel.aguirre.2174@hotmail.com,+5492349965855,Sarmiento 9688,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-01-19,activo
+2175,Paula,Benítez,50270165,2002-02-05,paula.benitez.2175@yahoo.com.ar,+5493536646251,Independencia 4242,Mendoza,Mendoza,Cuyo,2024-03-10,activo
+2179,Agustín,Herrera,69202369,2002-06-15,agustin.herrera.2179@yahoo.com.ar,+5492539856700,Mitre 2231,Mendoza,Mendoza,Cuyo,2025-08-06,activo
+2182,Lucía,Herrera,34083031,2056-02-10,lucia.herrera.2182@yahoo.com.ar,+5492467172345,San Martín 7243,Salta,Salta,NOA,2023-02-06,activo
+2188,Federico,Rodríguez,56655735,2004-05-04,federico.rodriguez.2188@outlook.com,+5492574307285,Las Heras 3046,Tucumán,Tucumán,NOA,2022-05-07,activo
+2195,Gastón,Ruiz,10888643,1977-02-12,gaston.ruiz.2195@gmail.com,+5492646661438,Las Heras 4582,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-10-13,activo
+2196,Juan,Alvarez,32551647,2062-11-28,juan.alvarez.2196@outlook.com,+5492996685390,San Martín 5879,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-03-29,activo
+2202,Laura,Giménez,33694611,2062-06-23,laura.gimenez.2202@outlook.com,+5493627249575,Mitre 4438,Tucumán,Tucumán,NOA,2025-04-25,activo
+2216,Paula,Sánchez,28592907,1994-08-31,paula.sanchez.2216@outlook.com,+5493671678302,9 de Julio 3182,Salta,Salta,NOA,2023-07-28,activo
+2218,Sofía,Ruiz,68784572,2065-05-29,sofia.ruiz.2218@gmail.com,+5492363490299,Rivadavia 6034,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-10-27,activo
+2221,Gabriel,Acosta,43909720,2048-05-23,gabriel.acosta.2221@gmail.com,+5493207964307,9 de Julio 5423,Rosario,Santa Fe,Litoral,2025-03-16,activo
+2222,Agustín,Flores,77461213,1976-06-02,agustin.flores.2222@hotmail.com,+5492582993590,9 de Julio 1085,Tucumán,Tucumán,NOA,2023-06-30,activo
+2224,Gastón,Navarro,99380447,1982-06-03,gaston.navarro.2224@outlook.com,+5493418564282,Av. Colón 7551,Mendoza,Mendoza,Cuyo,2022-03-30,activo
+2226,Carolina,Benítez,78726852,1997-03-15,carolina.benitez.2226@yahoo.com.ar,+5492097708867,Mitre 4359,Tucumán,Tucumán,NOA,2024-11-26,activo
+2229,Julieta,Navarro,92438087,2050-08-09,julieta.navarro.2229@yahoo.com.ar,+5493925321740,INDEPENDENCIA 7168,Rosario,Santa Fe,Litoral,2023-09-22,activo
+2230,Gastón,Ruiz,95467554,2068-09-12,gaston.ruiz.2230@gmail.com,+5493463908482,Las Heras 8791,Tucumán,Tucumán,NOA,2023-10-05,activo
+2233,Federico,Herrera,78469171,2045-08-01,federico.herrera.2233@outlook.com,+5492633815287,Mitre 7676,Córdoba,Córdoba,Centro,2024-03-05,activo
+2237,Gabriel,Ortiz,61972011,2047-12-12,gabriel.ortiz.2237@gmail.com,+5492502050800,Las Heras 4638,Córdoba,Córdoba,Centro,2024-11-13,activo
+2241,María José,Herrera,76062900,1978-07-24,maria.jose.herrera.2241@hotmail.com,+5492471641649,9 de Julio 5456,Salta,Salta,NOA,2024-08-13,activo
+2245,Diego,González,67256827,1989-12-13,diego.gonzalez.2245@yahoo.com.ar,+5492371484885,25 de Mayo 1510,Mendoza,Mendoza,Cuyo,2022-03-18,activo
+2252,Ana,Flores,14013248,2062-09-19,ana.flores.2252@outlook.com,+5492118422931,Av. Colón 7099,Tucumán,Tucumán,NOA,2024-10-01,activo
+2255,Laura,Pérez,51542187,2062-03-23,laura.perez.2255@hotmail.com,+5493961581096,Rivadavia 2043,Mendoza,Mendoza,Cuyo,2022-12-15,activo
+2265,Nicolás,Fernández,41517205,1979-10-11,nicolas.fernandez.2265@gmail.com,+5493056758088,Rivadavia 8858,Rosario,Santa Fe,Litoral,2025-06-13,activo
+2275,Diego,Ramírez,75503532,1995-12-17,diego.ramirez.2275@hotmail.com,+5492425420474,INDEPENDENCIA 3019,Córdoba,Córdoba,Centro,2024-01-23,activo
+2276,Agustín,Ortiz,79944171,2063-03-05,agustin.ortiz.2276@outlook.com,+5492483863158,Rivadavia 4102,Buenos Aires,CABA,AMBA,2025-09-23,activo
+2277,Ana,Ruiz,67714811,2005-10-02,ana.ruiz.2277@yahoo.com.ar,+5492189950663,Rivadavia 5009,Rosario,Santa Fe,Litoral,2024-06-10,activo
+2281,Santiago,Herrera,89599589,1969-11-15,santiago.herrera.2281@gmail.com,+5492147433175,Belgrano 1855,Tucumán,Tucumán,NOA,2024-10-15,activo
+2285,Julieta,Ortiz,30760465,1988-03-24,julieta.ortiz.2285@gmail.com,(382) 391.6098,9 de Julio 4042,Tucumán,Tucumán,NOA,2023-08-28,activo
+2293,Gabriel,Benítez,64674053,1972-01-16,gabriel.benitez.2293@gmail.com,+5493063185627,25 de Mayo 4801,Rosario,Santa Fe,Litoral,2024-03-29,activo
+2296,Mateo,Ramírez,44925324,2048-07-04,mateo.ramirez.2296@hotmail.com,+5493945675598,Las Heras 603,Salta,Salta,NOA,2024-11-27,activo
+2298,María José,Ruiz,84060785,1985-06-05,maria.jose.ruiz.2298@yahoo.com.ar,+5493795561817,Las Heras 7819,Buenos Aires,CABA,AMBA,2022-03-16,activo
+2299,Laura,Ramírez,97606808,2045-03-08,laura.ramirez.2299@outlook.com,+5493916546885,Sarmiento 5762,Buenos Aires,CABA,AMBA,2022-06-07,activo
+2306,Laura,Martínez,54485880,2062-12-17,laura.martinez.2306@outlook.com,+5493069253918,Rivadavia 6588,Rosario,Santa Fe,Litoral,2022-10-16,activo
+2308,Daniel,Silva,52473016,2057-09-16,daniel.silva.2308@gmail.com,+5492557468523,Belgrano 3122,Rosario,Santa Fe,Litoral,2022-04-12,activo
+2310,Gastón,Ramírez,89639184,1972-07-19,gaston.ramirez.2310@outlook.com,+5493756019256,Mitre 7107,Salta,Salta,NOA,2024-09-21,activo
+2313,Federico,Aguirre,33550894,2051-12-04,federico.aguirre.2313@gmail.com,+5492795299759,Av. Colón 4106,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-10,activo
+2314,Camila,Sánchez,16352970,1985-08-30,camila.sanchez.2314@hotmail.com,+5492225901553,Independencia 6660,Mendoza,Mendoza,Cuyo,2022-04-27,activo
+2317,Agustín,Ruiz,90922835,1983-12-10,agustin.ruiz.2317@yahoo.com.ar,+5492411676818,Independencia 8448,Rosario,Santa Fe,Litoral,2023-07-14,activo
+2318,Emilia,Ramírez,46554918,1980-01-02,emilia.ramirez.2318@yahoo.com.ar,+5492409355751,25 de Mayo 1353,Salta,Salta,NOA,2022-05-25,activo
+2324,María José,Cabrera,53067613,2065-06-17,maria.jose.cabrera.2324@hotmail.com,+5493609905256,Independencia 6406,Mendoza,Mendoza,Cuyo,2022-11-12,activo
+2329,Emilia,Fernández,34913265,1991-07-24,emilia.fernandez.2329@gmail.com,+5492089475442,San Martín 2737,Mendoza,Mendoza,Cuyo,2022-08-30,activo
+2330,Joaquín,Ortiz,83160024,2044-04-14,joaquin.ortiz.2330@outlook.com,+5492207129481,9 de Julio 688,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-08,activo
+2331,Diego,Ramírez,10626977,2059-09-13,diego.ramirez.2331@outlook.com,123,Av. Colón 9613,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-07-05,activo
+2340,María José,Suárez,80323845,2067-07-18,maria.jose.suarez.2340@gmail.com,+5492285242858,Belgrano 6293,Buenos Aires,CABA,AMBA,2024-06-24,activo
+2348,Emilia,Domínguez,44727720,2044-10-20,emilia.dominguez.2348@outlook.com,+5492479515198,Av. Colón 985,Mendoza,Mendoza,Cuyo,2022-05-30,activo
+2352,Julieta,Ruiz,41491994,1996-05-20,julieta.ruiz.2352@yahoo.com.ar,+5492107797277,Las Heras 4841,Tucumán,Tucumán,NOA,2023-01-21,activo
+2358,Laura,Navarro,24173932,2056-06-24,laura.navarro.2358@hotmail.com,+5492728669997,25 de Mayo 4016,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-03-24,activo
+2371,Emilia,Pereyra,71991057,1993-03-02,emilia.pereyra.2371@outlook.com,+5492253226878,Las Heras 6494,Mendoza,Mendoza,Cuyo,2024-11-14,activo
+2373,Daniel,Fernández,24389868,2000-10-21,daniel.fernandez.2373@hotmail.com,+5492705062380,Mitre 6917,Salta,Salta,NOA,2024-08-11,activo
+2375,Federico,González,86793672,1977-12-20,federico.gonzalez.2375@hotmail.com,+5492842336877,Rivadavia 4501,Tucumán,Tucumán,NOA,2023-06-09,activo
+2378,Joaquín,González,35512889,1998-07-21,joaquin.gonzalez.2378@hotmail.com,+5492963394515,Independencia 5104,Mendoza,Mendoza,Cuyo,2023-03-25,activo
+2385,Camila,Flores,69719747,2050-02-03,camila.flores.2385@yahoo.com.ar,+5492756822693,Av. Colón 4710,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-02,activo
+2396,Joaquín,Domínguez,18220981,1980-02-07,joaquin.dominguez.2396@outlook.com,+5493821071316,San Martín 3821,Mendoza,Mendoza,Cuyo,2024-08-07,activo
+2403,Agustín,Alvarez,47881748,2058-09-22,agustin.alvarez.2403@gmail.com,+5493092105839,Mitre 2886,Rosario,Santa Fe,Litoral,2025-12-24,activo
+2406,Juan,Herrera,21612835,1995-02-27,juan.herrera.2406@yahoo.com.ar,+5492288198015,Las Heras 2431,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-05-01,activo
+2414,Diego,Suárez,17142902,2048-03-01,diego.suarez.2414@hotmail.com,+5493742131909,Mitre 9206,Rosario,Santa Fe,Litoral,2025-06-03,activo
+2415,Camila,Aguirre,72109259,2053-02-16,camila.aguirre.2415@outlook.com,+5493553221855,Belgrano 6192,Mendoza,Mendoza,Cuyo,2022-06-05,activo
+2417,Santiago,Martínez,35263920,2048-11-13,santiago.martinez.2417@hotmail.com,+5492035672469,San Martín 9354,Tucumán,Tucumán,NOA,2025-06-23,activo
+2418,Ana,Giménez,73539786,2064-06-26,ana.gimenez.2418@gmail.com,+5493554105495,Rivadavia 4748,Salta,Salta,NOA,2024-06-08,activo
+2419,Emilia,López,56875695,1974-08-16,emilia.lopez.2419@gmail.com,+5493386660063,San Martín 3536,Buenos Aires,CABA,AMBA,2024-04-06,activo
+2423,Gastón,Alvarez,86390921,1994-04-06,gaston.alvarez.2423@gmail.com,(383) 341.0543,Av. Colón 5476,Buenos Aires,CABA,AMBA,2025-03-18,activo
+2424,Santiago,Benítez,32844361,1999-08-02,santiago.benitez.2424@hotmail.com,+5493355118029,Rivadavia 3848,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-03-20,inactivo
+2427,Martín,Herrera,75247699,2061-12-20,martin.herrera.2427@yahoo.com.ar,+5492179953869,Mitre 3063,Córdoba,Córdoba,Centro,2024-08-05,activo
+2446,Lucía,Suárez,17214052,2059-05-03,lucia.suarez.2446@outlook.com,+5492591519030,Av. Colón 8311,Buenos Aires,CABA,AMBA,2024-02-02,activo
+2451,Laura,Giménez,36402362,1986-07-23,laura.gimenez.2451@outlook.com,+5493383528803,Mitre 2585,Córdoba,Córdoba,Centro,2024-09-27,activo
+2452,Gastón,Pereyra,65551390,2057-03-28,gaston.pereyra.2452@outlook.com,+5493911102547,9 de Julio 2628,Buenos Aires,CABA,AMBA,2023-01-28,activo
+2457,Mateo,Pérez,11011205,1974-07-28,mateo.perez.2457@hotmail.com,+5492827858285,San Martín 7090,Córdoba,Córdoba,Centro,2024-04-26,activo
+2461,Juan,Alvarez,53122376,1993-06-18,juan.alvarez.2461@outlook.com,+5492127028437,Av. Colón 5399,Mendoza,Mendoza,Cuyo,2022-08-12,activo
+2463,Nicolás,Ortiz,52024067,1974-10-22,nicolas.ortiz.2463@gmail.com,+5492113233334,Independencia 9747,Salta,Salta,NOA,2025-06-26,activo
+2464,Laura,Gutiérrez,42457707,2049-11-18,laura.gutierrez.2464@gmail.com,+5492647939910,Belgrano 3971,Córdoba,Córdoba,Centro,2024-12-04,activo
+2465,Daniel,Giménez,17182182,2048-09-20,daniel.gimenez.2465@hotmail.com,+5492698723619,Av. Colón 7376,Rosario,Santa Fe,Litoral,2023-03-23,activo
+2469,Ana,Sánchez,69080356,2050-08-15,ana.sanchez.2469@gmail.com,+5493733342333,Mitre 2120,Tucumán,Tucumán,NOA,2025-06-30,activo
+2474,Julieta,Aguirre,76568030,2003-06-24,julieta.aguirre.2474@hotmail.com,+5493913884504,San Martín 7646,Salta,Salta,NOA,2023-09-29,activo
+2481,Daniel,Ortiz,46119911,2063-08-24,daniel.ortiz.2481@outlook.com,+5492689871304,San Martín 6038,Tucumán,Tucumán,NOA,2024-07-08,activo
+2484,Agustín,Medina,16269941,2001-04-09,agustin.medina.2484@outlook.com,+5492818736063,Sarmiento 7431,Rosario,Santa Fe,Litoral,2026-01-09,activo
+2496,Florencia,Fernández,55930644,2063-03-04,florencia.fernandez.2496@yahoo.com.ar,+5492462517672,Av. Colón 5098,Buenos Aires,CABA,AMBA,2025-06-06,inactivo
+2499,Gastón,Romero,99336099,2055-06-01,gaston.romero.2499@gmail.com,+5493078430056,Independencia 2983,Salta,Salta,NOA,2024-08-29,inactivo
+2506,Federico,González,27457550,2059-08-28,federico.gonzalez.2506@hotmail.com,+5493673250123,San Martín 4117,Tucumán,Tucumán,NOA,2023-03-31,inactivo
+2510,Camila,Herrera,40203766,2004-01-18,camila.herrera.2510@gmail.com,+5492378795559,25 de Mayo 4798,Rosario,Santa Fe,Litoral,2022-11-12,activo
+2513,Santiago,Ramírez,86131690,1973-09-07,santiago.ramirez.2513@gmail.com,+5492983045988,Belgrano 1012,Tucumán,Tucumán,NOA,2024-05-26,activo
+2516,Emilia,González,57974283,2047-05-17,emilia.gonzalez.2516@hotmail.com,+5492166508032,Rivadavia 953,Mendoza,Mendoza,Cuyo,2022-08-01,activo
+2520,María José,Romero,72548987,1971-01-04,maria.jose.romero.2520@gmail.com,+5492742720738,Sarmiento 4340,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-10-08,activo
+2522,Paula,Medina,46001720,1994-11-09,paula.medina.2522@yahoo.com.ar,+5492528264045,Belgrano 1838,Buenos Aires,CABA,AMBA,2023-03-07,activo
+2526,Emilia,Fernández,64227062,1988-02-14,emilia.fernandez.2526@outlook.com,+5492342418856,Belgrano 3081,Córdoba,Córdoba,Centro,2024-01-28,activo
+2527,Martín,Ruiz,44157789,1997-03-09,martin.ruiz.2527@yahoo.com.ar,+5493241606679,Sarmiento 2728,Mendoza,Mendoza,Cuyo,2024-09-09,activo
+2528,Martín,Benítez,63848998,1988-01-06,martin.benitez.2528@hotmail.com,+5492104850669,Rivadavia 3693,Mendoza,Mendoza,Cuyo,2023-04-19,activo
+2532,Sofía,Navarro,61117975,1982-08-21,sofia.navarro.2532@yahoo.com.ar,+5493197875108,9 de Julio 7551,Rosario,Santa Fe,Litoral,2023-04-25,activo
+2535,Federico,Sánchez,38161653,2058-03-14,federico.sanchez.2535@hotmail.com,+5493126167645,Av. Colón 8310,Salta,Salta,NOA,2023-07-09,activo
+2537,Alejandro,Ruiz,46176193,2058-05-02,alejandro.ruiz.2537@hotmail.com,+5492998691899,25 de Mayo 4924,Buenos Aires,CABA,AMBA,2023-02-24,activo
+2560,Alejandro,Herrera,34062520,1994-03-25,alejandro.herrera.2560@hotmail.com,+5492247043227,9 de Julio 2514,Tucumán,Tucumán,NOA,2024-05-11,activo
+2562,Lucía,Cabrera,57530606,2051-11-06,lucia.cabrera.2562@yahoo.com.ar,+5492222750506,Sarmiento 4995,Salta,Salta,NOA,2024-08-29,activo
+2571,Carolina,Sánchez,79801773,1971-09-11,carolina.sanchez.2571@outlook.com,+5493904760234,25 de Mayo 2991,Salta,Salta,NOA,2024-02-25,inactivo
+2575,Florencia,Acosta,88468966,2058-03-18,florencia.acosta.2575@gmail.com,+5492532671439,Rivadavia 7930,Tucumán,Tucumán,NOA,2024-07-15,activo
+2576,María José,Flores,64997561,1998-01-04,maria.jose.flores.2576@yahoo.com.ar,+5492759579657,Belgrano 7419,Salta,Salta,NOA,2025-08-12,activo
+2585,Carolina,González,88747404,1977-01-18,carolina.gonzalez.2585@hotmail.com,+5492546973443,San Martín 7465,Salta,Salta,NOA,2024-07-23,activo
+2587,Laura,Aguirre,68599303,2047-04-11,laura.aguirre.2587@gmail.com,+5493578696262,Las Heras 5083,Tucumán,Tucumán,NOA,2025-12-05,activo
+2590,Santiago,Pereyra,52469418,1986-10-01,santiago.pereyra.2590@yahoo.com.ar,+5492126287131,San Martín 3591,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-04-26,activo
+2595,Daniel,Romero,23908699,2055-11-30,daniel.romero.2595@hotmail.com,+5493269146636,Las Heras 5852,Córdoba,Córdoba,Centro,2022-09-21,activo
+2603,Emilia,Martínez,23273446,1992-12-07,emilia.martinez.2603@gmail.com,+5492421250138,Belgrano 3721,Córdoba,Córdoba,Centro,2022-01-17,activo
+2606,Gastón,Navarro,13472924,2001-02-23,gaston.navarro.2606@hotmail.com,+5493915294444,Independencia 9299,Mendoza,Mendoza,Cuyo,2024-06-18,bloqueado
+2610,Mateo,Ramírez,60102154,1987-03-17,mateo.ramirez.2610@yahoo.com.ar,+5492296376460,25 de Mayo 2551,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-05-15,inactivo
+2615,Alejandro,Navarro,55735986,1979-10-27,alejandro.navarro.2615@hotmail.com,+5493739428188,Independencia 4819,Rosario,Santa Fe,Litoral,2023-04-13,activo
+2624,Agustín,Sánchez,43852877,2064-05-06,agustin.sanchez.2624@hotmail.com,+5493249904826,San Martín 3679,Córdoba,Córdoba,Centro,2025-05-14,activo
+2634,Laura,Flores,25428280,2060-01-06,laura.flores.2634@yahoo.com.ar,+5493013723849,Belgrano 9678,Rosario,Santa Fe,Litoral,2024-05-11,activo
+2643,Carolina,Pérez,73993192,1999-01-23,carolina.perez.2643@yahoo.com.ar,+5493991038267,Mitre 1876,Salta,Salta,NOA,2023-11-06,activo
+2649,María José,Pérez,43249258,2059-05-04,maria.jose.perez.2649@gmail.com,+5492607883510,San Martín 4417,Buenos Aires,CABA,AMBA,2025-05-11,activo
+2651,Daniel,González,95132183,1972-11-22,daniel.gonzalez.2651@hotmail.com,+5492345520557,Mitre 3592,Córdoba,Córdoba,Centro,2022-12-31,activo
+2654,Martín,Castro,22459925,2045-07-18,martin.castro.2654@hotmail.com,+5492315003001,25 de Mayo 6847,Rosario,Santa Fe,Litoral,2026-03-24,activo
+2655,Federico,Flores,92368863,1994-10-12,federico.flores.2655@gmail.com,+5492369953632,Mitre 2494,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-02-25,activo
+2660,Julieta,Gutiérrez,56754716,2044-02-16,julieta.gutierrez.2660@gmail.com,+5493287738568,AV. COLÓN 3743,Tucumán,Tucumán,NOA,2022-04-06,activo
+2663,Paula,Castro,63914767,2000-01-12,paula.castro.2663@gmail.com,+5492187551352,Av. Colón 8911,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-03-25,activo
+2665,Alejandro,Silva,43015202,1992-05-04,alejandro.silva.2665@yahoo.com.ar,+5492687139133,Las Heras 3897,Córdoba,Córdoba,Centro,2023-02-10,activo
+2670,Martín,Rodríguez,41720492,1977-04-23,martin.rodriguez.2670@yahoo.com.ar,+5493249021686,San Martín 5784,Tucumán,Tucumán,NOA,2024-04-06,activo
+2673,Lucía,Pereyra,43548309,2062-12-24,lucia.pereyra.2673@yahoo.com.ar,+5493484899289,9 de Julio 2627,Rosario,Santa Fe,Litoral,2024-01-30,activo
+2674,Julieta,Cabrera,39662189,2002-02-18,julieta.cabrera.2674@gmail.com,+5492413385213,Sarmiento 9796,Salta,Salta,NOA,2024-02-10,activo
+2681,Camila,González,38581474,1981-04-25,camila.gonzalez.2681@yahoo.com.ar,+5493529817861,Las Heras 9935,Mendoza,Mendoza,Cuyo,2024-06-11,activo
+2684,Joaquín,Cabrera,67006701,2045-11-02,joaquin.cabrera.2684@gmail.com,+5492907605878,San Martín 7780,Rosario,Santa Fe,Litoral,2024-04-01,activo
+2686,Carolina,Flores,20225149,1994-09-28,carolina.flores.2686@gmail.com,+5493386538546,Belgrano 2425,Salta,Salta,NOA,2023-08-26,activo
+2687,Mateo,Navarro,72008501,1990-12-17,mateo.navarro.2687@yahoo.com.ar,+5492298706690,Rivadavia 8893,Tucumán,Tucumán,NOA,2025-11-18,activo
+2689,Carolina,Sánchez,19540706,2050-04-19,carolina.sanchez.2689@yahoo.com.ar,+5493509392565,Mitre 4118,Mendoza,Mendoza,Cuyo,2024-10-29,activo
+2690,Sofía,Gutiérrez,85542184,1975-01-13,sofia.gutierrez.2690@yahoo.com.ar,+5493887605541,San Martín 3035,Rosario,Santa Fe,Litoral,2025-01-22,activo
+2697,Julieta,Cabrera,15642500,2052-06-14,julieta.cabrera.2697@yahoo.com.ar,+5493473355097,Rivadavia 5356,Buenos Aires,CABA,AMBA,2022-06-08,activo
+2703,Gastón,Herrera,17338984,1971-04-27,gaston.herrera.2703@hotmail.com,+5493556865179,San Martín 3129,Mendoza,Mendoza,Cuyo,2023-09-20,activo
+2708,Mateo,Fernández,80741180,2003-03-03,mateo.fernandez.2708@gmail.com,+5492993096990,Rivadavia 3105,Córdoba,Córdoba,Centro,2025-02-22,activo
+2711,Carolina,Castro,95535341,1988-06-06,carolina.castro.2711@hotmail.com,+5492164130373,Rivadavia 5894,Buenos Aires,CABA,AMBA,2023-10-04,activo
+2722,Carolina,Ruiz,31707843,1989-09-12,carolina.ruiz.2722@yahoo.com.ar,+5492822940052,Belgrano 2336,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-02-23,activo
+2723,Carolina,Castro,55993420,1986-12-23,carolina.castro.2723@gmail.com,+5493491033108,Las Heras 566,Salta,Salta,NOA,2023-12-05,activo
+2728,Joaquín,Sánchez,88786182,1979-04-04,joaquin.sanchez.2728@hotmail.com,+5492479972659,San Martín 1801,Tucumán,Tucumán,NOA,2023-02-25,activo
+2733,Carolina,Ramírez,63570149,1991-12-01,carolina.ramirez.2733@outlook.com,+5493148092697,Mitre 7449,Córdoba,Córdoba,Centro,2022-09-08,activo
+2747,Carolina,Alvarez,91817679,1995-07-19,carolina.alvarez.2747@gmail.com,+5493521265840,Mitre 314,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-10-19,activo
+2750,Ana,Domínguez,63749363,2065-01-14,ana.dominguez.2750@yahoo.com.ar,+5492147496692,9 de Julio 2648,Córdoba,Córdoba,Centro,2026-02-08,activo
+2751,Nicolás,Pérez,94946901,1969-03-29,nicolas.perez.2751@gmail.com,123,25 de Mayo 5578,Mendoza,Mendoza,Cuyo,2025-03-12,activo
+2754,Diego,Rodríguez,81697789,2060-12-10,diego.rodriguez.2754@yahoo.com.ar,+5492454121398,Las Heras 5317,Buenos Aires,CABA,AMBA,2025-09-25,activo
+2755,Ana,Flores,88273943,1996-12-17,ana.flores.2755@outlook.com,+5492187667495,Rivadavia 8179,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-07-11,bloqueado
+2759,Florencia,Sánchez,41930408,1986-04-09,florencia.sanchez.2759@outlook.com,+5492687845176,Sarmiento 6949,Córdoba,Córdoba,Centro,2022-02-10,inactivo
+2764,Gabriel,Alvarez,63488942,1978-12-29,gabriel.alvarez.2764@gmail.com,+5492071073623,25 de Mayo 867,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-05-12,activo
+2768,Daniel,Alvarez,13780317,1975-09-02,daniel.alvarez.2768@outlook.com,+5492802269736,Sarmiento 898,Buenos Aires,CABA,AMBA,2024-10-11,inactivo
+2776,Agustín,Suárez,21159039,2060-08-30,agustin.suarez.2776@outlook.com,+5493674697563,San Martín 9462,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-10-23,activo
+2777,Laura,Suárez,55926653,2000-05-01,laura.suarez.2777@hotmail.com,+5492895473823,Mitre 488,Córdoba,Córdoba,Centro,2022-09-01,activo
+2779,Julieta,Aguirre,68007717,1969-01-24,julieta.aguirre.2779@outlook.com,+5492218602882,Independencia 5796,Rosario,Santa Fe,Litoral,2025-08-23,activo
+2793,Lucía,Pérez,27074356,1992-01-26,lucia.perez.2793@hotmail.com,+5492596250758,25 DE MAYO 8840,Rosario,Santa Fe,Litoral,2025-11-27,activo
+2795,Juan,Cabrera,98793819,2056-12-04,juan.cabrera.2795@hotmail.com,+5493567001165,9 de Julio 4662,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-21,activo
+2797,Diego,Giménez,88986550,2054-02-16,diego.gimenez.2797@outlook.com,+5492856163510,Sarmiento 737,Salta,Salta,NOA,2025-02-26,activo
+2802,Agustín,Ortiz,64706558,2055-05-26,agustin.ortiz.2802@hotmail.com,+5493336700594,Belgrano 3638,Rosario,Santa Fe,Litoral,2025-01-11,activo
+2805,María José,Medina,28022838,1993-09-18,maria.jose.medina.2805@yahoo.com.ar,+5492718577268,9 de Julio 566,Salta,Salta,NOA,2025-07-29,activo
+2806,Mateo,Navarro,36971989,2053-12-21,mateo.navarro.2806@hotmail.com,+5492781528176,Belgrano 1844,Mendoza,Mendoza,Cuyo,2022-02-22,activo
+2808,Gastón,Rodríguez,47606714,1982-10-11,gaston.rodriguez.2808@hotmail.com,+5493391535312,San Martín 1831,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-08-21,activo
+2810,Mateo,Benítez,12387762,2060-03-06,mateo.benitez.2810@outlook.com,+5493057793173,Av. Colón 7869,Mendoza,Mendoza,Cuyo,2025-11-29,activo
+2818,Mateo,Domínguez,67578739,2057-04-05,mateo.dominguez.2818@gmail.com,+5492013626303,Rivadavia 4666,Rosario,Santa Fe,Litoral,2025-04-22,activo
+2820,Martín,Cabrera,54081182,1978-11-07,martin.cabrera.2820@gmail.com,+5492224817418,Sarmiento 6501,Tucumán,Tucumán,NOA,2025-07-21,activo
+2827,Florencia,Ruiz,68418125,1998-12-23,florencia.ruiz.2827@outlook.com,+5492761617159,Mitre 2055,Buenos Aires,CABA,AMBA,2022-04-17,activo
+2830,Diego,Pérez,28048408,1971-01-28,diego.perez.2830@outlook.com,+5493999093630,25 de Mayo 8698,Córdoba,Córdoba,Centro,2025-01-22,activo
+2835,Julieta,Aguirre,86117646,2061-01-19,julieta.aguirre.2835@gmail.com,+5493925361260,Mitre 2357,Salta,Salta,NOA,2024-08-08,activo
+2837,Camila,Domínguez,69137922,1979-07-11,camila.dominguez.2837@hotmail.com,(367) 255.1478,Rivadavia 8387,Rosario,Santa Fe,Litoral,2024-06-17,activo
+2844,Gastón,Aguirre,43052392,2057-08-01,gaston.aguirre.2844@hotmail.com,+5492186653393,Belgrano 818,Tucumán,Tucumán,NOA,2022-10-15,activo
+2846,Carolina,Cabrera,56986763,2001-07-27,carolina.cabrera.2846@outlook.com,+5492742220876,Rivadavia 3321,Rosario,Santa Fe,Litoral,2023-06-25,activo
+2847,Daniel,Medina,76215895,2004-04-03,daniel.medina.2847@hotmail.com,+5492153703105,San Martín 6321,Buenos Aires,CABA,AMBA,2022-11-05,activo
+2848,Santiago,Domínguez,61391684,2051-01-27,santiago.dominguez.2848@outlook.com,+5492105442654,Mitre 1378,Mendoza,Mendoza,Cuyo,2024-02-03,activo
+2861,Daniel,Domínguez,50745498,2048-05-07,daniel.dominguez.2861@yahoo.com.ar,+5493478768223,Belgrano 268,Córdoba,Córdoba,Centro,2024-05-03,activo
+2866,Martín,Martínez,49690954,1987-05-08,martin.martinez.2866@gmail.com,+5492012605495,Av. Colón 9962,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-16,activo
+2877,Julieta,Flores,12922207,1985-10-03,julieta.flores.2877@hotmail.com,+5492759808969,San Martín 8451,Salta,Salta,NOA,2022-06-22,activo
+2883,Emilia,Ortiz,18733262,1980-02-08,emilia.ortiz.2883@gmail.com,+5493133316035,Independencia 428,Córdoba,Córdoba,Centro,2023-04-28,activo
+2887,Gastón,Acosta,26275522,1971-08-19,gaston.acosta.2887@outlook.com,+5492155574899,Las Heras 2151,Tucumán,Tucumán,NOA,2023-05-07,activo
+2888,Federico,Herrera,42626089,1982-05-20,federico.herrera.2888@outlook.com,+5492145839335,Belgrano 6479,Córdoba,Córdoba,Centro,2024-06-02,activo
+2891,Joaquín,Pereyra,60043493,1980-08-04,joaquin.pereyra.2891@hotmail.com,351ABC1234,Mitre 680,Tucumán,Tucumán,NOA,2023-07-09,bloqueado
+2894,Emilia,Ruiz,55962285,1984-11-19,emilia.ruiz.2894@yahoo.com.ar,+5492811012154,Rivadavia 4859,Córdoba,Córdoba,Centro,2023-11-22,activo
+2895,Lucía,Pérez,88949171,2000-05-30,lucia.perez.2895@gmail.com,+5493286436843,9 de Julio 1284,Mendoza,Mendoza,Cuyo,2022-04-14,activo
+2901,Daniel,Navarro,31587243,2043-08-27,daniel.navarro.2901@hotmail.com,+5492047403323,Rivadavia 7528,Tucumán,Tucumán,NOA,2023-09-07,activo
+2906,Juan,Suárez,12684365,1978-01-14,cliente@mail,+5492475105819,25 de Mayo 564,Tucumán,Tucumán,NOA,2023-05-12,activo
+2908,Mateo,Acosta,35709060,2055-06-10,mateo.acosta.2908@gmail.com,+5493132762358,25 de Mayo 9555,Rosario,Santa Fe,Litoral,2024-08-30,activo
+2911,Sofía,Cabrera,71595418,1989-04-29,sofia.cabrera.2911@outlook.com,+5493979217824,25 de Mayo 1020,Rosario,Santa Fe,Litoral,2025-01-19,activo
+2923,Juan,Fernández,52115509,2050-01-09,juan.fernandez.2923@hotmail.com,+5493019470917,Independencia 9632,Rosario,Santa Fe,Litoral,2023-05-28,inactivo
+2925,Federico,López,86719230,2059-09-16,federico.lopez.2925@hotmail.com,+5492022165635,Av. Colón 8093,Tucumán,Tucumán,NOA,2025-06-11,activo
+2926,Emilia,López,70293759,2052-10-22,emilia.lopez.2926@hotmail.com,+5492384993576,Av. Colón 481,Córdoba,Córdoba,Centro,2023-01-10,activo
+2930,María José,Rodríguez,92825095,1998-10-29,maria.jose.rodriguez.2930@gmail.com,+5492929145366,Las Heras 1680,Buenos Aires,CABA,AMBA,2023-02-23,bloqueado
+2933,Martín,Pérez,15816735,2057-03-29,martin.perez.2933@gmail.com,+5492315059081,Belgrano 2128,Tucumán,Tucumán,NOA,2022-10-16,activo
+2935,Nicolás,Pereyra,17191132,2064-10-13,nicolas.pereyra.2935@gmail.com,+5493383084502,Belgrano 3992,Tucumán,Tucumán,NOA,2024-04-09,activo
+2940,Diego,Ramírez,85967019,1993-04-13,diego.ramirez.2940@hotmail.com,+5492511735283,9 de Julio 8227,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-02,activo
+2941,Diego,González,71979080,1996-02-13,diego.gonzalez.2941@yahoo.com.ar,+5492628383387,San Martín 8360,Buenos Aires,CABA,AMBA,2024-10-31,activo
+2944,Mateo,Pérez,99791237,1988-02-20,mateo.perez.2944@outlook.com,+5493075801035,Rivadavia 2574,Mendoza,Mendoza,Cuyo,2024-01-11,activo
+2949,Santiago,Herrera,86121290,1989-03-22,santiago.herrera.2949@gmail.com,+5492784837967,Mitre 8314,Córdoba,Córdoba,Centro,2022-12-27,bloqueado
+2958,Ana,Flores,93995114,2046-04-30,ana.flores.2958@outlook.com,+5493937551062,Av. Colón 6193,Salta,Salta,NOA,2022-11-01,activo
+2961,Julieta,Medina,10276797,2053-12-09,julieta.medina.2961@outlook.com,+5493102328314,Mitre 8696,Rosario,Santa Fe,Litoral,2025-01-15,activo
+2963,Paula,Castro,31409613,1980-04-10,paula.castro.2963@yahoo.com.ar,+5493329369087,Mitre 5055,Mendoza,Mendoza,Cuyo,2022-02-27,activo
+2965,Emilia,Navarro,40585476,2067-03-01,emilia.navarro.2965@yahoo.com.ar,(203) 512.0788,25 de Mayo 403,Mendoza,Mendoza,Cuyo,2026-03-27,activo
+2969,Paula,Ortiz,18786082,1982-06-04,paula.ortiz.2969@yahoo.com.ar,+5493338142329,Independencia 8580,Córdoba,Córdoba,Centro,2025-12-08,activo
+2971,Nicolás,Ruiz,27998578,1993-08-02,nicolas.ruiz.2971@gmail.com,+5492233340184,San Martín 4111,Buenos Aires,CABA,AMBA,2024-12-30,inactivo
+2975,Gastón,Suárez,72054929,1993-03-25,gaston.suarez.2975@gmail.com,+5492249746319,Independencia 2502,Mendoza,Mendoza,Cuyo,2023-01-30,activo
+2981,Diego,Medina,66661164,1999-12-24,diego.medina.2981@yahoo.com.ar,+5492537232979,Las Heras 1269,Tucumán,Tucumán,NOA,2023-08-12,activo
+2985,Ana,Herrera,11712789,1989-01-03,ana.herrera.2985@outlook.com,+5492595092385,Belgrano 7075,Tucumán,Tucumán,NOA,2023-02-20,activo
+2998,Martín,Pereyra,20915114,2064-11-17,martin.pereyra.2998@yahoo.com.ar,+5493042126774,25 de Mayo 1205,Salta,Salta,NOA,2023-12-29,activo
+3002,Joaquín,Rodríguez,50087262,1994-04-20,joaquin.rodriguez.3002@hotmail.com,+5493623029829,Las Heras 8198,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-03-20,activo
+3003,Laura,Molina,83202428,2058-09-15,laura.molina.3003@yahoo.com.ar,+5492538286007,Mitre 2855,Rosario,Santa Fe,Litoral,2026-01-11,activo
+3007,Lucía,Giménez,90403464,1975-05-21,lucia.gimenez.3007@outlook.com,+5493987257992,Rivadavia 6599,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-04-15,activo
+3008,Camila,Cabrera,94752089,1986-05-01,camila.cabrera.3008@gmail.com,+5493502001535,Las Heras 1203,Córdoba,Córdoba,Centro,2025-12-29,activo
+3009,Santiago,González,10356101,1986-02-28,santiago.gonzalez.3009@yahoo.com.ar,(357) 671.8652,Belgrano 5468,Córdoba,Córdoba,Centro,2023-08-03,activo
+3018,Mateo,Navarro,26790926,1971-05-22,mateo.navarro.3018@outlook.com,+5493233945163,Av. Colón 833,Rosario,Santa Fe,Litoral,2024-01-16,activo
+3019,Nicolás,Fernández,11854277,1971-12-11,nicolas.fernandez.3019@outlook.com,+5493278073238,Belgrano 4863,Mendoza,Mendoza,Cuyo,2025-04-02,activo
+3022,Lucía,Gutiérrez,23257796,1994-03-06,lucia.gutierrez.3022@gmail.com,+5493667763567,9 de Julio 5706,Buenos Aires,CABA,AMBA,2025-05-30,activo
+3023,Diego,Martínez,85219897,1979-05-30,diego.martinez.3023@yahoo.com.ar,+5493641565187,San Martín 4892,Mendoza,Mendoza,Cuyo,2025-11-06,activo
+3025,Joaquín,Medina,48853205,2054-12-30,joaquin.medina.3025@outlook.com,+5493872330488,Sarmiento 2095,Rosario,Santa Fe,Litoral,2023-11-22,activo
+3027,Sofía,Acosta,37017620,1994-05-22,sofia.acosta.3027@outlook.com,+5493644323504,Av. Colón 3702,Salta,Salta,NOA,2023-07-21,activo
+3037,Emilia,Silva,34663821,2065-08-24,emilia.silva.3037@gmail.com,+5492601681078,Independencia 9235,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-05-11,activo
+3040,Mateo,López,65609692,2063-03-24,mateo.lopez.3040@hotmail.com,+5492665745342,Las Heras 420,Buenos Aires,CABA,AMBA,2022-09-15,activo
+3041,Paula,Silva,89020359,2061-06-10,paula.silva.3041@gmail.com,+5492579502938,Rivadavia 5007,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-15,bloqueado
+3044,Joaquín,González,20000005,1979-06-17,joaquin.gonzalez.3044@gmail.com,+5492943783144,Las Heras 4998,Salta,Salta,NOA,2025-08-23,activo
+3045,María José,Flores,36535450,2004-04-10,maria.jose.flores.3045@gmail.com,(270) 787.4031,25 de Mayo 8933,Rosario,Santa Fe,Litoral,2022-08-25,activo
+3048,Lucía,Molina,18613781,1999-02-18,lucia.molina.3048@yahoo.com.ar,+5492229530459,Belgrano 5217,Rosario,Santa Fe,Litoral,2025-01-27,activo
+3050,Gastón,Navarro,81619126,1980-11-10,gaston.navarro.3050@yahoo.com.ar,+5493003113109,25 de Mayo 5255,Buenos Aires,CABA,AMBA,2025-11-07,activo
+3054,Julieta,Navarro,53864654,2003-12-18,julieta.navarro.3054@outlook.com,+5492785052377,Independencia 3181,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-04,activo
+3065,Nicolás,Navarro,25411573,1978-05-20,nicolas.navarro.3065@yahoo.com.ar,+5492184059056,Belgrano 4868,Rosario,Santa Fe,Litoral,2022-09-19,activo
+3066,Federico,Suárez,79428323,2004-08-22,federico.suarez.3066@outlook.com,+5493988259358,Sarmiento 3230,Tucumán,Tucumán,NOA,2025-09-08,inactivo
+3067,Gastón,Fernández,47228727,1997-04-27,gaston.fernandez.3067@gmail.com,+5493315650546,Independencia 4859,Buenos Aires,CABA,AMBA,2024-04-13,activo
+3079,María José,Martínez,62708002,2058-06-24,maria.jose.martinez.3079@hotmail.com,+5493107650519,Sarmiento 1045,Salta,Salta,NOA,2022-09-04,activo
+3086,Paula,Romero,10033221,2051-08-21,paula.romero.3086@outlook.com,+5492668187223,9 de Julio 4613,Salta,Salta,NOA,2023-12-06,activo
+3096,Emilia,Martínez,97850452,2067-06-16,emilia.martinez.3096@outlook.com,+5493222731368,Independencia 3505,Rosario,Santa Fe,Litoral,2022-12-02,activo
+3099,Agustín,Alvarez,16583891,1972-06-20,agustin.alvarez.3099@gmail.com,+5493527277880,9 de Julio 8937,Rosario,Santa Fe,Litoral,2024-10-12,activo
+3104,Lucía,Sánchez,45749911,2049-07-03,lucia.sanchez.3104@outlook.com,+5493282693704,Belgrano 1814,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-11-22,activo
+3107,Florencia,Alvarez,33987167,2001-05-26,florencia.alvarez.3107@hotmail.com,+5493292584813,San Martín 1640,Salta,Salta,NOA,2023-04-02,inactivo
+3108,Gabriel,López,43320931,2060-10-31,gabriel.lopez.3108@outlook.com,+5493443034614,25 de Mayo 4636,Tucumán,Tucumán,NOA,2023-06-17,activo
+3110,Martín,Herrera,46688453,1983-05-11,martin.herrera.3110@hotmail.com,+5492195863681,9 de Julio 7956,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-07-14,activo
+3114,Carolina,Sánchez,13558534,2043-03-25,carolina.sanchez.3114@outlook.com,+5493601017319,Av. Colón 4158,Salta,Salta,NOA,2023-07-23,activo
+3115,Nicolás,Gutiérrez,72328873,1989-09-25,nicolas.gutierrez.3115@gmail.com,+5493292930292,25 de Mayo 7408,Rosario,Santa Fe,Litoral,2023-03-07,activo
+3117,Ana,Castro,90244900,2062-03-01,ana.castro.3117@hotmail.com,+5492898625595,INDEPENDENCIA 6443,Rosario,Santa Fe,Litoral,2022-09-08,activo
+3130,Carolina,Flores,49712826,1994-10-26,carolina.flores.3130@outlook.com,+5492053812111,Mitre 3250,Córdoba,Córdoba,Centro,2025-03-07,activo
+3131,Florencia,Alvarez,83491809,1984-08-01,florencia.alvarez.3131@outlook.com,+5492016773033,Rivadavia 9917,Rosario,Santa Fe,Litoral,2022-10-16,activo
+3136,Camila,Martínez,55807714,2062-07-22,camila.martinez.3136@yahoo.com.ar,+5492284140656,25 de Mayo 7578,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-11-11,activo
+3138,Alejandro,Ortiz,24921409,1975-08-08,alejandro.ortiz.3138@yahoo.com.ar,+5493114602706,Sarmiento 6748,Salta,Salta,NOA,2022-11-21,activo
+3143,Nicolás,Silva,61385645,1999-06-12,nicolas.silva.3143@yahoo.com.ar,(362) 433.9299,9 de Julio 8929,Buenos Aires,CABA,AMBA,2023-04-01,activo
+3144,Nicolás,Ortiz,30765011,1974-11-20,nicolas.ortiz.3144@gmail.com,+5493311092638,Rivadavia 5558,Buenos Aires,CABA,AMBA,2024-04-29,activo
+3146,Carolina,Cabrera,14074232,1982-01-31,cliente@mail,+5493815914208,Independencia 3103,Mendoza,Mendoza,Cuyo,2024-11-12,activo
+3149,María José,Fernández,77391680,2066-07-07,maria.jose.fernandez.3149@hotmail.com,+5493252421317,Las Heras 5759,Córdoba,Córdoba,Centro,2022-09-11,activo
+3151,Florencia,Gutiérrez,87037975,2061-02-07,florencia.gutierrez.3151@gmail.com,+5493845312758,Belgrano 1901,Tucumán,Tucumán,NOA,2024-03-21,activo
+3160,Gastón,Medina,84951226,1970-01-06,gaston.medina.3160@hotmail.com,+5493323684512,San Martín 3940,Córdoba,Córdoba,Centro,2023-03-27,activo
+3162,Federico,Navarro,71493671,1986-09-04,federico.navarro.3162@hotmail.com,+5492698720191,Independencia 997,Córdoba,Córdoba,Centro,2023-12-04,activo
+3166,Camila,Suárez,77939000,2065-03-20,camila.suarez.3166@gmail.com,+5493663432355,9 de Julio 3754,Córdoba,Córdoba,Centro,2023-11-23,activo
+3182,Santiago,Cabrera,66365123,2045-04-17,santiago.cabrera.3182@hotmail.com,+5493149991287,Las Heras 9972,Córdoba,Córdoba,Centro,2023-05-28,activo
+3185,Sofía,Flores,54454577,1976-07-31,sofia.flores.3185@hotmail.com,+5493587210457,9 de Julio 3871,Mendoza,Mendoza,Cuyo,2025-01-01,activo
+3186,Florencia,Domínguez,31065275,1977-06-27,florencia.dominguez.3186@gmail.com,+5493076600916,9 de Julio 5158,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-02-28,activo
+3193,Julieta,Fernández,18862371,2046-07-02,julieta.fernandez.3193@hotmail.com,+5492561317088,Belgrano 4058,Salta,Salta,NOA,2022-09-11,activo
+3195,Sofía,Molina,65573912,2053-08-31,sofia.molina.3195@yahoo.com.ar,+5493416051712,Av. Colón 5786,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-07-28,inactivo
+3198,Camila,Sánchez,46665836,2052-09-23,camila.sanchez.3198@outlook.com,+5492272963220,Las Heras 2822,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-18,bloqueado
+3215,Emilia,Navarro,75397445,2052-12-27,emilia.navarro.3215@hotmail.com,+5493618242788,Mitre 3541,Tucumán,Tucumán,NOA,2025-06-06,activo
+3221,Federico,Domínguez,39617200,2057-11-17,federico.dominguez.3221@gmail.com,+5492007443714,Av. Colón 2386,Mendoza,Mendoza,Cuyo,2025-02-27,activo
+3226,Alejandro,Fernández,90458879,2046-09-29,alejandro.fernandez.3226@yahoo.com.ar,+5492113620708,9 de Julio 8464,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-01-23,activo
+3227,Gastón,Acosta,76741672,2042-11-02,gaston.acosta.3227@outlook.com,+5492612819559,25 de Mayo 1194,Córdoba,Córdoba,Centro,2022-04-10,activo
+3228,Ana,Ramírez,67568900,1983-09-09,ana.ramirez.3228@hotmail.com,+5492258689397,Independencia 1301,Salta,Salta,NOA,2022-04-24,activo
+3231,Gabriel,Pérez,40259932,1971-08-19,gabriel.perez.3231@gmail.com,+5493462033132,Belgrano 7497,Buenos Aires,CABA,AMBA,2023-07-22,activo
+3236,Agustín,Silva,28015487,1970-11-20,agustin.silva.3236@yahoo.com.ar,+5493083649691,Av. Colón 2818,Rosario,Santa Fe,Litoral,2022-01-29,activo
+3239,Daniel,Gutiérrez,74382290,1991-04-07,daniel.gutierrez.3239@yahoo.com.ar,+5492495592430,Mitre 3767,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-12-06,activo
+3241,Sofía,Silva,76215384,2049-10-03,sofia.silva.3241@yahoo.com.ar,+5492104072270,Mitre 2662,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-07-04,activo
+3246,Federico,Giménez,22534962,2052-10-31,federico.gimenez.3246@gmail.com,+5493992547549,9 de Julio 7601,Mendoza,Mendoza,Cuyo,2024-05-25,activo
+3248,Gastón,Pereyra,11489972,1995-05-18,gaston.pereyra.3248@hotmail.com,+5493605525811,San Martín 7313,Buenos Aires,CABA,AMBA,2022-11-14,activo
+3249,Federico,Martínez,20016955,1996-07-29,federico.martinez.3249@gmail.com,+5492678711841,Independencia 5572,Mendoza,Mendoza,Cuyo,2025-01-16,activo
+3251,Gabriel,Ramírez,57171262,2000-06-17,gabriel.ramirez.3251@hotmail.com,+5493408210002,Independencia 7925,Mendoza,Mendoza,Cuyo,2022-01-16,activo
+3254,María José,Aguirre,65086347,2063-04-18,maria.jose.aguirre.3254@gmail.com,+5492774332201,Av. Colón 5485,Tucumán,Tucumán,NOA,2023-10-21,activo
+3255,Lucía,González,58606407,1984-05-01,lucia.gonzalez.3255@gmail.com,+5492392352964,Belgrano 2514,Rosario,Santa Fe,Litoral,2022-10-28,activo
+3257,Lucía,Suárez,11313327,2051-10-06,lucia.suarez.3257@yahoo.com.ar,+5493076947667,Mitre 3962,Tucumán,Tucumán,NOA,2025-01-02,activo
+3260,Florencia,Sánchez,76890319,2005-11-24,florencia.sanchez.3260@yahoo.com.ar,+5493798515953,Las Heras 2450,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-06,activo
+3264,Camila,Domínguez,47945046,2062-10-09,camila.dominguez.3264@outlook.com,+5492628536817,25 de Mayo 4611,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-08-31,activo
+3269,Camila,Alvarez,41933018,1986-01-15,camila.alvarez.3269@yahoo.com.ar,+5492321153130,Mitre 6271,Tucumán,Tucumán,NOA,2025-01-01,activo
+3270,Florencia,Flores,50215028,1975-12-23,florencia.flores.3270@gmail.com,+5492056380294,9 de Julio 101,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-02-27,activo
+3271,Florencia,Ortiz,31931365,1978-10-07,florencia.ortiz.3271@gmail.com,+5493345198671,Sarmiento 9875,Córdoba,Córdoba,Centro,2026-01-12,activo
+3272,Santiago,Pérez,38428641,1971-12-23,santiago.perez.3272@outlook.com,+5492951057806,9 de Julio 1026,Buenos Aires,CABA,AMBA,2024-04-13,activo
+3275,Agustín,Herrera,11501118,2044-09-23,agustin.herrera.3275@outlook.com,+5493939382264,Sarmiento 9240,Buenos Aires,CABA,AMBA,2023-08-20,activo
+3277,Federico,Ortiz,52130865,2064-02-19,federico.ortiz.3277@gmail.com,+5492652062473,San Martín 938,Salta,Salta,NOA,2023-08-10,activo
+3287,Joaquín,Ortiz,31289357,1995-10-01,joaquin.ortiz.3287@outlook.com,+5492577517329,Belgrano 7737,Rosario,Santa Fe,Litoral,2023-08-23,bloqueado
+3289,Florencia,López,48092348,2053-03-05,florencia.lopez.3289@yahoo.com.ar,+5493155694287,Av. Colón 4677,Buenos Aires,CABA,AMBA,2024-12-11,activo
+3290,Gabriel,Suárez,61222054,2050-06-02,gabriel.suarez.3290@yahoo.com.ar,+5493545352058,Rivadavia 5206,Mendoza,Mendoza,Cuyo,2022-07-10,activo
+3291,Emilia,Flores,69841002,1988-06-28,emilia.flores.3291@hotmail.com,+5492243944036,Sarmiento 4805,Mendoza,Mendoza,Cuyo,2022-07-26,activo
+3296,Camila,González,24927927,2052-11-01,camila.gonzalez.3296@hotmail.com,+5493731891398,9 de Julio 6613,Buenos Aires,CABA,AMBA,2025-03-28,activo
+3317,Agustín,Herrera,44931790,2001-04-01,agustin.herrera.3317@gmail.com,+5492927342720,San Martín 2104,Buenos Aires,CABA,AMBA,2024-03-13,activo
+3322,Nicolás,Aguirre,27439695,2044-02-09,nicolas.aguirre.3322@yahoo.com.ar,+5492048702007,9 de Julio 8279,Rosario,Santa Fe,Litoral,2022-04-13,activo
+3323,Alejandro,Sánchez,30620063,2002-01-08,alejandro.sanchez.3323@hotmail.com,+5492788525007,Mitre 8332,Buenos Aires,CABA,AMBA,2023-05-16,activo
+3332,Juan,Pérez,65344179,1971-03-09,juan.perez.3332@yahoo.com.ar,+5493871643930,San Martín 8151,Córdoba,Córdoba,Centro,2024-02-06,activo
+3334,Camila,Suárez,27562102,1982-12-14,camila.suarez.3334@hotmail.com,+5492501895735,Independencia 2871,Córdoba,Córdoba,Centro,2023-08-19,activo
+3339,Sofía,Gutiérrez,44662577,1993-09-28,sofia.gutierrez.3339@outlook.com,+5492066058635,Sarmiento 7797,Tucumán,Tucumán,NOA,2022-11-27,activo
+3341,Federico,Acosta,64419258,1986-10-11,federico.acosta.3341@yahoo.com.ar,+5492107945198,Rivadavia 7439,Rosario,Santa Fe,Litoral,2025-06-06,activo
+3348,Ana,Giménez,75340702,2064-12-13,ana.gimenez.3348@hotmail.com,+5493343566806,25 de Mayo 2031,Córdoba,Córdoba,Centro,2022-05-03,bloqueado
+3351,Gastón,González,69817510,1988-08-26,gaston.gonzalez.3351@gmail.com,+5493238876224,Independencia 5718,Mendoza,Mendoza,Cuyo,2025-04-09,activo
+3352,Emilia,Medina,83981329,2066-12-17,emilia.medina.3352@outlook.com,+5493556979326,Mitre 9772,Mendoza,Mendoza,Cuyo,2024-11-20,activo
+3354,Carolina,Castro,65962035,1974-12-17,carolina.castro.3354@yahoo.com.ar,+5492513553799,Independencia 9720,Córdoba,Córdoba,Centro,2024-04-15,activo
+3358,Lucía,Romero,55951452,1974-08-25,lucia.romero.3358@yahoo.com.ar,+5493858147880,Belgrano 105,Tucumán,Tucumán,NOA,2023-08-28,inactivo
+3361,Laura,López,34651660,2051-10-07,laura.lopez.3361@hotmail.com,+5493495703083,Rivadavia 5839,Mendoza,Mendoza,Cuyo,2022-10-25,activo
+3376,Alejandro,Martínez,42789385,2052-10-16,alejandro.martinez.3376@hotmail.com,+5492387710907,San Martín 8115,Rosario,Santa Fe,Litoral,2024-08-06,activo
+3380,Santiago,López,89556739,1986-01-18,santiago.lopez.3380@outlook.com,+5493092999999,San Martín 7013,Salta,Salta,NOA,2023-05-26,activo
+3382,Daniel,Pereyra,99251616,1993-03-01,daniel.pereyra.3382@outlook.com,+5492047117594,25 de Mayo 4284,Salta,Salta,NOA,2023-03-09,activo
+3383,Emilia,Benítez,83776844,1969-12-21,emilia.benitez.3383@gmail.com,+5492664005829,25 de Mayo 3289,Salta,Salta,NOA,2023-07-22,activo
+3393,Agustín,Flores,94302561,2062-09-10,agustin.flores.3393@outlook.com,+5493884052598,MITRE 6985,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-08-16,activo
+3394,Emilia,Fernández,31953151,1997-06-21,emilia.fernandez.3394@yahoo.com.ar,+5492832729577,25 de Mayo 6772,Salta,Salta,NOA,2023-02-19,activo
+3399,Nicolás,Acosta,86468145,2005-12-15,nicolas.acosta.3399@hotmail.com,+5492567868346,9 de Julio 4299,Rosario,Santa Fe,Litoral,2024-03-03,activo
+3401,Joaquín,Castro,33105178,1975-05-31,joaquin.castro.3401@gmail.com,+5493956573797,Sarmiento 8298,Buenos Aires,CABA,AMBA,2023-01-01,activo
+3404,Gastón,Medina,61556848,2052-11-22,gaston.medina.3404@gmail.com,+5492423787656,Belgrano 7146,Salta,Salta,NOA,2025-05-18,activo
+3406,Laura,Suárez,15608332,2066-03-21,laura.suarez.3406@gmail.com,+5492409128987,9 de Julio 3234,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-06-30,activo
+3408,Federico,Pérez,71257165,1978-04-12,federico.perez.3408@hotmail.com,+5492613893779,Independencia 3930,Salta,Salta,NOA,2022-04-28,activo
+3410,Alejandro,Herrera,42829018,2054-10-18,alejandro.herrera.3410@outlook.com,+5492367728331,Mitre 7693,Córdoba,Córdoba,Centro,2025-11-20,activo
+3415,Nicolás,Pérez,85805463,2060-12-03,nicolas.perez.3415@outlook.com,+5492232569627,San Martín 9239,Tucumán,Tucumán,NOA,2024-07-15,activo
+3419,Alejandro,Romero,69662994,1996-11-05,alejandro.romero.3419@yahoo.com.ar,+5492545486863,San Martín 8920,Salta,Salta,NOA,2023-07-20,activo
+3426,Mateo,Navarro,41168680,2049-04-01,mateo.navarro.3426@outlook.com,+5493483736719,Las Heras 5675,Mendoza,Mendoza,Cuyo,2022-12-01,activo
+3430,Martín,Ramírez,65390778,2053-01-10,martin.ramirez.3430@gmail.com,+5492889224074,25 de Mayo 3277,Mendoza,Mendoza,Cuyo,2026-01-20,activo
+3434,Sofía,Molina,12666165,2060-08-30,sofia.molina.3434@outlook.com,+5492863303569,San Martín 6675,Rosario,Santa Fe,Litoral,2025-01-07,activo
+3440,Camila,Pereyra,86755800,1974-10-26,camila.pereyra.3440@gmail.com,+5493391373134,Rivadavia 254,Buenos Aires,CABA,AMBA,2022-10-19,activo
+3457,Julieta,Aguirre,83728964,2001-12-31,julieta.aguirre.3457@hotmail.com,+5493655130598,Rivadavia 4325,Tucumán,Tucumán,NOA,2026-01-01,activo
+3461,Sofía,Gutiérrez,17211612,1974-01-22,sofia.gutierrez.3461@yahoo.com.ar,+5492145228945,9 de Julio 4664,Salta,Salta,NOA,2022-11-29,activo
+3465,Mateo,Pérez,90673211,2061-09-28,mateo.perez.3465@hotmail.com,+5492698610440,,Salta,Salta,NOA,2025-01-05,activo
+3479,María José,Medina,74780389,1977-07-13,maria.jose.medina.3479@outlook.com,+5493883111573,Mitre 1040,Tucumán,Tucumán,NOA,2022-04-26,activo
+3486,Alejandro,Cabrera,96135083,1970-07-16,alejandro.cabrera.3486@outlook.com,+5492057030132,Rivadavia 1125,Mendoza,Mendoza,Cuyo,2022-03-19,activo
+3497,Martín,Rodríguez,56234191,2053-01-09,martin.rodriguez.3497@gmail.com,+5492716492777,Belgrano 4354,Salta,Salta,NOA,2024-10-21,activo
+3502,Martín,Molina,27158747,2004-01-15,martin.molina.3502@outlook.com,+5493268870288,Av. Colón 757,Salta,Salta,NOA,2022-11-07,activo
+3505,Martín,Castro,58708749,1974-12-26,martin.castro.3505@outlook.com,+5492339210475,San Martín 2733,Tucumán,Tucumán,NOA,2026-01-05,activo
+3519,Diego,Martínez,11121062,1981-09-30,diego.martinez.3519@hotmail.com,+5493871707302,9 de Julio 1777,Salta,Salta,NOA,2024-02-26,activo
+3524,Florencia,Suárez,97512593,1976-07-05,florencia.suarez.3524@outlook.com,+5493242819225,25 de Mayo 1065,Salta,Salta,NOA,2023-09-21,activo
+3526,Joaquín,Castro,17196038,1970-05-29,joaquin.castro.3526@outlook.com,+5493677856229,Independencia 389,Rosario,Santa Fe,Litoral,2025-05-12,activo
+3527,Joaquín,Acosta,40186032,1975-10-30,joaquin.acosta.3527@outlook.com,+5493793533556,25 de Mayo 9690,Mendoza,Mendoza,Cuyo,2022-10-02,activo
+3536,Agustín,Pereyra,63869835,2022-08-05,agustin.pereyra.3536@outlook.com,+5493767885023,Belgrano 2829,Mendoza,Mendoza,Cuyo,2022-07-06,activo
+3538,Paula,Acosta,25004582,2005-08-02,paula.acosta.3538@gmail.com,+5492932594603,Belgrano 718,Tucumán,Tucumán,NOA,2026-01-01,activo
+3544,Agustín,Flores,15336200,1984-07-13,agustin.flores.3544@hotmail.com,+5493666077421,Independencia 8795,Tucumán,Tucumán,NOA,2023-08-03,activo
+3546,Sofía,Acosta,42053640,2045-07-19,sofia.acosta.3546@hotmail.com,+5492461901015,Mitre 4020,Córdoba,Córdoba,Centro,2025-04-04,activo
+3551,Julieta,López,25775144,2053-06-05,julieta.lopez.3551@outlook.com,+5492133948876,Sarmiento 4440,Rosario,Santa Fe,Litoral,2023-01-28,activo
+3558,Ana,Aguirre,46753140,1993-01-17,ana.aguirre.3558@gmail.com,+5492895541252,Belgrano 7150,Córdoba,Córdoba,Centro,2022-08-11,activo
+3560,Lucía,Medina,79997872,2004-02-05,lucia.medina.3560@gmail.com,+5493251375212,9 de Julio 5571,Salta,Salta,NOA,2023-03-19,inactivo
+3568,Ana,Gutiérrez,85053440,2052-09-17,ana.gutierrez.3568@hotmail.com,+5493807171016,Av. Colón 5373,Rosario,Santa Fe,Litoral,2024-07-23,activo
+3571,Daniel,Medina,29993580,2056-07-10,daniel.medina.3571@gmail.com,+5492679674902,Belgrano 8192,Córdoba,Córdoba,Centro,2025-06-06,activo
+3575,Martín,Medina,29667685,1969-11-10,martin.medina.3575@outlook.com,+5492087303067,Independencia 5661,Salta,Salta,NOA,2025-08-26,activo
+3576,Gabriel,Romero,59860794,1998-11-03,gabriel.romero.3576@gmail.com,+5492041820926,Rivadavia 8501,Tucumán,Tucumán,NOA,2022-04-18,activo
+3581,Martín,Flores,98333562,1990-11-18,martin.flores.3581@yahoo.com.ar,+5492658232276,Mitre 4322,Buenos Aires,CABA,AMBA,2022-10-23,activo
+3586,Federico,Molina,36239201,1998-02-02,federico.molina.3586@yahoo.com.ar,+5492434014219,Av. Colón 1818,Salta,Salta,NOA,2022-05-29,activo
+3587,Juan,Silva,53951214,2068-01-27,juan.silva.3587@yahoo.com.ar,+5493596833418,San Martín 7052,Mendoza,Mendoza,Cuyo,2025-06-26,activo
+3592,Julieta,Martínez,43707991,1974-08-25,julieta.martinez.3592@yahoo.com.ar,+5493882425204,Belgrano 2181,Salta,Salta,NOA,2023-01-10,activo
+3594,Diego,Fernández,36306445,1995-10-12,diego.fernandez.3594@hotmail.com,+5493963776080,25 de Mayo 6982,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-01-11,activo
+3600,Carolina,López,26728640,1982-04-02,carolina.lopez.3600@outlook.com,+5492687417086,Belgrano 7666,Salta,Salta,NOA,2023-08-17,activo
+3602,Paula,Giménez,35351384,1983-06-09,paula.gimenez.3602@yahoo.com.ar,+5493846790656,San Martín 7205,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-23,activo
+3605,Nicolás,Benítez,15399595,1998-09-25,nicolas.benitez.3605@outlook.com,+5492406458878,Mitre 716,Buenos Aires,CABA,AMBA,2022-07-09,activo
+3608,Joaquín,Benítez,99935794,2062-09-24,joaquin.benitez.3608@yahoo.com.ar,+5492211243697,9 de Julio 4327,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-04-21,activo
+3617,Nicolás,Ramírez,79981416,1979-08-31,nicolas.ramirez.3617@yahoo.com.ar,(294) 210.8875,Mitre 6858,Mendoza,Mendoza,Cuyo,2022-09-24,activo
+3618,Agustín,Navarro,51474189,2068-07-07,agustin.navarro.3618@gmail.com,+5492006896856,Independencia 8518,Buenos Aires,CABA,AMBA,2023-08-27,activo
+3625,Laura,Ruiz,60498075,1972-11-27,laura.ruiz.3625@outlook.com,+5492661708679,9 de Julio 7187,Tucumán,Tucumán,NOA,2023-08-24,activo
+3626,Santiago,Pereyra,96117869,1993-07-17,santiago.pereyra.3626@gmail.com,+5492056686185,SAN MARTÍN 7734,Rosario,Santa Fe,Litoral,2024-08-10,activo
+3627,Nicolás,Domínguez,32728244,2004-10-17,nicolas.dominguez.3627@outlook.com,+5493665728558,Belgrano 5960,Córdoba,Córdoba,Centro,2025-04-17,activo
+3631,Diego,Ruiz,83456294,2061-04-05,diego.ruiz.3631@hotmail.com,+5493102585715,San Martín 7055,Salta,Salta,NOA,2024-12-22,activo
+3632,Julieta,López,93684705,1979-12-29,julieta.lopez.3632@hotmail.com,+5493299919134,Independencia 1734,Tucumán,Tucumán,NOA,2022-06-18,activo
+3636,María José,Martínez,76110905,1978-08-04,maria.jose.martinez.3636@yahoo.com.ar,+5492791581515,Independencia 5085,Rosario,Santa Fe,Litoral,2024-11-14,activo
+3642,Mateo,Benítez,94557568,1972-01-18,mateo.benitez.3642@hotmail.com,+5492199699081,Belgrano 7936,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-25,activo
+3647,Mateo,Silva,57393105,1992-02-18,mateo.silva.3647@gmail.com,+5492761349978,Las Heras 2867,Mendoza,Mendoza,Cuyo,2023-07-08,activo
+3652,Federico,Herrera,14465300,1982-06-08,federico.herrera.3652@hotmail.com,+5493953391006,Sarmiento 4305,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-10-10,activo
+3654,Agustín,Pereyra,62785357,1971-06-18,agustin.pereyra.3654@yahoo.com.ar,+5492896507985,Independencia 7094,Rosario,Santa Fe,Litoral,2025-03-19,activo
+3655,Mateo,Gutiérrez,66073910,2057-05-04,mateo.gutierrez.3655@outlook.com,+5492341212702,Av. Colón 5618,Córdoba,Córdoba,Centro,2024-04-13,activo
+3662,Camila,Romero,32139610,2061-03-16,camila.romero.3662@gmail.com,+5492716291018,Belgrano 3263,Salta,Salta,NOA,2023-04-27,activo
+3665,Diego,Ortiz,35196950,2053-11-10,diego.ortiz.3665@gmail.com,+5492395887105,Mitre 6117,Buenos Aires,CABA,AMBA,2023-02-26,inactivo
+3666,Gastón,Ramírez,14914658,2043-09-05,gaston.ramirez.3666@outlook.com,+5492517965853,Independencia 455,Tucumán,Tucumán,NOA,2023-08-05,activo
+3669,Joaquín,López,62298600,1973-05-14,joaquin.lopez.3669@hotmail.com,+5493066817081,Mitre 2994,Rosario,Santa Fe,Litoral,2022-08-15,activo
+3671,Martín,Medina,92556746,1981-03-12,martin.medina.3671@gmail.com,+5492545428046,San Martín 1314,Salta,Salta,NOA,2025-07-05,activo
+3672,Martín,Domínguez,62715709,1981-07-26,martin.dominguez.3672@hotmail.com,+5493792683180,Sarmiento 9137,Mendoza,Mendoza,Cuyo,2023-04-19,activo
+3674,Laura,Ortiz,46788411,2058-06-29,laura.ortiz.3674@gmail.com,+5492037943748,San Martín 1798,Córdoba,Córdoba,Centro,2026-01-01,activo
+3677,Sofía,Domínguez,38027662,2068-09-10,sofia.dominguez.3677@hotmail.com,+5493803511695,Las Heras 6773,Rosario,Santa Fe,Litoral,2022-05-07,activo
+3683,Florencia,Aguirre,86127519,1994-08-27,florencia.aguirre.3683@outlook.com,+5492208829897,Av. Colón 9208,Rosario,Santa Fe,Litoral,2023-11-21,activo
+3684,Federico,Rodríguez,49243158,1983-09-09,federico.rodriguez.3684@outlook.com,+5492552642795,9 de Julio 8380,Salta,Salta,NOA,2024-04-25,activo
+3685,Gabriel,Herrera,24838062,2047-11-12,gabriel.herrera.3685@gmail.com,+5492562675493,Mitre 6177,Córdoba,Córdoba,Centro,2023-03-24,activo
+3687,Ana,Fernández,98163881,1992-10-18,ana.fernandez.3687@gmail.com,+5493634153257,25 de Mayo 3029,Salta,Salta,NOA,2023-10-16,activo
+3689,Julieta,Pérez,25781703,1972-10-08,julieta.perez.3689@outlook.com,+5493449246461,25 de Mayo 3511,Córdoba,Córdoba,Centro,2026-02-28,inactivo
+3693,Federico,Ramírez,53864909,1972-09-24,federico.ramirez.3693@gmail.com,+5493566013220,Belgrano 5757,Buenos Aires,CABA,AMBA,2025-12-29,activo
+3699,Ana,González,47738008,1985-02-11,ana.gonzalez.3699@yahoo.com.ar,+5492348097063,Belgrano 2911,Mendoza,Mendoza,Cuyo,2022-10-14,activo
+3706,María José,Giménez,35717204,1969-11-05,maria.jose.gimenez.3706@yahoo.com.ar,+5493964544144,Sarmiento 199,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-07-21,activo
+3708,Juan,Cabrera,73746230,2006-10-06,juan.cabrera.3708@yahoo.com.ar,+5492705647322,San Martín 8447,Tucumán,Tucumán,NOA,2025-11-16,activo
+3709,Ana,Domínguez,33792751,2005-09-22,ana.dominguez.3709@yahoo.com.ar,+5492563295723,Rivadavia 6918,Tucumán,Tucumán,NOA,2024-01-18,activo
+3717,Ana,Martínez,20000006,1980-09-23,ana.martinez.3717@outlook.com,+5493596522646,Independencia 3820,Tucumán,Tucumán,NOA,2023-03-20,activo
+3726,Alejandro,Martínez,51368229,1979-03-20,alejandro.martinez.3726@yahoo.com.ar,+5493955923155,9 de Julio 7101,Tucumán,Tucumán,NOA,2024-01-07,activo
+3730,Lucía,Silva,99001224,2004-04-07,lucia.silva.3730@gmail.com,+5493658738109,Mitre 3866,Salta,Salta,NOA,2025-03-21,activo
+3733,Ana,González,39689801,1975-09-08,ana.gonzalez.3733@outlook.com,+5493962831380,Independencia 7094,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-01-21,activo
+3735,Sofía,Suárez,24598430,2052-09-14,sofia.suarez.3735@gmail.com,+5493566808791,9 de Julio 8709,Mendoza,Mendoza,Cuyo,2023-03-23,activo
+3746,Camila,Navarro,89614472,1973-11-07,camila.navarro.3746@outlook.com,+5493297045855,Sarmiento 8457,Rosario,Santa Fe,Litoral,2024-11-05,activo
+3750,Sofía,Fernández,92330273,2050-09-23,sofia.fernandez.3750@yahoo.com.ar,+5493797105620,San Martín 661,Mendoza,Mendoza,Cuyo,2025-02-05,activo
+3751,María José,Flores,21412071,1970-01-05,maria.jose.flores.3751@gmail.com,+5493521691769,Las Heras 2057,Mendoza,Mendoza,Cuyo,2025-11-22,activo
+3753,Gabriel,Castro,84260979,2057-11-12,gabriel.castro.3753@gmail.com,+5492923358185,Av. Colón 6355,Mendoza,Mendoza,Cuyo,2025-07-12,activo
+3755,Federico,Navarro,11810747,2056-06-14,federico.navarro.3755@hotmail.com,+5492904140961,Mitre 3802,Tucumán,Tucumán,NOA,2025-07-05,activo
+3762,Juan,Acosta,87064012,1972-02-27,juan.acosta.3762@gmail.com,+5493046984888,Independencia 1423,Buenos Aires,CABA,AMBA,2022-06-20,activo
+3771,Paula,López,95167675,1973-02-09,paula.lopez.3771@outlook.com,+5493215887035,25 de Mayo 2777,Salta,Salta,NOA,2025-06-19,activo
+3774,Mateo,Molina,86686192,1992-11-10,mateo.molina.3774@hotmail.com,+5492272358148,Belgrano 2840,Salta,Salta,NOA,2025-04-12,activo
+3775,Santiago,Acosta,33634412,2004-10-11,santiago.acosta.3775@gmail.com,+5492715414440,Rivadavia 3951,Rosario,Santa Fe,Litoral,2025-02-28,activo
+3779,Santiago,González,79428285,1995-01-22,santiago.gonzalez.3779@hotmail.com,(291) 176.2141,Av. Colón 1628,Rosario,Santa Fe,Litoral,2024-07-23,activo
+3780,Joaquín,Ramírez,59893929,2053-02-27,joaquin.ramirez.3780@yahoo.com.ar,+5492866962329,Belgrano 2571,Salta,Salta,NOA,2025-04-04,activo
+3787,Paula,Alvarez,47598878,1974-09-20,paula.alvarez.3787@gmail.com,+5493251262022,Belgrano 6980,Rosario,Santa Fe,Litoral,2022-01-01,activo
+3790,Martín,Herrera,23130940,1991-09-10,martin.herrera.3790@hotmail.com,+5493746157395,Las Heras 3603,Mendoza,Mendoza,Cuyo,2022-03-16,activo
+3794,Julieta,Ramírez,52191105,2054-10-27,julieta.ramirez.3794@yahoo.com.ar,+5493944105547,Independencia 261,Rosario,Santa Fe,Litoral,2024-05-02,activo
+3795,Federico,Cabrera,98091074,2068-07-22,federico.cabrera.3795@gmail.com,+5492983838257,Independencia 4180,Tucumán,Tucumán,NOA,2022-09-22,activo
+3796,Emilia,Alvarez,41847095,1982-02-13,emilia.alvarez.3796@gmail.com,+5493892425351,Rivadavia 6238,Córdoba,Córdoba,Centro,2024-06-10,activo
+3801,Ana,Ortiz,66026283,1974-05-08,ana.ortiz.3801@yahoo.com.ar,+5493919442277,25 de Mayo 648,Mendoza,Mendoza,Cuyo,2022-01-22,activo
+3803,Juan,González,94204486,1975-06-10,juan.gonzalez.3803@yahoo.com.ar,+5493735332418,Mitre 7883,Mendoza,Mendoza,Cuyo,2023-06-25,activo
+3810,Laura,Gutiérrez,20566398,1987-01-22,laura.gutierrez.3810@yahoo.com.ar,+5492784195309,9 de Julio 5960,Rosario,Santa Fe,Litoral,2025-11-22,activo
+3812,Paula,Gutiérrez,30141626,1978-07-23,paula.gutierrez.3812@outlook.com,+5492297689665,SAN MARTÍN 5780,Rosario,Santa Fe,Litoral,2025-06-02,activo
+3815,Gastón,Aguirre,32134638,1972-09-07,gaston.aguirre.3815@gmail.com,+5492547361108,Las Heras 1695,Buenos Aires,CABA,AMBA,2026-03-15,activo
+3820,Santiago,Rodríguez,31916967,1979-01-30,santiago.rodriguez.3820@outlook.com,+5492456451875,Sarmiento 5292,Buenos Aires,CABA,AMBA,2023-07-25,activo
+3822,Ana,Alvarez,29585561,1969-07-25,ana.alvarez.3822@outlook.com,+5492085976780,Sarmiento 7263,Salta,Salta,NOA,2025-05-06,activo
+3823,Laura,Pereyra,69584540,1979-10-27,laura.pereyra.3823@outlook.com,+5493034272593,25 de Mayo 4683,Mendoza,Mendoza,Cuyo,2025-06-21,activo
+3826,Juan,Sánchez,68202706,1982-11-28,juan.sanchez.3826@outlook.com,+5492844947195,Rivadavia 2616,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-01-14,activo
+3829,María José,Castro,54198509,2058-02-25,maria.jose.castro.3829@hotmail.com,+5492045124365,Mitre 5873,Salta,Salta,NOA,2022-10-27,activo
+3830,Gastón,Rodríguez,85947125,2004-12-01,gaston.rodriguez.3830@yahoo.com.ar,+5492509498798,Belgrano 3890,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-12-05,activo
+3831,Nicolás,Ruiz,98824694,1979-01-20,nicolas.ruiz.3831@yahoo.com.ar,+5493141353679,Rivadavia 8135,Tucumán,Tucumán,NOA,2023-01-06,activo
+3834,Nicolás,Navarro,20331420,2054-06-20,nicolas.navarro.3834@outlook.com,+5493387688486,Mitre 416,Mendoza,Mendoza,Cuyo,2023-08-16,activo
+3839,Emilia,Rodríguez,55352262,1995-08-26,emilia.rodriguez.3839@yahoo.com.ar,+5492582798942,SAN MARTÍN 3092,Mendoza,Mendoza,Cuyo,2024-07-10,activo
+3847,Martín,Ruiz,61631511,1997-06-25,martin.ruiz.3847@outlook.com,+5493806384628,25 de Mayo 5139,Buenos Aires,CABA,AMBA,2022-05-28,activo
+3850,Nicolás,González,34849594,2048-09-20,nicolas.gonzalez.3850@outlook.com,+5492151407225,Rivadavia 2579,Buenos Aires,CABA,AMBA,2024-07-12,activo
+3854,Agustín,Medina,17524440,2044-04-05,agustin.medina.3854@gmail.com,+5493364546019,25 de Mayo 5140,Mendoza,Mendoza,Cuyo,2024-03-29,activo
+3858,Federico,Castro,75087958,2044-07-15,federico.castro.3858@hotmail.com,+5492503865316,Mitre 1543,Buenos Aires,CABA,AMBA,2022-03-22,activo
+3859,Camila,Sánchez,28280488,2054-07-30,camila.sanchez.3859@outlook.com,+5492993598006,Las Heras 9543,Córdoba,Córdoba,Centro,2023-07-09,activo
+3861,Florencia,Domínguez,40021781,1982-09-28,florencia.dominguez.3861@yahoo.com.ar,+5492116791319,Av. Colón 7165,Tucumán,Tucumán,NOA,2025-07-10,activo
+3863,Camila,Giménez,33588115,1972-08-11,camila.gimenez.3863@gmail.com,+5493112561712,Sarmiento 3472,Salta,Salta,NOA,2023-01-23,activo
+3867,Julieta,Ramírez,25269036,1991-06-26,julieta.ramirez.3867@yahoo.com.ar,+5492667359674,25 de Mayo 8612,Mendoza,Mendoza,Cuyo,2024-11-29,activo
+3868,Paula,Ramírez,88245076,2062-03-11,paula.ramirez.3868@hotmail.com,(288) 140.9088,Mitre 8794,Buenos Aires,CABA,AMBA,2023-09-01,activo
+3873,Gabriel,Navarro,75838699,2003-02-05,gabriel.navarro.3873@yahoo.com.ar,+5492775024323,Belgrano 518,Córdoba,Córdoba,Centro,2024-01-29,activo
+3892,Martín,Giménez,19976953,1990-07-07,martin.gimenez.3892@outlook.com,+5492172843190,Sarmiento 9815,Córdoba,Córdoba,Centro,2026-02-08,activo
+3895,Paula,Castro,81340312,2062-09-15,paula.castro.3895@hotmail.com,+5493316938310,Av. Colón 6583,Córdoba,Córdoba,Centro,2026-02-28,activo
+3900,Ana,Martínez,19859370,2064-12-21,ana.martinez.3900@yahoo.com.ar,+5492079005428,San Martín 9528,Rosario,Santa Fe,Litoral,2023-08-22,activo
+3902,Nicolás,Alvarez,72279480,2061-04-17,nicolas.alvarez.3902@hotmail.com,+5493372043633,Rivadavia 3855,Córdoba,Córdoba,Centro,2024-09-25,inactivo
+3907,Juan,Rodríguez,66738229,1998-10-06,juan.rodriguez.3907@outlook.com,+5492726019928,Belgrano 8848,Tucumán,Tucumán,NOA,2022-09-27,activo
+3908,Mateo,Aguirre,62846591,2057-04-10,mateo.aguirre.3908@hotmail.com,+5492265794163,San Martín 9021,Tucumán,Tucumán,NOA,2025-12-30,activo
+3912,Paula,Alvarez,16724826,1989-06-30,paula.alvarez.3912@outlook.com,+5492347946259,Independencia 5541,Salta,Salta,NOA,2023-07-22,activo
+3913,Agustín,Silva,47992659,2043-09-28,agustin.silva.3913@gmail.com,+5492579594953,Sarmiento 8469,Rosario,Santa Fe,Litoral,2022-07-23,activo
+3916,Carolina,Pereyra,68756877,2001-10-18,carolina.pereyra.3916@outlook.com,+5493519418961,Independencia 4684,Buenos Aires,CABA,AMBA,2024-12-15,activo
+3919,Joaquín,Martínez,63739839,1992-02-09,joaquin.martinez.3919@outlook.com,+5492526764672,San Martín 5488,Buenos Aires,CABA,AMBA,2025-11-15,activo
+3922,Agustín,Giménez,72354489,1984-08-09,agustin.gimenez.3922@gmail.com,+5493964685398,9 de Julio 1894,Córdoba,Córdoba,Centro,2024-03-11,activo
+3923,Paula,Suárez,68217895,1978-03-26,paula.suarez.3923@outlook.com,+5493819574709,Las Heras 1174,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-02-01,activo
+3928,Agustín,Pérez,13680023,1984-06-18,agustin.perez.3928@hotmail.com,+5492505073174,Mitre 396,Buenos Aires,CABA,AMBA,2023-07-05,activo
+3929,Joaquín,Suárez,83024115,1977-12-05,joaquin.suarez.3929@yahoo.com.ar,+5492371149193,San Martín 6165,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-01-14,activo
+3932,Agustín,Fernández,62566143,1998-05-27,agustin.fernandez.3932@hotmail.com,+5492577048695,Rivadavia 2541,Tucumán,Tucumán,NOA,2023-06-12,activo
+3937,Nicolás,López,18714296,2000-10-01,nicolas.lopez.3937@hotmail.com,+5493646343954,San Martín 7105,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-05-25,activo
+3942,Paula,Flores,12773747,2003-09-11,paula.flores.3942@outlook.com,+5493111381731,San Martín 2883,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-04-21,activo
+3945,Paula,Domínguez,56192302,2065-10-16,paula.dominguez.3945@yahoo.com.ar,+5492728887507,25 de Mayo 3800,Salta,Salta,NOA,2023-04-12,activo
+3946,Lucía,Domínguez,14970626,2060-03-13,lucia.dominguez.3946@outlook.com,+5492637307028,Las Heras 6925,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-11-12,activo
+3949,Nicolás,Acosta,59858429,1979-01-06,nicolas.acosta.3949@yahoo.com.ar,+5492691997854,Sarmiento 2627,Córdoba,Córdoba,Centro,2025-07-08,activo
+3951,Carolina,Castro,45754470,1987-03-22,carolina.castro.3951@outlook.com,+5492528418809,Mitre 3321,Mendoza,Mendoza,Cuyo,2025-03-05,activo
+3956,Agustín,Acosta,59493053,1984-08-05,agustin.acosta.3956@hotmail.com,+5492226321465,25 de Mayo 7870,Córdoba,Buenos Aires,Buenos Aires Interior,2022-01-13,activo
+3958,Juan,Fernández,53573455,2056-03-16,juan.fernandez.3958@yahoo.com.ar,+5493118191310,Sarmiento 1013,Buenos Aires,CABA,AMBA,2023-05-18,activo
+3960,Santiago,Domínguez,67122321,1993-01-16,santiago.dominguez.3960@yahoo.com.ar,+5493932945110,9 de Julio 6627,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-05-19,activo
+3969,Sofía,Molina,67479623,1982-02-20,sofia.molina.3969@outlook.com,+5492103230749,25 de Mayo 1016,Rosario,Santa Fe,Litoral,2026-01-15,activo
+3971,Daniel,González,56224703,2067-05-19,daniel.gonzalez.3971@outlook.com,+5492564664849,Sarmiento 238,Córdoba,Córdoba,Centro,2025-05-25,activo
+3974,Martín,López,50907703,1986-11-02,martin.lopez.3974@yahoo.com.ar,+5492704225963,Av. Colón 9232,Mendoza,Mendoza,Cuyo,2025-11-01,activo
+3976,Paula,Rodríguez,11502286,2052-02-28,paula.rodriguez.3976@outlook.com,+5493718207822,9 DE JULIO 7551,Tucumán,Tucumán,NOA,2022-10-04,activo
+3980,Paula,Medina,60873551,2053-10-11,paula.medina.3980@gmail.com,+5493473067355,Las Heras 9819,Tucumán,Tucumán,NOA,2023-12-22,activo
+3987,Agustín,Acosta,78105517,2044-11-17,agustin.acosta.3987@gmail.com,+5492905955472,Mitre 1224,Salta,Salta,NOA,2022-05-24,activo
+3989,Florencia,González,44978695,1987-09-04,florencia.gonzalez.3989@outlook.com,+5493261771093,San Martín 2431,Tucumán,Tucumán,NOA,2023-05-01,activo
+3998,Martín,Fernández,30108800,2048-04-20,martin.fernandez.3998@yahoo.com.ar,+5492066901342,San Martín 371,Buenos Aires,CABA,AMBA,2024-10-10,activo
+4002,Joaquín,López,71249346,1996-11-17,joaquin.lopez.4002@gmail.com,+5492685248412,Mitre 382,Tucumán,Tucumán,NOA,2023-03-12,activo
+4006,Laura,Flores,98730829,2042-12-15,laura.flores.4006@hotmail.com,+5493151333142,Mitre 9508,Rosario,Santa Fe,Litoral,2022-04-16,activo
+4012,Gastón,Fernández,42969568,1975-11-04,gaston.fernandez.4012@yahoo.com.ar,(345) 932.5944,Independencia 477,Salta,Salta,NOA,2024-12-31,activo
+4013,Lucía,Giménez,54412787,2047-03-02,lucia.gimenez.4013@outlook.com,+5493779253945,Las Heras 9542,Mendoza,Mendoza,Cuyo,2022-05-09,activo
+4024,Gabriel,Molina,79576535,2065-07-05,gabriel.molina.4024@yahoo.com.ar,+5492484523196,9 de Julio 8182,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-21,activo
+4025,Joaquín,Navarro,51077108,1997-03-09,joaquin.navarro.4025@outlook.com,(377) 656.5796,Las Heras 5139,Mendoza,Mendoza,Cuyo,2022-07-04,activo
+4036,Joaquín,Pereyra,54936893,2053-02-10,joaquin.pereyra.4036@yahoo.com.ar,+5492526659870,Mitre 840,Rosario,Santa Fe,Litoral,2023-05-30,activo
+4039,Mateo,Rodríguez,74367345,1982-07-25,mateo.rodriguez.4039@outlook.com,+5492686304633,San Martín 5169,Tucumán,Tucumán,NOA,2023-11-25,activo
+4047,Santiago,Rodríguez,86194769,2059-08-03,santiago.rodriguez.4047@hotmail.com,+5492172371556,San Martín 2680,Mendoza,Mendoza,Cuyo,2023-08-15,activo
+4054,Gastón,Fernández,40938294,1997-12-28,gaston.fernandez.4054@yahoo.com.ar,+5492026911971,Independencia 3518,Rosario,Santa Fe,Litoral,2024-02-22,activo
+4055,Agustín,Pérez,23720218,1989-03-17,agustin.perez.4055@outlook.com,+5493536380948,Las Heras 1524,Salta,Salta,NOA,2023-06-13,activo
+4059,Joaquín,Sánchez,50572010,2049-06-13,joaquin.sanchez.4059@gmail.com,+5493308466512,Mitre 9381,Rosario,Santa Fe,Litoral,2024-06-01,inactivo
+4060,María José,López,53356542,2045-07-06,maria.jose.lopez.4060@gmail.com,+5493957676823,,Rosario,Santa Fe,Litoral,2024-04-23,activo
+4063,Nicolás,Rodríguez,10536877,2050-12-23,nicolas.rodriguez.4063@hotmail.com,+5492731349059,Las Heras 4977,Córdoba,Córdoba,Centro,2022-12-16,activo
+4067,Alejandro,Fernández,79141431,2060-02-06,alejandro.fernandez.4067@gmail.com,+5493023664635,Mitre 5447,Buenos Aires,CABA,AMBA,2024-02-24,activo
+4075,Diego,Acosta,20774001,1995-10-28,diego.acosta.4075@yahoo.com.ar,+5493877182087,Independencia 5840,Salta,Salta,NOA,2026-03-09,activo
+4076,María José,Martínez,30535297,1997-03-09,maria.jose.martinez.4076@outlook.com,+5493296467637,RIVADAVIA 9392,Mendoza,Mendoza,Cuyo,2023-12-27,activo
+4077,Carolina,Gutiérrez,28869053,2045-10-31,carolina.gutierrez.4077@outlook.com,+5493259251960,Sarmiento 6753,Córdoba,Córdoba,Centro,2025-07-19,activo
+4078,,Rodríguez,84160525,2067-03-11,gabriel.rodriguez.4078@hotmail.com,+5493492804269,Av. Colón 6906,Rosario,Santa Fe,Litoral,2025-04-03,activo
+4093,Gabriel,Sánchez,23893661,2048-07-16,gabriel.sanchez.4093@gmail.com,+5492082196910,San Martín 8691,Buenos Aires,CABA,AMBA,2022-02-20,activo
+4094,Federico,Fernández,92416204,1974-07-03,federico.fernandez.4094@yahoo.com.ar,+5492957832139,25 de Mayo 6861,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-14,inactivo
+4095,Federico,Ruiz,18214622,1978-03-13,federico.ruiz.4095@outlook.com,+5492947353544,9 de Julio 9202,Rosario,Santa Fe,Litoral,2024-09-15,activo
+4106,Nicolás,Fernández,35693667,1997-05-16,nicolas.fernandez.4106@outlook.com,+5492024803703,Sarmiento 5024,Tucumán,Tucumán,NOA,2024-09-23,activo
+4113,Mateo,Castro,52982641,1990-04-24,mateo.castro.4113@hotmail.com,+5492126656387,Av. Colón 9143,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-12-09,activo
+4119,Carolina,Ortiz,14892771,1976-05-27,carolina.ortiz.4119@yahoo.com.ar,+5492765624950,Belgrano 5828,Mendoza,Mendoza,Cuyo,2024-07-17,activo
+4121,Gastón,Domínguez,16125310,2055-10-30,gaston.dominguez.4121@hotmail.com,+5492572579754,San Martín 6392,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-08,activo
+4122,Sofía,Navarro,79593746,1994-07-13,sofia.navarro.4122@yahoo.com.ar,+5493683900871,9 de Julio 2121,Mendoza,Mendoza,Cuyo,2023-10-26,activo
+4140,Laura,Pérez,26249904,1989-07-23,laura.perez.4140@gmail.com,+5492817088016,Av. Colón 9063,Mendoza,Mendoza,Cuyo,2024-09-15,activo
+4149,Daniel,Romero,23319865,2056-07-21,daniel.romero.4149@yahoo.com.ar,+5493437839354,Sarmiento 1290,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-05-29,activo
+4153,Paula,Rodríguez,43055009,1993-05-28,paula.rodriguez.4153@outlook.com,+5492435782157,Las Heras 5549,Mendoza,Mendoza,Cuyo,2024-06-15,activo
+4154,Santiago,Castro,96314529,2053-06-21,santiago.castro.4154@gmail.com,+5493565473089,Independencia 6591,Rosario,Santa Fe,Litoral,2025-02-23,activo
+4173,Federico,Romero,25031753,2005-02-23,federico.romero.4173@outlook.com,+5492206947617,Rivadavia 8548,Tucumán,Tucumán,NOA,2024-05-23,activo
+4175,Paula,Fernández,88070300,1995-06-11,paula.fernandez.4175@outlook.com,+5493325978995,Mitre 9586,Córdoba,Córdoba,Centro,2026-03-19,bloqueado
+4177,Santiago,Romero,33219474,2067-07-01,santiago.romero.4177@outlook.com,+5493331412016,Independencia 7942,Córdoba,Córdoba,Centro,2024-12-14,activo
+4182,Laura,Martínez,85729513,1970-03-20,laura.martinez.4182@yahoo.com.ar,+5493221143019,Rivadavia 8775,Tucumán,Tucumán,NOA,2023-08-24,activo
+4184,Ana,Aguirre,80494814,2047-08-11,ana.aguirre.4184@outlook.com,+5493616424290,Independencia 2849,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-12-11,activo
+4190,Alejandro,Silva,33220145,1988-08-29,alejandro.silva.4190@yahoo.com.ar,+5493204165040,Belgrano 8226,Salta,Salta,NOA,2024-02-04,activo
+4191,Paula,Martínez,60122735,1983-07-01,paula.martinez.4191@outlook.com,+5493635827577,Av. Colón 8120,Rosario,Santa Fe,Litoral,2022-07-26,activo
+4193,Ana,Molina,49571654,2055-04-16,ana.molina.4193@hotmail.com,+5493117874402,Sarmiento 4446,Rosario,Santa Fe,Litoral,2025-01-02,activo
+4194,Gabriel,Alvarez,25619897,2000-02-06,gabriel.alvarez.4194@yahoo.com.ar,+5492648165062,Rivadavia 7197,Mendoza,Mendoza,Cuyo,2023-10-01,activo
+4201,Juan,Rodríguez,16741043,1977-11-16,juan.rodriguez.4201@outlook.com,+5493981786228,9 de Julio 3410,Mendoza,Mendoza,Cuyo,2025-11-24,activo
+4204,Laura,Flores,28711994,1975-08-23,laura.flores.4204@outlook.com,+5493388456570,Mitre 4120,Rosario,Santa Fe,Litoral,2024-03-30,activo
+4210,María José,Pérez,30145212,2049-10-12,maria.jose.perez.4210@hotmail.com,+5493319005547,25 de Mayo 4470,Salta,Salta,NOA,2023-12-25,activo
+4211,Paula,Martínez,35583786,2063-03-27,paula.martinez.4211@hotmail.com,+5492966129796,Las Heras 9710,Mendoza,Mendoza,Cuyo,2025-07-09,activo
+4213,Laura,Romero,91198282,2061-02-23,clientemail.com,+5492261789299,Rivadavia 8044,Tucumán,Tucumán,NOA,2025-11-29,activo
+4222,Lucía,Silva,23381699,2049-04-27,lucia.silva.4222@gmail.com,+5493412704900,Independencia 6348,Salta,Salta,NOA,2022-09-04,activo
+4228,Mateo,Alvarez,82618158,1975-01-23,mateo.alvarez.4228@gmail.com,+5493787893362,San Martín 1434,Mendoza,Mendoza,Cuyo,2022-06-11,activo
+4232,Laura,Molina,20128070,2002-12-23,laura.molina.4232@hotmail.com,+5492943075491,Mitre 1013,Salta,Salta,NOA,2025-08-03,activo
+4246,Emilia,Herrera,17965626,2060-02-22,emilia.herrera.4246@gmail.com,+5493232535706,Las Heras 2525,Buenos Aires,CABA,AMBA,2026-02-11,activo
+4247,Juan,Silva,55260800,2061-09-07,juan.silva.4247@gmail.com,+5492896926328,25 de Mayo 6333,Córdoba,Córdoba,Centro,2023-02-05,activo
+4253,Joaquín,Romero,42958602,2064-02-25,joaquin.romero.4253@yahoo.com.ar,+5492803003464,Las Heras 9283,Salta,Salta,NOA,2024-05-20,activo
+4254,Camila,Ortiz,29933717,1994-12-23,camila.ortiz.4254@outlook.com,+5492962348825,Independencia 5835,Rosario,Santa Fe,Litoral,2022-09-24,activo
+4255,Agustín,Navarro,63913643,2055-02-13,agustin.navarro.4255@yahoo.com.ar,+5492809202643,25 de Mayo 5268,Rosario,Santa Fe,Litoral,2023-08-31,activo
+4256,Sofía,Molina,74373134,1993-03-21,sofia.molina.4256@outlook.com,+5492316111786,Mitre 570,Salta,Salta,NOA,2023-06-08,activo
+4257,Emilia,Sánchez,93315373,1988-05-21,emilia.sanchez.4257@gmail.com,+5493867906719,Las Heras 5217,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-04-13,activo
+4258,Joaquín,Romero,20000007,1978-01-31,joaquin.romero.4258@hotmail.com,+5493364327749,Sarmiento 3145,Córdoba,Córdoba,Centro,2024-07-21,activo
+4259,Julieta,Navarro,17147431,1970-05-31,julieta.navarro.4259@yahoo.com.ar,+5492929864229,San Martín 9057,Rosario,Santa Fe,Litoral,2025-09-11,activo
+4260,Julieta,Rodríguez,21034307,1988-06-11,julieta.rodriguez.4260@outlook.com,+5493622334615,Independencia 660,Buenos Aires,CABA,AMBA,2024-03-20,bloqueado
+4265,Mateo,Giménez,35946323,2059-09-23,mateo.gimenez.4265@outlook.com,+5492707938742,Mitre 833,Córdoba,Córdoba,Centro,2023-09-19,activo
+4274,Gastón,Ruiz,59892679,1999-11-24,gaston.ruiz.4274@hotmail.com,+5493808083616,Rivadavia 2355,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-06-13,activo
+4276,Joaquín,Fernández,82327712,1975-07-11,joaquin.fernandez.4276@gmail.com,+5492776405258,9 de Julio 6791,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-04-06,activo
+4280,Juan,Molina,49390017,1998-04-03,juan.molina.4280@yahoo.com.ar,+5493758757402,25 de Mayo 324,Mendoza,Mendoza,Cuyo,2022-02-19,activo
+4282,Florencia,Aguirre,87923393,2062-12-08,florencia.aguirre.4282@hotmail.com,+5492774123763,Mitre 6382,Córdoba,Córdoba,Centro,2023-05-29,activo
+4292,Nicolás,Domínguez,21137398,2063-04-19,nicolas.dominguez.4292@gmail.com,+5492095518476,25 de Mayo 3923,Córdoba,Córdoba,Centro,2023-08-25,activo
+4300,Diego,Acosta,29441909,2054-12-18,diego.acosta.4300@yahoo.com.ar,+5492797056689,9 de Julio 1483,Salta,Salta,NOA,2025-05-29,activo
+4311,Martín,Sánchez,46556657,2068-12-01,martin.sanchez.4311@outlook.com,+5493357219282,Av. Colón 7614,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-23,activo
+4316,Florencia,Molina,79753811,2050-05-21,florencia.molina.4316@hotmail.com,+5492748782140,Sarmiento 9860,Buenos Aires,CABA,AMBA,2022-10-23,activo
+4322,Carolina,Fernández,37483640,2004-11-19,carolina.fernandez.4322@hotmail.com,+5493945078231,San Martín 9803,Buenos Aires,CABA,AMBA,2024-09-30,activo
+4325,Ana,Martínez,26839226,2049-09-14,ana.martinez.4325@gmail.com,+5492542906429,25 DE MAYO 9831,Salta,Salta,NOA,2025-06-20,activo
+4329,Lucía,Rodríguez,74625022,2054-02-17,lucia.rodriguez.4329@gmail.com,+5493486432405,Belgrano 1765,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-04-13,activo
+4335,Daniel,Cabrera,47210333,2060-07-22,daniel.cabrera.4335@yahoo.com.ar,+5493671128524,Mitre 999,Salta,Salta,NOA,2024-05-28,activo
+4347,Federico,Giménez,25714852,2057-01-12,federico.gimenez.4347@yahoo.com.ar,+5493535063995,9 de Julio 6940,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-03-22,activo
+4355,Diego,López,80809306,2059-09-14,diego.lopez.4355@hotmail.com,+5493676307522,San Martín 1915,Mendoza,Mendoza,Cuyo,2024-06-02,activo
+4360,Martín,Flores,14482565,1989-01-14,martin.flores.4360@hotmail.com,+5492725031205,San Martín 4759,Tucumán,Tucumán,NOA,2024-10-08,activo
+4362,Gastón,Ramírez,42639373,2049-12-17,gaston.ramirez.4362@hotmail.com,(214) 654.7181,Belgrano 7530,Buenos Aires,CABA,AMBA,2025-10-08,activo
+4369,Carolina,Medina,12303601,1991-07-25,carolina.medina.4369@outlook.com,+5492304080600,Av. Colón 2495,Córdoba,Córdoba,Centro,2023-10-22,activo
+4370,Juan,Benítez,64709330,1990-12-23,juan.benitez.4370@hotmail.com,+5492541632416,Av. Colón 3732,Mendoza,Mendoza,Cuyo,2024-12-03,activo
+4382,Sofía,López,90667739,2058-10-29,sofia.lopez.4382@outlook.com,+5492068147154,Las Heras 1288,Córdoba,Córdoba,Centro,2024-11-26,activo
+4393,Gabriel,Pereyra,23300693,2005-10-12,gabriel.pereyra.4393@yahoo.com.ar,+5492954127108,Belgrano 6009,Córdoba,Córdoba,Centro,2024-07-28,activo
+4396,Sofía,Sánchez,42678153,1979-10-20,sofia.sanchez.4396@hotmail.com,+5493633758042,25 de Mayo 7445,Rosario,Santa Fe,Litoral,2022-10-25,activo
+4398,Emilia,González,67898610,2045-08-08,emilia.gonzalez.4398@outlook.com,+5493583307360,RIVADAVIA 9261,Rosario,Santa Fe,Litoral,2025-03-28,activo
+4403,Daniel,Castro,74845724,2064-03-31,daniel.castro.4403@yahoo.com.ar,+5492964388801,Mitre 4553,Tucumán,Tucumán,NOA,2023-10-18,activo
+4404,Lucía,Navarro,64750921,2051-07-01,lucia.navarro.4404@outlook.com,+5493384002444,Las Heras 6587,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-05-19,inactivo
+4406,Agustín,López,55332420,1969-10-29,agustin.lopez.4406@yahoo.com.ar,+5493527562506,9 de Julio 1702,Salta,Salta,NOA,2025-08-31,activo
+4411,Florencia,Medina,71973291,2045-06-04,florencia.medina.4411@hotmail.com,+5492202874436,Independencia 4142,Córdoba,Córdoba,Centro,2026-03-25,activo
+4415,Julieta,González,11582177,2046-08-11,julieta.gonzalez.4415@yahoo.com.ar,+5493305771642,Las Heras 7109,Salta,Salta,NOA,2022-08-26,activo
+4416,Diego,Ramírez,37556106,1988-04-05,diego.ramirez.4416@outlook.com,+5493468736448,Rivadavia 2677,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-07-16,activo
+4425,Santiago,Aguirre,60775759,1971-04-17,santiago.aguirre.4425@hotmail.com,+5493606878082,San Martín 4068,Tucumán,Tucumán,NOA,2024-03-04,activo
+4429,Daniel,Sánchez,76518856,2002-04-29,daniel.sanchez.4429@hotmail.com,+5493951474924,Belgrano 1868,Salta,Salta,NOA,2024-08-01,activo
+4440,Diego,Medina,66859951,2024-07-05,diego.medina.4440@hotmail.com,+5493323919153,Av. Colón 1095,Mendoza,Mendoza,Cuyo,2024-06-05,activo
+4441,Daniel,Pérez,16422391,1993-05-13,daniel.perez.4441@yahoo.com.ar,+5492902302798,Sarmiento 4484,Tucumán,Tucumán,NOA,2022-05-02,activo
+4445,Camila,Castro,89509178,1981-06-23,camila.castro.4445@yahoo.com.ar,+5493815510039,Rivadavia 6176,Córdoba,Córdoba,Centro,2024-10-28,activo
+4446,Agustín,Alvarez,29603256,1998-08-05,agustin.alvarez.4446@outlook.com,+5492805680559,Mitre 2427,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-03-28,activo
+4454,Lucía,Romero,40990955,2058-03-11,lucia.romero.4454@yahoo.com.ar,+5492086703905,Mitre 7833,Mendoza,Mendoza,Cuyo,2022-10-23,activo
+4459,Emilia,Navarro,49685108,1979-04-17,emilia.navarro.4459@outlook.com,+5492577253903,Independencia 2151,Córdoba,Córdoba,Centro,2023-04-11,activo
+4463,Lucía,Medina,48930697,2048-01-12,lucia.medina.4463@yahoo.com.ar,+5492841433578,Av. Colón 4911,Córdoba,Córdoba,Centro,2024-06-07,activo
+4464,Sofía,Ramírez,31064293,2060-02-01,sofia.ramirez.4464@outlook.com,+5493083651889,Independencia 6030,Mendoza,Mendoza,Cuyo,2024-11-11,activo
+4479,Gabriel,Acosta,61357630,1999-12-11,gabriel.acosta.4479@gmail.com,+5493405575147,Belgrano 2851,Buenos Aires,CABA,AMBA,2022-08-22,activo
+4480,Carolina,Pereyra,54275789,1983-02-16,carolina.pereyra.4480@yahoo.com.ar,+5493597526466,9 de Julio 423,Buenos Aires,CABA,AMBA,2022-05-22,activo
+4481,Florencia,Pérez,24662015,1994-02-15,florencia.perez.4481@yahoo.com.ar,+5493862873367,Sarmiento 7305,Córdoba,Córdoba,Centro,2023-09-26,activo
+4484,Agustín,Medina,64280032,2049-06-16,agustin.medina.4484@outlook.com,+5493735203382,San Martín 9345,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-02-01,activo
+4488,Agustín,López,90181229,2004-09-08,agustin.lopez.4488@hotmail.com,+5493715215160,San Martín 7317,Rosario,Santa Fe,Litoral,2024-05-30,activo
+4503,Alejandro,Silva,26288132,1971-03-22,alejandro.silva.4503@gmail.com,+5493942478565,Belgrano 2343,Córdoba,Córdoba,Centro,2023-05-08,activo
+4505,Juan,Medina,40269494,1975-02-17,juan.medina.4505@outlook.com,+5493956027065,Las Heras 8229,Córdoba,Córdoba,Centro,2025-02-14,activo
+4507,Nicolás,Pérez,73844101,2061-04-15,nicolas.perez.4507@outlook.com,+5493466041626,Av. Colón 3897,Córdoba,Córdoba,Centro,2025-07-22,activo
+4511,Alejandro,Castro,94752672,1982-07-17,alejandro.castro.4511@hotmail.com,+5492557249796,Av. Colón 2842,Córdoba,Córdoba,Centro,2023-01-22,activo
+4520,Julieta,Navarro,42395587,1981-06-19,julieta.navarro.4520@gmail.com,+5492354125650,Sarmiento 964,Rosario,Santa Fe,Litoral,2022-03-28,inactivo
+4521,Julieta,Ortiz,96569631,2059-07-30,julieta.ortiz.4521@outlook.com,+5492381377772,Independencia 3114,Buenos Aires,CABA,AMBA,2023-03-05,activo
+4525,María José,Alvarez,10120479,2000-07-15,maria.jose.alvarez.4525@hotmail.com,+5492899502223,Sarmiento 3536,Córdoba,Córdoba,Centro,2022-08-26,activo
+4526,Joaquín,Domínguez,99925763,2056-06-02,joaquin.dominguez.4526@outlook.com,+5492195129927,Sarmiento 6519,Córdoba,Córdoba,Centro,2024-05-13,activo
+4529,Carolina,Alvarez,52154310,1971-02-02,carolina.alvarez.4529@gmail.com,+5492612212862,25 de Mayo 5522,Buenos Aires,CABA,AMBA,2022-08-27,activo
+4535,Diego,Martínez,18005670,2051-05-25,diego.martinez.4535@gmail.com,(209) 189.1362,Independencia 5023,Buenos Aires,CABA,AMBA,2025-05-25,activo
+4546,Lucía,Castro,78363387,1976-10-21,lucia.castro.4546@gmail.com,+5492361203890,25 de Mayo 8637,Córdoba,Córdoba,Centro,2022-10-22,activo
+4560,Sofía,Alvarez,53335315,1988-10-09,sofia.alvarez.4560@hotmail.com,+5492587092696,Sarmiento 608,Rosario,Santa Fe,Litoral,2024-04-16,activo
+4562,Agustín,Flores,23037374,2007-01-22,agustin.flores.4562@yahoo.com.ar,+5493059329417,San Martín 7433,Buenos Aires,CABA,AMBA,2025-10-17,activo
+4567,Joaquín,Herrera,92176853,1981-06-17,joaquin.herrera.4567@yahoo.com.ar,+5492143878960,Independencia 4680,Rosario,Santa Fe,Litoral,2024-11-03,bloqueado
+4576,Laura,Pereyra,32034352,2054-07-02,laura.pereyra.4576@yahoo.com.ar,+5492909067512,Las Heras 5454,Salta,Salta,NOA,2023-01-25,activo
+4582,Emilia,Pérez,83440798,1999-09-23,emilia.perez.4582@yahoo.com.ar,+5492142886935,Independencia 8155,Rosario,Santa Fe,Litoral,2024-07-09,activo
+4583,Lucía,Gutiérrez,10926670,2042-12-21,lucia.gutierrez.4583@yahoo.com.ar,+5493103689412,Sarmiento 1872,Mendoza,Mendoza,Cuyo,2023-04-21,activo
+4588,Florencia,Cabrera,55402874,2000-01-26,florencia.cabrera.4588@hotmail.com,+5493279800693,Sarmiento 1250,Salta,Salta,NOA,2022-09-05,activo
+4589,Alejandro,Flores,98453116,1999-04-27,alejandro.flores.4589@yahoo.com.ar,+5492619372752,Rivadavia 8110,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-10-18,activo
+4596,Mateo,Pérez,73066748,1984-03-24,mateo.perez.4596@yahoo.com.ar,+5492059037502,San Martín 4698,Córdoba,Córdoba,Centro,2023-04-03,inactivo
+4606,Gastón,Sánchez,70776530,1991-12-19,gaston.sanchez.4606@yahoo.com.ar,+5492151843003,Rivadavia 3755,Salta,Salta,NOA,2022-10-31,activo
+4608,Agustín,Navarro,12874339,2067-01-18,agustin.navarro.4608@outlook.com,+5493452248575,Av. Colón 6308,Rosario,Santa Fe,Litoral,2024-06-25,activo
+4614,Juan,Herrera,94138558,2051-09-23,juan.herrera.4614@hotmail.com,+5492641207647,Belgrano 9653,Buenos Aires,CABA,AMBA,2024-05-06,activo
+4616,Florencia,Romero,10848777,2061-01-30,florencia.romero.4616@yahoo.com.ar,+5493268108409,Mitre 8322,Córdoba,Córdoba,Centro,2024-03-18,activo
+4620,Camila,Martínez,22442615,2051-03-22,camila.martinez.4620@yahoo.com.ar,+5492409279907,Sarmiento 9466,Buenos Aires,CABA,AMBA,2023-01-14,activo
+4625,Santiago,Navarro,91975085,1985-10-01,santiago.navarro.4625@yahoo.com.ar,+5493828809870,25 de Mayo 1641,Mendoza,Mendoza,Cuyo,2025-08-12,inactivo
+4626,Laura,Flores,35847926,2061-09-14,laura.flores.4626@outlook.com,+5493383056042,San Martín 9536,Rosario,Santa Fe,Litoral,2025-11-04,activo
+4629,Julieta,Domínguez,77869767,2066-05-01,julieta.dominguez.4629@outlook.com,+5493944363645,Av. Colón 1311,Rosario,Santa Fe,Litoral,2025-06-11,activo
+4636,Agustín,López,14043607,1997-04-30,agustin.lopez.4636@yahoo.com.ar,+5493534177400,Rivadavia 9367,Mendoza,Mendoza,Cuyo,2023-02-21,activo
+4645,Paula,Navarro,36795390,2001-03-18,paula.navarro.4645@hotmail.com,+5493594865440,Independencia 9830,Rosario,Santa Fe,Litoral,2022-11-19,activo
+4648,Santiago,Giménez,83256750,2004-08-20,santiago.gimenez.4648@gmail.com,+5493138113603,Independencia 4201,Salta,Salta,NOA,2023-12-24,activo
+4651,Federico,Alvarez,31844855,2048-05-29,federico.alvarez.4651@hotmail.com,+5493172437221,9 de Julio 6366,Salta,Salta,NOA,2026-03-20,activo
+4652,Santiago,Benítez,31816797,2066-11-06,santiago.benitez.4652@gmail.com,+5493257893954,Independencia 1331,Tucumán,Tucumán,NOA,2023-05-28,activo
+4653,Paula,Pérez,35081812,1972-03-01,paula.perez.4653@outlook.com,+5492678730246,Las Heras 8768,Tucumán,Tucumán,NOA,2024-05-07,activo
+4664,Gastón,Castro,53015782,2003-09-09,gaston.castro.4664@yahoo.com.ar,+5493624345904,25 de Mayo 3079,Córdoba,Córdoba,Centro,2023-04-20,activo
+4665,Emilia,Pereyra,43373805,2062-06-26,emilia.pereyra.4665@yahoo.com.ar,+5492603348621,Av. Colón 3183,Rosario,Santa Fe,Litoral,2025-02-08,inactivo
+4667,Carolina,Navarro,12198221,1988-02-09,carolina.navarro.4667@hotmail.com,+5492504956274,Las Heras 7373,Buenos Aires,CABA,AMBA,2022-02-15,activo
+4668,Paula,Medina,94848722,2046-10-18,paula.medina.4668@yahoo.com.ar,+5493326110331,Mitre 611,Salta,Salta,NOA,2024-07-08,activo
+4674,Mateo,Ruiz,12028050,2067-12-17,mateo.ruiz.4674@outlook.com,+5493012307505,Independencia 5235,Rosario,Santa Fe,Litoral,2025-08-06,activo
+4675,Gabriel,Suárez,86097310,2053-10-01,gabriel.suarez.4675@outlook.com,+5492551327786,San Martín 8241,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-07-16,activo
+4677,María José,Ramírez,98548997,1997-07-31,maria.jose.ramirez.4677@hotmail.com,+5492602777826,Rivadavia 7829,Buenos Aires,CABA,AMBA,2024-02-08,activo
+4680,Juan,Flores,22286566,2059-12-24,juan.flores.4680@gmail.com,+5492258427411,Independencia 7230,Rosario,Santa Fe,Litoral,2023-06-03,activo
+4682,Mateo,Cabrera,98285974,1982-07-29,mateo.cabrera.4682@yahoo.com.ar,+5492015834820,Sarmiento 1472,Mendoza,Mendoza,Cuyo,2025-10-09,activo
+4685,Paula,Acosta,73616505,2066-10-30,paula.acosta.4685@hotmail.com,+5493703965930,Mitre 8026,Buenos Aires,CABA,AMBA,2022-05-17,activo
+4687,Martín,Ramírez,72227396,1987-09-26,martin.ramirez.4687@gmail.com,+5493671655320,Rivadavia 9806,Córdoba,Córdoba,Centro,2025-12-23,bloqueado
+4689,Federico,Molina,76444303,2046-01-16,federico.molina.4689@gmail.com,+5493569404600,Belgrano 2772,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-09-11,activo
+4692,Juan,González,45718184,2063-10-27,juan.gonzalez.4692@hotmail.com,+5493461436321,Belgrano 6930,Buenos Aires,CABA,AMBA,2026-01-22,activo
+4693,Martín,Herrera,27722449,2000-08-13,martin.herrera.4693@hotmail.com,+5492192281320,Mitre 518,Córdoba,Córdoba,Centro,2023-11-29,activo
+4694,Sofía,Benítez,61466255,1971-11-12,sofia.benitez.4694@yahoo.com.ar,+5492705129459,Belgrano 8542,Córdoba,Córdoba,Centro,2022-03-18,activo
+4697,Martín,Giménez,70392413,1995-01-18,martin.gimenez.4697@gmail.com,+5492039657395,Sarmiento 3788,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-01-04,activo
+4702,Sofía,Medina,53202961,1995-10-20,sofia.medina.4702@outlook.com,+5493695599162,Las Heras 1583,Salta,Salta,NOA,2023-11-12,activo
+4708,María José,Pérez,44924017,2068-08-14,maria.jose.perez.4708@outlook.com,+5493319133758,Independencia 3023,Rosario,Santa Fe,Litoral,2025-05-21,activo
+4712,Gastón,Gutiérrez,98962066,2006-12-16,gaston.gutierrez.4712@hotmail.com,+5493532196228,Las Heras 979,Rosario,Santa Fe,Litoral,2025-07-04,bloqueado
+4716,Carolina,Molina,94201925,1989-08-22,carolina.molina.4716@gmail.com,+5493874017608,Av. Colón 1630,Córdoba,Córdoba,Centro,2023-01-23,activo
+4720,Camila,Flores,75814238,1970-01-17,camila.flores.4720@yahoo.com.ar,+5492467160342,25 de Mayo 7358,Salta,Salta,NOA,2023-09-15,activo
+4723,Joaquín,Rodríguez,11176568,1994-01-29,joaquin.rodriguez.4723@hotmail.com,+5492725887420,9 de Julio 3359,Córdoba,Córdoba,Centro,2023-11-18,activo
+4725,Julieta,Ramírez,43940542,1973-03-11,cliente@mail,+5492323111722,Av. Colón 1474,Córdoba,Córdoba,Centro,2025-12-25,activo
+4730,Gabriel,Pereyra,75665930,1986-02-16,gabriel.pereyra.4730@gmail.com,+5492032244559,Mitre 3952,Córdoba,Córdoba,Centro,2025-05-28,bloqueado
+4735,Lucía,Pérez,22215056,1970-11-01,lucia.perez.4735@outlook.com,+5493232080040,25 de Mayo 5999,Mendoza,Mendoza,Cuyo,2025-07-13,activo
+4741,Federico,Rodríguez,17416786,2060-11-21,federico.rodriguez.4741@gmail.com,(355) 645.2578,Sarmiento 3567,Rosario,Santa Fe,Litoral,2024-12-23,activo
+4742,Diego,Martínez,43221276,2062-08-03,diego.martinez.4742@gmail.com,+5492052116216,Belgrano 5124,Buenos Aires,CABA,AMBA,2023-01-26,activo
+4744,Mateo,Benítez,38866583,1973-10-24,mateo.benitez.4744@gmail.com,+5493209395560,9 de Julio 4260,Rosario,Santa Fe,Litoral,2022-03-09,activo
+4750,Santiago,Domínguez,62230769,1979-11-07,santiago.dominguez.4750@hotmail.com,+5493754974653,9 de Julio 1976,Buenos Aires,CABA,AMBA,2024-02-17,activo
+4759,Camila,Romero,80886638,1981-09-25,camila.romero.4759@outlook.com,+5493636982605,Sarmiento 1632,Tucumán,Tucumán,NOA,2024-08-25,activo
+4761,Lucía,Suárez,56146359,2051-10-04,lucia.suarez.4761@gmail.com,+5492053918881,Sarmiento 5164,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-01-05,activo
+4763,Gabriel,Flores,82286802,1972-05-14,gabriel.flores.4763@outlook.com,(389) 281.6651,Mitre 406,Córdoba,Córdoba,Centro,2024-03-18,activo
+4764,Mateo,Ruiz,80936438,1992-06-21,mateo.ruiz.4764@yahoo.com.ar,+5493276420313,9 de Julio 2980,Tucumán,Tucumán,NOA,2023-03-27,activo
+4768,María José,Cabrera,68093581,2066-06-20,maria.jose.cabrera.4768@yahoo.com.ar,+5492951258687,25 de Mayo 2504,Rosario,Santa Fe,Litoral,2025-08-22,activo
+4770,Agustín,Romero,10050702,1973-05-30,agustin.romero.4770@hotmail.com,+5493532540215,Sarmiento 5646,Mendoza,Mendoza,Cuyo,2024-02-15,activo
+4772,Julieta,Medina,77842246,1997-02-11,julieta.medina.4772@hotmail.com,+5493125861814,Sarmiento 402,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-09-17,activo
+4773,Gastón,Alvarez,43890839,1972-06-07,gaston.alvarez.4773@outlook.com,+5492332760232,Av. Colón 2262,Buenos Aires,CABA,AMBA,2024-01-17,activo
+4774,Federico,Navarro,97597007,1994-10-17,federico.navarro.4774@gmail.com,+5492378944338,Rivadavia 6767,Rosario,Santa Fe,Litoral,2023-05-06,activo
+4786,María José,Rodríguez,99026827,1990-06-24,maria.jose.rodriguez.4786@gmail.com,+5492273081303,Las Heras 5509,Córdoba,Córdoba,Centro,2023-08-28,activo
+4794,Mateo,Domínguez,59624459,1987-04-18,mateo.dominguez.4794@yahoo.com.ar,+5493432314534,Belgrano 6317,Mendoza,Mendoza,Cuyo,2025-08-12,activo
+4798,Gastón,Martínez,14988182,2004-08-29,gaston.martinez.4798@hotmail.com,+5492672673623,Las Heras 3221,Rosario,Santa Fe,Litoral,2024-02-16,activo
+4801,Juan,Giménez,71517000,1989-07-08,juan.gimenez.4801@gmail.com,+5493897838042,Mitre 9708,Tucumán,Tucumán,NOA,2023-02-24,activo
+4803,Florencia,Aguirre,35264948,2050-04-08,florencia.aguirre.4803@hotmail.com,+5493945808033,Mitre 480,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-12-31,inactivo
+4811,Agustín,Rodríguez,98383210,1982-10-01,agustin.rodriguez.4811@gmail.com,+5492679321132,Las Heras 4406,Tucumán,Tucumán,NOA,2024-04-05,activo
+4812,Santiago,Martínez,18125743,2052-06-12,santiago.martinez.4812@outlook.com,+5492317428523,Sarmiento 5423,Mar del Plata,Buenos Aires,Buenos Aires Interior,2025-08-21,activo
+4813,Martín,Navarro,34075898,2066-10-26,martin.navarro.4813@yahoo.com.ar,+5492945221593,Sarmiento 3920,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-10-07,activo
+4817,Agustín,Castro,34638539,2066-02-13,agustin.castro.4817@hotmail.com,+5493427195068,9 de Julio 1183,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-01-18,inactivo
+4823,Ana,Pérez,33863721,2064-08-07,ana.perez.4823@yahoo.com.ar,+5492203528326,Belgrano 790,Buenos Aires,CABA,AMBA,2025-02-06,activo
+4827,Mateo,Acosta,30099172,2060-12-14,mateo.acosta.4827@yahoo.com.ar,(229) 143.8805,9 de Julio 1913,Tucumán,Tucumán,NOA,2024-11-11,activo
+4828,Gabriel,López,99905467,2055-07-10,gabriel.lopez.4828@hotmail.com,+5492257435637,25 de Mayo 2672,Tucumán,Tucumán,NOA,2025-02-04,activo
+4832,Alejandro,Alvarez,91802286,1994-08-01,alejandro.alvarez.4832@yahoo.com.ar,+5492495586420,Rivadavia 3599,Mendoza,Mendoza,Cuyo,2024-10-16,activo
+4839,Gastón,Romero,91105334,1996-02-20,gaston.romero.4839@gmail.com,+5493867002156,Belgrano 4227,Rosario,Santa Fe,Litoral,2025-10-14,activo
+4842,Juan,Benítez,92987413,1998-03-10,juan.benitez.4842@yahoo.com.ar,+5493809131118,Las Heras 7597,Mendoza,Mendoza,Cuyo,2024-10-01,inactivo
+4843,Alejandro,Suárez,67438953,1972-12-09,alejandro.suarez.4843@outlook.com,+5493664502811,Av. Colón 5526,Córdoba,Córdoba,Centro,2024-07-13,activo
+4846,Lucía,Romero,22684264,2005-11-21,lucia.romero.4846@hotmail.com,+5493357631662,9 de Julio 4661,Buenos Aires,CABA,AMBA,2025-09-04,activo
+4847,Julieta,Benítez,96415781,1972-04-05,julieta.benitez.4847@outlook.com,+5493077122755,Las Heras 9562,Mendoza,Mendoza,Cuyo,2022-08-12,activo
+4850,Alejandro,Navarro,25949570,1978-03-05,alejandro.navarro.4850@outlook.com,+5493426140701,Mitre 5723,Rosario,Santa Fe,Litoral,2022-11-13,activo
+4859,Sofía,Navarro,20000008,2061-12-30,sofia.navarro.4859@outlook.com,+5492476897830,Independencia 4822,Tucumán,Tucumán,NOA,2025-08-15,activo
+4862,Camila,Ortiz,28925004,2044-05-10,camila.ortiz.4862@hotmail.com,+5493226854491,San Martín 9982,Mar del Plata,Buenos Aires,Buenos Aires Interior,2022-06-27,activo
+4863,Alejandro,Suárez,61998614,2064-09-23,alejandro.suarez.4863@outlook.com,+5493034971220,Sarmiento 2677,Mendoza,Mendoza,Cuyo,2025-05-25,activo
+4864,Laura,Acosta,97601950,1973-09-04,laura.acosta.4864@outlook.com,+5493243443799,Sarmiento 4314,Salta,Salta,NOA,2026-03-31,activo
+4867,Ana,Gutiérrez,31509907,1991-04-26,ana.gutierrez.4867@yahoo.com.ar,+5492238629180,Independencia 8628,Buenos Aires,CABA,AMBA,2023-01-06,activo
+4871,Mateo,Navarro,45803973,1973-05-06,mateo.navarro.4871@hotmail.com,+5493953159162,Sarmiento 6795,Tucumán,Tucumán,NOA,2025-08-08,activo
+4878,Ana,Suárez,44010057,2050-05-07,ana.suarez.4878@gmail.com,+5492481430037,Rivadavia 9041,Buenos Aires,CABA,AMBA,2022-02-05,activo
+4879,Martín,Alvarez,70564785,1985-02-17,martin.alvarez.4879@gmail.com,+5493698831281,Rivadavia 6269,Salta,Salta,NOA,2025-03-22,activo
+4881,Laura,Martínez,10691836,2056-04-29,laura.martinez.4881@hotmail.com,+5493446592056,Sarmiento 138,Tucumán,Tucumán,NOA,2023-02-17,activo
+4884,Daniel,Cabrera,20000009,2059-04-21,daniel.cabrera.4884@outlook.com,+5492439321511,San Martín 1039,Buenos Aires,CABA,AMBA,2025-12-13,activo
+4886,Santiago,Fernández,54538902,2056-03-22,santiago.fernandez.4886@hotmail.com,+5492513074857,Independencia 3413,Salta,Salta,NOA,2022-02-14,activo
+4889,Martín,Benítez,55117989,2044-02-10,martin.benitez.4889@yahoo.com.ar,+5492364738991,9 de Julio 7258,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-06-11,inactivo
+4893,Agustín,Ruiz,59698691,2064-05-03,agustin.ruiz.4893@hotmail.com,+5493623571273,25 de Mayo 5747,Buenos Aires,CABA,AMBA,2026-02-08,activo
+4894,Florencia,González,85615206,1979-01-26,florencia.gonzalez.4894@outlook.com,+5492795323480,Sarmiento 3014,Mendoza,Mendoza,Cuyo,2022-10-07,activo
+4899,Camila,Romero,59178156,2047-10-05,camila.romero.4899@gmail.com,+5493888884356,9 de Julio 6364,Tucumán,Tucumán,NOA,2025-03-18,activo
+4901,Sofía,González,33566065,1996-11-15,sofia.gonzalez.4901@yahoo.com.ar,+5493178267358,Av. Colón 9846,Mendoza,Mendoza,Cuyo,2025-07-08,activo
+4902,María José,Silva,71089288,2054-05-22,maria.jose.silva.4902@gmail.com,+5493691848713,San Martín 2276,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-06-02,inactivo
+4903,Diego,Cabrera,97143270,1979-04-03,diego.cabrera.4903@hotmail.com,+5492845385100,Independencia 279,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-05-01,activo
+4910,Lucía,Ruiz,20899685,2002-08-21,lucia.ruiz.4910@outlook.com,+5493295379539,Av. Colón 6659,Mendoza,Mendoza,Cuyo,2024-07-02,activo
+4916,Gastón,Cabrera,28365923,2005-10-01,gaston.cabrera.4916@hotmail.com,+5493141964138,Sarmiento 8221,Buenos Aires,CABA,AMBA,2025-10-26,activo
+4917,Carolina,Ramírez,55660444,1980-06-01,carolina.ramirez.4917@yahoo.com.ar,+5493558981913,Las Heras 2761,Rosario,Santa Fe,Litoral,2022-10-18,activo
+4918,Sofía,Benítez,93196687,1980-06-15,sofia.benitez.4918@hotmail.com,+5492028101680,Las Heras 8008,Mar del Plata,Buenos Aires,Buenos Aires Interior,2023-01-03,activo
+4919,Daniel,Ruiz,29738953,1996-06-06,daniel.ruiz.4919@outlook.com,+5493101320042,9 de Julio 9704,Salta,Salta,NOA,2024-03-07,activo
+4921,Paula,González,42748881,1993-10-11,paula.gonzalez.4921@yahoo.com.ar,+5493787240023,San Martín 3373,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-01-16,activo
+4922,Daniel,Giménez,21929005,1982-05-15,daniel.gimenez.4922@gmail.com,+5493669120197,Independencia 6303,Buenos Aires,CABA,AMBA,2026-02-13,bloqueado
+4924,Joaquín,Benítez,83923840,1973-12-05,joaquin.benitez.4924@outlook.com,+5492681861255,Rivadavia 585,Buenos Aires,CABA,AMBA,2022-07-07,activo
+4926,Nicolás,Sánchez,77566318,1981-10-15,nicolas.sanchez.4926@hotmail.com,(397) 663.5041,Las Heras 6128,Tucumán,Tucumán,NOA,2023-11-12,activo
+4933,Martín,Medina,54845419,2053-12-07,martin.medina.4933@yahoo.com.ar,+5492957879937,Mitre 1121,Córdoba,Córdoba,Centro,2025-04-16,activo
+4940,Camila,Romero,27701348,2002-10-16,camila.romero.4940@hotmail.com,+5493523184616,Mitre 7179,Rosario,Santa Fe,Litoral,2024-04-23,activo
+4943,Emilia,Acosta,10569850,2001-08-31,emilia.acosta.4943@yahoo.com.ar,+5492571282883,San Martín 736,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-04-18,activo
+4955,Carolina,Cabrera,64915950,1972-08-04,carolina.cabrera.4955@gmail.com,+5493355554841,Av. Colón 8607,Tucumán,Tucumán,NOA,2025-03-28,activo
+4963,Alejandro,Aguirre,62215868,2053-12-08,alejandro.aguirre.4963@gmail.com,+5493618652162,Sarmiento 9202,Mendoza,Mendoza,Cuyo,2024-06-17,activo
+4967,Agustín,Castro,71052345,2057-01-23,agustin.castro.4967@gmail.com,+5493553727114,Av. Colón 1257,Salta,Salta,NOA,2026-03-17,activo
+4969,Carolina,Suárez,69547714,2054-06-08,carolina.suarez.4969@gmail.com,+5493221353057,San Martín 8247,Tucumán,Tucumán,NOA,2024-08-16,activo
+4976,Julieta,Acosta,21218029,1995-10-12,julieta.acosta.4976@yahoo.com.ar,+5493188328314,25 de Mayo 9320,Mar del Plata,Buenos Aires,Buenos Aires Interior,2024-12-21,activo
+4982,Paula,Sánchez,30568817,2048-01-10,paula.sanchez.4982@yahoo.com.ar,+5492642627343,San Martín 5422,Mar del Plata,Buenos Aires,Buenos Aires Interior,2026-01-12,activo
+4991,Federico,Sánchez,83061465,1995-03-29,federico.sanchez.4991@gmail.com,+5493285087283,9 de Julio 2399,Buenos Aires,CABA,AMBA,2022-01-18,activo
+4996,Diego,Cabrera,72927730,2051-09-15,diego.cabrera.4996@gmail.com,+5492206510469,Rivadavia 7246,Buenos Aires,CABA,AMBA,2022-01-07,activo
+4997,Martín,Ramírez,76871889,1998-11-02,martin.ramirez.4997@outlook.com,+5492735645733,Las Heras 3355,Tucumán,Tucumán,NOA,2023-08-03,activo
+4999,Sofía,Gutiérrez,65186751,2049-11-15,sofia.gutierrez.4999@hotmail.com,+5492073017155,Sarmiento 289,Córdoba,Córdoba,Centro,2024-10-13,activo
+5000,Daniel,Medina,63730899,1976-01-24,daniel.medina.5000@yahoo.com.ar,+5492862384088,25 de Mayo 8960,Córdoba,Córdoba,Centro,2025-12-30,activo

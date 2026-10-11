@@ -1,0 +1,121 @@
+producto_id,nombre_producto,categoria,subcategoria,sku,costo,precio_lista,stock,stock_minimo,fecha_alta,estado
+1001,Quantum X12 Pro 256GB,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P,235498.64,299990,524,35,2022-04-22,activo
+1003,Nova S9 Ultra,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U,260290.3,349990,354,33,2023-01-11,activo
+2004,OfficeDesk i5 8GB,Computadoras,PC de Escritorio,PC-OD5,181922.56,299990,542,35,2023-02-23,activo
+3001,SoundWave Pro ANC,Audio,Auriculares Premium,AU-SWPANC,76757.99,109990,204,40,2023-09-21,activo
+4001,"VisionMax 65"" QLED 4K",TV y Video,"Smart TV 55"" o más",TV-VM65Q,392898.5,549990,149,7,2022-06-05,activo
+4004,"SmartView 32"" HD",TV y Video,"Smart TV hasta 50""",TV-SV32H,71429.09,99990,307,34,2022-11-05,discontinuado
+4005,MiniBeam 4K HDR,TV y Video,Proyectores,TV-MB4K,144666.05,239990,154,14,2022-11-10,activo
+5006,Power Bank 20000mAh,Accesorios,Cargadores y Baterías,AC-PB20,22836.08,39990,189,24,2026-03-10,activo
+7001,Quantum X12 Pro 256GB Gris Serie 001,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P-V001,218760.88,364947.48,320,37,2022-02-02,activo
+7004,Pixel Flash 5G Gris Serie 004,Smartphones y Tablets,Smartphones Gama Media,SM-PF5G-V004,154686.75,195854.75,466,13,2022-06-15,activo
+7010,OfficeDesk i5 8GB Negro Serie 010,Computadoras,PC de Escritorio,PC-OD5-V010,189212.57,300136.48,547,12,2024-10-29,activo
+7013,BeatBuds Wireless Azul Serie 013,Audio,Auriculares Premium,AU-BBWL-V013,44418.8,74065.1,396,35,2023-02-10,activo
+7026,Power Bank 20000mAh Blanco Serie 026,Accesorios,Cargadores y Baterías,AC-PB20-V026,22559.61,37729.84,402,34,2022-03-30,activo
+7027,RoboClean Pro 360° Blanco Serie 027,Electrodomésticos Smart,Robots Aspiradoras,ES-RC360-V027,141096.48,211323.54,383,26,2023-10-19,activo
+7034,Pixel Flash 5G Grafito Serie 034,Smartphones y Tablets,Smartphones Gama Media,SM-PF5G-V034,126157.13,181854.35,249,32,2022-12-07,activo
+7039,Gaming Rig RTX 4060 Gris Serie 039,,,PC-GR60-V039,457059.68,755751.94,384,36,2026-03-25,activo
+7040,OfficeDesk i5 8GB Gris Serie 040,Computadoras,PC de Escritorio,PC-OD5-V040,275895.16,376633.96,417,40,2023-09-02,activo
+7041,"AIO TouchScreen 27"" Plata Serie 041",Computadoras,All-in-One,PC-AI27-V041,375172.58,560748.75,263,15,2023-05-19,activo
+7043,BeatBuds Wireless Negro Serie 043,Audio,Auriculares Premium,AU-BBWL-V043,32154.27,54564.58,575,30,2025-08-29,activo
+7044,Boom360 20W Negro Serie 044,Audio,Parlantes Bluetooth,AU-BM360-V044,31553.68,48099.46,149,13,2026-02-02,activo
+7046,"VisionMax 65"" QLED 4K Negro Serie 046",TV y Video,"Smart TV 55"" o más",TV-VM65Q-V046,292681.37,516744.73,396,16,2024-08-25,discontinuado
+7047,"ClearView 55"" OLED Blanco Serie 047",TV y Video,"Smart TV 55"" o más",TV-CV55O-V047,410407.4,581474.88,595,28,2023-03-02,activo
+7048,"SmartView 43"" FHD Negro Serie 048",TV y Video,"Smart TV hasta 50""",TV-SV43F-V048,156898.58,242539.14,77,37,2023-08-20,activo
+7049,"SmartView 32"" HD Negro Serie 049",TV y Video,"Smart TV hasta 50""",TV-SV32H-V049,62926.43,107404.97,439,10,2023-11-03,activo
+7050,MiniBeam 4K HDR Gris Serie 050,TV y Video,Proyectores,TV-MB4K-V050,145419.94,237425.6,438,26,2025-09-12,inactivo
+7053,Hub USB-C 7 en 1 Azul Serie 053,Accesorios,Cables y Adaptadores,AC-HUC7-V053,17299.43,26235.9,533,6,2025-08-04,activo
+7055,Cargador GaN 65W Grafito Serie 055,Accesorios,Cargadores y Baterías,AC-CG65-V055,29172.22,38285.17,67,14,2025-06-11,activo
+7057,RoboClean Pro 360° Grafito Serie 057,Electrodomésticos Smart,Robots Aspiradoras,ES-RC360-V057,184646.16,234056.9,4,17,2024-12-30,activo
+7061,Quantum X12 Pro 256GB Plata Serie 061,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P-V061,197969.37,325933.28,483,6,2023-10-03,activo
+7064,Pixel Flash 5G Gris Serie 064,Smartphones y Tablets,Smartphones Gama Media,SM-PF5G-V064,169457.5,218793.34,527,7,2022-11-06,activo
+7072,SoundWave Pro ANC Negro Serie 072,Audio,Auriculares Premium,AU-SWPANC-V072,68884.65,103144.91,243,23,2022-01-13,activo
+7075,SoundBar Cine 2.1 Azul Serie 075,Audio,Barras de Sonido,AU-SBC21-V075,103792.37,147157.64,71,18,2025-09-11,activo
+7088,SecureCam 4MP WiFi Plata Serie 088,Electrodomésticos Smart,Cámaras de Seguridad,ES-SC4W-V088,44140.5,64209.03,133,16,2025-12-09,activo
+7095,"TabPro 11"" WiFi Negro Serie 095",Smartphones y Tablets,Tablets,TB-TP11W-V095,112929.8,176087.76,238,30,2023-06-18,activo
+7097,UltraBook Core i7 16GB Blanco Serie 097,Computadoras,Laptops,LT-UBI7-V097,427116.32,658436.44,107,32,2024-07-03,activo
+7102,SoundWave Pro ANC Plata Serie 102,Audio,Auriculares Premium,AU-SWPANC-V102,98263.16,125404.11,416,9,2024-03-01,activo
+7103,BeatBuds Wireless Negro Serie 103,Audio,Auriculares Premium,AU-BBWL-V103,45053.93,70370.59,168,12,2024-08-13,activo
+7108,"SmartView 43"" FHD Gris Serie 108",TV y Video,"Smart TV hasta 50""",TV-SV43F-V108,181601.4,251516.14,272,20,2025-01-06,activo
+7111,Kit Teclado+Mouse Inalámbrico Azul Serie 111,Accesorios,Periféricos,AC-KTM-V111,19790.53,32853.81,389,22,2024-09-08,activo
+7124,Pixel Flash 5G Azul Serie 124,Smartphones y Tablets,Smartphones Gama Media,SM-PF5G-V124,121835.17,216031.01,415,34,2025-06-25,activo
+7125,"TabPro 11"" WiFi Grafito Serie 125",Smartphones y Tablets,Tablets,TB-TP11W-V125,102370.39,165746.04,233,26,2023-11-02,activo
+7126,"TabSlim 8"" 4G Blanco Serie 126",Smartphones y Tablets,Tablets,TB-TS8G-V126,55181.24,87792.01,130,12,2022-10-10,discontinuado
+7144,Cable HDMI 4K 2m Azul Serie 144,Accesorios,Cables y Adaptadores,AC-CHDMI-V144,4290.08,6141,137,8,2025-05-01,activo
+7146,Power Bank 20000mAh Blanco Serie 146,Accesorios,Cargadores y Baterías,AC-PB20-V146,24333.27,41365.69,476,15,2024-04-28,activo
+7151,Quantum X12 Pro 256GB Negro Serie 151,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P-V151,284436.72,366555.15,246,22,2025-04-10,activo
+7153,Nova S9 Ultra Plata Serie 153,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U-V153,323832.83,440000.32,334,37,2023-10-05,activo
+7163,BeatBuds Wireless Blanco Serie 163,Audio,Auriculares Premium,AU-BBWL-V163,46153.66,70561.54,166,24,2024-04-29,discontinuado
+7166,"VisionMax 65"" QLED 4K Gris Serie 166",TV y Video,"Smart TV 55"" o más",TV-VM65Q-V166,414036.05,540513.44,23,34,2022-01-10,activo
+7174,Cable HDMI 4K 2m Plata Serie 174,Accesorios,Cables y Adaptadores,AC-CHDMI-V174,2875.76,4473.99,464,33,2023-11-13,activo
+7180,SecureCam Exterior 1080p Negro Serie 180,Electrodomésticos Smart,Cámaras de Seguridad,ES-SCE1-V180,78520.72,100577.94,580,6,2022-09-08,activo
+7189,Gaming Rig RTX 4060 Azul Serie 189,Computadoras,PC de Escritorio,PC-GR60-V189,511388.89,824347.7,425,39,2023-09-08,activo
+7191,"AIO TouchScreen 27"" Plata Serie 191",Computadoras,All-in-One,PC-AI27-V191,347602.72,547338.14,11,20,2024-08-31,activo
+7196,"VisionMax 65"" QLED 4K Grafito Serie 196",TV y Video,"Smart TV 55"" o más",TV-VM65Q-V196,433357.58,617405.97,260,6,2024-02-07,activo
+7198,"SmartView 43"" FHD Grafito Serie 198",TV y Video,"Smart TV hasta 50""",TV-SV43F-V198,153497.94,203786.76,340,26,2023-11-22,activo
+7200,MiniBeam 4K HDR Gris Serie 200,TV y Video,Proyectores,TV-MB4K-V200,212096.17,279226.64,279,38,2022-05-25,activo
+7202,Webcam 2K Streaming Plata Serie 202,Accesorios,Periféricos,AC-WC2K-V202,36732.77,46909.44,441,30,2023-07-26,activo
+7208,SecureCam 4MP WiFi Plata Serie 208,Electrodomésticos Smart,Cámaras de Seguridad,ES-SC4W-V208,47502.28,67297.47,172,19,2024-12-16,discontinuado
+7216,"TabSlim 8"" 4G Gris Serie 216",Smartphones y Tablets,Tablets,TB-TS8G-V216,60959.27,92172.62,179,10,2024-05-09,activo
+7218,ProBook i5 512GB SSD Plata Serie 218,Computadoras,Laptops,LT-PBI5-V218,335204.65,436525.17,135,15,2022-12-13,activo
+7219,Gaming Rig RTX 4060 Grafito Serie 219,Computadoras,PC de Escritorio,PC-GR60-V219,484284.98,801047.25,57,8,2023-07-28,activo
+7232,Webcam 2K Streaming Gris Serie 232,Accesorios,Periféricos,AC-WC2K-V232,28140.92,43532.51,557,25,2023-11-03,activo
+7236,Power Bank 20000mAh Azul Serie 236,Accesorios,Cargadores y Baterías,AC-PB20-V236,31276.59,47140.35,474,32,2025-01-23,activo
+7237,RoboClean Pro 360° Grafito Serie 237,Electrodomésticos Smart,Robots Aspiradoras,ES-RC360-V237,161901.42,229031.78,562,37,2024-04-04,activo
+7239,SmartHub Alexa Plata Serie 239,Electrodomésticos Smart,Asistentes de Voz,ES-SHA-V239,28362.4,36368.45,510,20,2023-11-03,activo
+7242,Quantum X12 128GB Azul Serie 242,Smartphones y Tablets,Smartphones Gama Media,SM-QX12-V242,170058.03,237414.4,518,16,2023-12-30,activo
+7246,"TabSlim 8"" 4G Grafito Serie 246",Smartphones y Tablets,Tablets,TB-TS8G-V246,64124.75,103911.2,48,14,2025-10-13,activo
+7248,ProBook i5 512GB SSD Plata Serie 248,Computadoras,Laptops,LT-PBI5-V248,255621.19,397178.79,292,10,2026-02-20,activo
+7249,Gaming Rig RTX 4060 Plata Serie 249,Computadoras,PC de Escritorio,PC-GR60-V249,611872.43,818360.35,486,31,2024-11-12,discontinuado
+7251,"AIO TouchScreen 27"" Blanco Serie 251",Computadoras,All-in-One,PC-AI27-V251,268916.54,478941.07,150,21,2024-01-31,activo
+7258,"SmartView 43"" FHD Gris Serie 258",TV y Video,"Smart TV hasta 50""",TV-SV43F-V258,172844.15,227410.99,51,32,2022-12-21,inactivo
+7260,MiniBeam 4K HDR Grafito Serie 260,TV y Video,Proyectores,TV-MB4K-V260,228300.32,303957.93,270,30,2023-02-16,activo
+7273,Nova S9 Ultra Blanco Serie 273,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U-V273,246574.14,336690.61,118,18,2024-10-20,activo
+7283,BeatBuds Wireless Blanco Serie 283,Audio,Auriculares Premium,AU-BBWL-V283,42003.73,64669.95,560,21,2022-06-22,activo
+7287,"ClearView 55"" OLED Negro Serie 287",TV y Video,"Smart TV 55"" o más",TV-CV55O-V287,359140.9,601974.61,392,5,2024-10-14,activo
+7291,Kit Teclado+Mouse Inalámbrico Negro Serie 291,Accesorios,Periféricos,AC-KTM-V291,20621.87,34547.94,569,36,2025-10-16,activo
+7292,Webcam 2K Streaming Azul Serie 292,Accesorios,Periféricos,AC-WC2K-V292,41577.14,54860.18,384,21,2022-02-24,activo
+7293,Hub USB-C 7 en 1 Grafito Serie 293,Accesorios,Cables y Adaptadores,AC-HUC7-V293,23187.74,31328.06,260,16,2024-02-09,activo
+7302,Quantum X12 128GB Gris Serie 302,Smartphones y Tablets,Smartphones Gama Media,SM-QX12-V302,136891.31,242209.95,340,19,2025-10-20,activo
+7303,Nova S9 Ultra Grafito Serie 303,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U-V303,292206.83,389104.74,205,32,2024-05-22,activo
+7304,Pixel Flash 5G Gris Serie 304,Smartphones y Tablets,Smartphones Gama Media,SM-PF5G-V304,111532.01,173053.42,346,37,2024-08-24,activo
+7313,BeatBuds Wireless Plata Serie 313,Audio,Auriculares Premium,AU-BBWL-V313,32488.15,56134.97,42,29,2023-05-04,activo
+7322,Webcam 2K Streaming Grafito Serie 322,Accesorios,Periféricos,AC-WC2K-V322,28373.22,44179.93,340,30,2025-01-24,activo
+7325,Cargador GaN 65W Plata Serie 325,Accesorios,Cargadores y Baterías,AC-CG65-V325,25867.65,33025,20,11,2024-07-11,activo
+7331,Quantum X12 Pro 256GB Blanco Serie 331,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P-V331,198257.72,331068.51,261,35,2022-09-07,activo
+7341,"AIO TouchScreen 27"" Gris Serie 341",Computadoras,All-in-One,PC-AI27-V341,415524.61,532649.63,70,17,2025-01-18,activo
+7347,"ClearView 55"" OLED Blanco Serie 347",TV y Video,"Smart TV 55"" o más",TV-CV55O-V347,266482.7,425903.23,13,34,2026-01-27,activo
+7355,Cargador GaN 65W Azul Serie 355,Accesorios,Cargadores y Baterías,AC-CG65-V355,24207.99,37875.16,187,35,2023-11-21,inactivo
+7356,Power Bank 20000mAh Grafito Serie 356,Accesorios,Cargadores y Baterías,AC-PB20-V356,31914.39,41631.34,187,39,2025-09-07,activo
+7358,SecureCam 4MP WiFi Negro Serie 358,Electrodomésticos Smart,Cámaras de Seguridad,ES-SC4W-V358,37196.68,62487.18,250,12,2022-02-24,activo
+7374,Boom360 20W Negro Serie 374,Audio,Parlantes Bluetooth,AU-BM360-V374,42234.14,58809.18,178,29,2026-01-15,activo
+7377,"ClearView 55"" OLED Plata Serie 377",TV y Video,"Smart TV 55"" o más",TV-CV55O-V377,295998.81,453354.96,514,11,2022-03-24,activo
+7378,"SmartView 43"" FHD Azul Serie 378",TV y Video,"Smart TV hasta 50""",TV-SV43F-V378,126812.34,218085.51,152,36,2023-08-15,inactivo
+7379,"SmartView 32"" HD Negro Serie 379",TV y Video,"Smart TV hasta 50""",TV-SV32H-V379,86126.55,118808.38,581,22,2025-12-27,activo
+7389,SmartHub Alexa Gris Serie 389,Electrodomésticos Smart,Asistentes de Voz,ES-SHA-V389,28801.14,37737.39,47,13,2023-01-23,activo
+7393,Nova S9 Ultra Azul Serie 393,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U-V393,267205.24,444306.49,326,14,2025-04-09,activo
+7396,"TabSlim 8"" 4G Gris Serie 396",Smartphones y Tablets,Tablets,TB-TS8G-V396,57344.4,87667.16,360,20,2025-05-16,activo
+7401,"AIO TouchScreen 27"" Negro Serie 401",Computadoras,All-in-One,PC-AI27-V401,241760.92,410332.02,498,29,2023-04-16,activo
+7405,SoundBar Cine 2.1 Azul Serie 405,Audio,Barras de Sonido,AU-SBC21-V405,115860.87,150661.25,433,35,2023-10-31,activo
+7408,"SmartView 43"" FHD Blanco Serie 408",TV y Video,"Smart TV hasta 50""",TV-SV43F-V408,133809.5,223686.12,231,8,2023-03-06,activo
+7409,"SmartView 32"" HD Plata Serie 409",TV y Video,"Smart TV hasta 50""",TV-SV32H-V409,63722.89,99576.89,584,31,2024-03-15,activo
+7410,MiniBeam 4K HDR Azul Serie 410,TV y Video,Proyectores,TV-MB4K-V410,153747.88,214565.36,295,7,2022-03-11,inactivo
+7413,Hub USB-C 7 en 1 Gris Serie 413,Accesorios,Cables y Adaptadores,AC-HUC7-V413,19054.2,29953.29,206,10,2024-04-08,activo
+7419,SmartHub Alexa Plata Serie 419,Electrodomésticos Smart,Asistentes de Voz,ES-SHA-V419,30247.37,46681.55,447,13,2022-09-29,activo
+7420,SecureCam Exterior 1080p Plata Serie 420,Electrodomésticos Smart,Cámaras de Seguridad,ES-SCE1-V420,65550.27,88427.65,103,7,2023-12-10,activo
+7421,Quantum X12 Pro 256GB Grafito Serie 421,Smartphones y Tablets,Smartphones Gama Alta,SM-QX12P-V421,231181.09,383322.67,170,13,2024-04-22,activo
+7425,"TabPro 11"" WiFi Blanco Serie 425",Smartphones y Tablets,Tablets,TB-TP11W-V425,100267.86,143512.91,207,27,2022-08-03,activo
+7434,Boom360 20W Blanco Serie 434,Audio,Parlantes Bluetooth,AU-BM360-V434,46611.76,60509.89,28,24,2025-02-09,activo
+7440,MiniBeam 4K HDR Gris Serie 440,TV y Video,Proyectores,TV-MB4K-V440,176141.28,285478.27,386,21,2025-06-23,activo
+7448,SecureCam 4MP WiFi Blanco Serie 448,Electrodomésticos Smart,Cámaras de Seguridad,ES-SC4W-V448,33327.66,53340.34,283,13,2024-03-12,activo
+7449,SmartHub Alexa Azul Serie 449,Electrodomésticos Smart,Asistentes de Voz,ES-SHA-V449,35446.15,48914.67,385,11,2024-08-13,activo
+7453,Nova S9 Ultra Grafito Serie 453,Smartphones y Tablets,Smartphones Gama Alta,SM-NS9U-V453,237675.29,348829.48,551,35,2023-03-11,activo
+7455,"TabPro 11"" WiFi Azul Serie 455",Smartphones y Tablets,Tablets,TB-TP11W-V455,101103.67,145114.61,329,11,2025-01-15,activo
+7457,UltraBook Core i7 16GB Azul Serie 457,Computadoras,Laptops,LT-UBI7-V457,445459.2,616074.63,425,16,2023-05-17,activo
+7460,OfficeDesk i5 8GB Gris Serie 460,Computadoras,PC de Escritorio,PC-OD5-V460,240741.07,337952.78,50,23,2022-05-01,activo
+7461,"AIO TouchScreen 27"" Negro Serie 461",Computadoras,All-in-One,PC-AI27-V461,326512.46,413858.31,352,23,2024-01-09,activo
+7462,SoundWave Pro ANC Grafito Serie 462,Audio,Auriculares Premium,AU-SWPANC-V462,88493.46,126541.3,220,39,2024-01-13,activo
+7464,Boom360 20W Negro Serie 464,Audio,Parlantes Bluetooth,AU-BM360-V464,41360.32,54524.3,183,13,2025-07-14,activo
+7465,SoundBar Cine 2.1 Negro Serie 465,Audio,Barras de Sonido,AU-SBC21-V465,114129.05,149028.25,511,27,2023-07-27,activo
+7466,"VisionMax 65"" QLED 4K Gris Serie 466",TV y Video,"Smart TV 55"" o más",TV-VM65Q-V466,393347.93,606579.41,581,5,2025-06-02,activo
+7469,"SmartView 32"" HD Negro Serie 469",TV y Video,"Smart TV hasta 50""",TV-SV32H-V469,86192.24,117518.19,579,32,2023-09-20,activo
