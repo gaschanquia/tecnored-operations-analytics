@@ -1,0 +1,3 @@
+# Archivos del sistema operativo, no forman parte del proyecto.
+# macOS los genera solo en cada carpeta.
+.DS_Store
